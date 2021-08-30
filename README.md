@@ -4,7 +4,7 @@
 
 ### ADOBE MASTER COLLECTION
 
-Download: 
+Download:
 `aHR0cHM6Ly8xZmljaGllci5jb20vP2xycHZpamt6eHE4d3FrdzkyZTY4`
 
 Includes:
