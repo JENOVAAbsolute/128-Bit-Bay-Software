@@ -4,7 +4,8 @@
 
 ### ADOBE MASTER COLLECTION
 
-Download: `aHR0cHM6Ly8xZmljaGllci5jb20vP2xycHZpamt6eHE4d3FrdzkyZTY4`
+Download: 
+`aHR0cHM6Ly8xZmljaGllci5jb20vP2xycHZpamt6eHE4d3FrdzkyZTY4`
 
 Includes:
 - Adobe Acrobat Pro DC 13/20/20074
