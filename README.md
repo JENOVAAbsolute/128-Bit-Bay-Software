@@ -2,7 +2,7 @@
 
 # ADOBE SUITE
 
-## ADOBE MASTER COLLECTION
+### ADOBE MASTER COLLECTION
 
 Download: `aHR0cHM6Ly8xZmljaGllci5jb20vP2xycHZpamt6eHE4d3FrdzkyZTY4` *(one large download)*
 
@@ -33,19 +33,19 @@ Includes:
 - Adobe CoreSync helper 4.3.71.1
 
 * * *
-## Indivisual links for the most used Adobe products
-- **ADOBE PREMIERE PRO:** [Download](aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNoZzUwcnVlcjQwZ2Rydi9BRE9CRV9QUkVNSUVSX1BST19GUkVFX2J5X09MQUguemlwL2ZpbGUg)
-- **ADOBE PHOTOSHOP:** [Download](IG1lZ2EubnovZmlsZS9mOTlrU0NCSSNxSnpXWC05SXJPYWlGbFprMk92amlKTzVncUU5WHhlNlJuV3Z5Y2JMVUE4)
-- **ADOBE ILLUSTRATOR:** [Download](aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3UvMC91Yz9pZD0xVThyX0tQU2VKQ2FISUtoWFZCOFludU1oRzVTa1FRcWQmZXhwb3J0PWRvd25sb2Fk)
-- **ADOBE AFTER EFFECTS:** [Download](aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21waGNleXUzc3VjeHl6cy9BZnRlcl9FZmZlY3RzLnJhci9maWxl) (*Password: 123*)
-- **ADOBE LIGHTROOM CC:** [Download](aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVUTNmRzhCZ1BqSFR3a3Ivdmlldz91c3A9c2hhcmluZw==)
+### Individual links for the most used Adobe products
+- **ADOBE PREMIERE PRO** Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNoZzUwcnVlcjQwZ2Rydi9BRE9CRV9QUkVNSUVSX1BST19GUkVFX2J5X09MQUguemlwL2ZpbGUg`
+- **ADOBE PHOTOSHOP** Download: `IG1lZ2EubnovZmlsZS9mOTlrU0NCSSNxSnpXWC05SXJPYWlGbFprMk92amlKTzVncUU5WHhlNlJuV3Z5Y2JMVUE4`
+- **ADOBE ILLUSTRATOR** Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3UvMC91Yz9pZD0xVThyX0tQU2VKQ2FISUtoWFZCOFludU1oRzVTa1FRcWQmZXhwb3J0PWRvd25sb2Fk`
+- **ADOBE AFTER EFFECTS** Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21waGNleXUzc3VjeHl6cy9BZnRlcl9FZmZlY3RzLnJhci9maWxl` *(Password: 123)*
+- **ADOBE LIGHTROOM CC** Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVUTNmRzhCZ1BqSFR3a3Ivdmlldz91c3A9c2hhcmluZw==`
 
 *Note: Installation instructions included in the download*
 
 
 # GAMING
 
-## POKEMON URANIUM
+### POKEMON URANIUM
 
 Features:
 * 200 pokemon and fakemon
@@ -56,14 +56,14 @@ Features:
 * Nuzlocke mode available from the start
 * Nuclear Pokemon!
 
-[Download](aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29ydHFxcTQxNXhjNTJlbC9Qb2tlbW9uX1VyYW5pdW0uN3ovZmlsZQ==)
+Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29ydHFxcTQxNXhjNTJlbC9Qb2tlbW9uX1VyYW5pdW0uN3ovZmlsZQ==`
 
 *Note: You choose your starter by answering color coded questions asked by the professor.*
 
-Official walkthrough for everything you need: [Link](https://pokemon-uranium.fandom.com/wiki/Game_Walkthrough)
+Official walkthrough for everything you need: https://pokemon-uranium.fandom.com/wiki/Game_Walkthrough
 
 * * *
-## POKEMON GAIA
+### POKEMON GAIA
 
 Features:
 * New region! Welcome to Orbtus
@@ -78,7 +78,7 @@ Features:
 *Note 2: This game is unfinished. Main story is complete. Post game is unimplemented.*
 
 * * *
-## SUPER MARIO 64 PLUS
+### SUPER MARIO 64 PLUS
 
 Enhanced version of the Super Mario 64 PC port with new features.
 
@@ -90,18 +90,18 @@ Features:
 * New abilities, like being able to slide down walls
 * And more
 
-[Download](aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRWowUUdDU1NPM2diU3FfZFY2Q1lhSHZKVjJTRmZtNEQvdmlldz91c3A9c2hhcmluZw==)
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRWowUUdDU1NPM2diU3FfZFY2Q1lhSHZKVjJTRmZtNEQvdmlldz91c3A9c2hhcmluZw==`
 
 * * *
-## SUPER MARIO 64 CO-OP
+### SUPER MARIO 64 CO-OP
 
 [Download](https://www.mediafire.com/file/iihhv4h7s6bcvrr/Stable_Co_Op_.rar/file)
 * * *
-## LAUNCHBOX PREMIUM
+### LAUNCHBOX PREMIUM
 
 The ultimate modern and retro game launcher!
   
-[Download](aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOGl2d1E2WWRUc3BJWVRnVnBPeDRTSjZyV0hrdnpST1Evdmlldz91c3A9c2hhcmluZw==)
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOGl2d1E2WWRUc3BJWVRnVnBPeDRTSjZyV0hrdnpST1Evdmlldz91c3A9c2hhcmluZw==`
 
 **Installation steps:**
 1. Run “LaunchBox-11.10-Setup.exe”
@@ -112,7 +112,7 @@ The ultimate modern and retro game launcher!
 6. Disable Auto-update
 
 * * *
-## STEAM ROM MANAGER
+### STEAM ROM MANAGER
 
 Allows you to add ROMs to your Steam library. No need to launch the emulator then the game after. This does both simultaneously by just clicking “Play” on Steam.
 
@@ -129,16 +129,16 @@ Features:
 *Note: This software looks hard to use. It’s not. If you find yourself having trouble, ping JENOVA for help.*
 
 * * *
-## ANOTHER METROID 2 REMAKE FAN GAME
+### ANOTHER METROID 2 REMAKE FAN GAME
 
 Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the game is here.
 
-[Download](aHR0cHM6Ly8xZmljaGllci5jb20vP3B1b2RtejRtZ3V0emJmaDNvYWFv)
+Download: `aHR0cHM6Ly8xZmljaGllci5jb20vP3B1b2RtejRtZ3V0emJmaDNvYWFv`
 
 
 # EDITING SOFTWARE
 
-## ARTRAGE 6
+### ARTRAGE 6
 
 A very handy application which will allow you to paint, sketch and draw in a very modern looking working environment.
  
@@ -148,7 +148,7 @@ Features:
 * Allows you to use menus to categorize all the functions
 * Import images for further processing and editing
 
-[Download](aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZxbmlnMGhxZjdxdnJwNC9BcnRSYWdlXzYuN3ovZmlsZQ==)
+Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZxbmlnMGhxZjdxdnJwNC9BcnRSYWdlXzYuN3ovZmlsZQ==`
 
 **Installation steps:**
 1. Extract the downloaded file
@@ -162,11 +162,11 @@ Features:
 9. Done
 
 * * *
-## TOPAZ GIGAPIXEL AI
+### TOPAZ GIGAPIXEL AI
 
 Enlarging your image without losing detail has always been impossible… until now. Enlarge your photos up to 600% while perfectly preserving image quality.
 
-[Download](aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSzFUMUxJWk9kWXJneXpRb042U1JMaEF3N3VrZF9Cdzcvdmlldz91c3A9c2hhcmluZw==)
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSzFUMUxJWk9kWXJneXpRb042U1JMaEF3N3VrZF9Cdzcvdmlldz91c3A9c2hhcmluZw==
 
 **Installation steps:**
 1. Extract the archive
@@ -178,7 +178,7 @@ Enlarging your image without losing detail has always been impossible… until n
 7. Click “Help” at the top, and make sure it says “0 Days Left in Trial”
 
 * * *
-## TOPAZ VIDEO ENHANCE AI
+### TOPAZ VIDEO ENHANCE AI
 
 Video Enhance AI uses the latest deep learning techniques to naturally increase video quality and detail by using temporal information.
 
@@ -188,7 +188,7 @@ Features:
 * Use deep learning to deinterlace videos while preserving image definition
 * Naturally restore old videos without adding visual artifacts
 
-[Download](aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xamlGSm1DNnVobVVoRF9abHhSd3gzUmVvd1drSmlXeDIvdmlldz91c3A9c2hhcmluZw==)
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xamlGSm1DNnVobVVoRF9abHhSd3gzUmVvd1drSmlXeDIvdmlldz91c3A9c2hhcmluZw==`
 
 **Installation steps:**
 1. Extract the archive
@@ -199,16 +199,16 @@ Features:
 6. Enhance a video, and enter a random email and password when asked
 
 * * *
-## DAVINCI RESOLVE STUDIO 2021
+### DAVINCI RESOLVE STUDIO 2021
 
-[Download](aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xaHV6OXdpa2llcjQ5emJTZWlkWWExTW5CbkU4Z3NtNmMvdmlldz91c3A9c2hhcmluZw==)
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xaHV6OXdpa2llcjQ5emJTZWlkWWExTW5CbkU4Z3NtNmMvdmlldz91c3A9c2hhcmluZw==`
 
 [Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)
 
 *Note: Installation instructions are included in the download.*
 
 * * *
-## STAXRIP VIDEO ENCODER
+### STAXRIP VIDEO ENCODER
 
 Comparable to Handbrake, but you are given much more control over the encoding quality.
 
@@ -217,14 +217,14 @@ Comparable to Handbrake, but you are given much more control over the encoding q
 
 # MISCELLANEOUS TOOLS
 
-## QBITTORRENT CLIENT
+### QBITTORRENT CLIENT
 
 qBitTorrent is our recommended torrent client. Do NOT use uTorrent or BitTorrent! It's spyware, and has been obsolete and unsafe for over a decade. If you have it, get rid of it and download qBittorrent.
 
 [Download](https://www.qbittorrent.org/download.php)
 
 * * *
-## BITLORD - TORRENT STREAMER AND DOWNLOADER
+### BITLORD - TORRENT STREAMER AND DOWNLOADER
 
 Android app that allows you to stream torrent videos as they download.
   
@@ -233,13 +233,13 @@ Android app that allows you to stream torrent videos as they download.
 *Note: Depending on your country, you’ll need a VPN for torrenting. It’s up to you to find out if your government gives a damn about stealing digital content.*
 
 * * *
-## KRISP
+### KRISP
 
 AI-powered app that removes background noise and echo for your voice chat! 
 
 [Trial download](https://www.mediafire.com/file/f2bban6q95xvou9/krisp-1-21-1.7z/file )
 
-[Crack download]Unavailable. Will re-upload asap.
+Crack download: Unavailable. Will re-upload asap.
 
 **Installation steps:** 
 1. Download the trial 
@@ -251,12 +251,12 @@ AI-powered app that removes background noise and echo for your voice chat!
 7. Profit!
 
 * * *
-## AIDA64 ENGINEER/EXTREME 6.32.5600 + KEYGEN
+### AIDA64 ENGINEER/EXTREME 6.32.5600 + KEYGEN
 
-[Download](aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3d3b2Nna25mbGxqZGRkNS9BSURBNjQrNi4zMi41NjAwK0ZpbmFsLnJhci9maWxl)
+Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3d3b2Nna25mbGxqZGRkNS9BSURBNjQrNi4zMi41NjAwK0ZpbmFsLnJhci9maWxl`
 
 * * *
-## STEAM ACHIEVEMENT MANAGER
+### STEAM ACHIEVEMENT MANAGER
 
 Easy to use tool to force unlock Steam Achievements.
 
@@ -272,7 +272,7 @@ Example uses:
 *WARNING: Valve does not care if you use this. Your Steam account will not be banned. However, a very small amount of developers might care, and they may ban you from their game's online services.*
 
 * * *
-## GEEK UNINSTALLER
+### GEEK UNINSTALLER
 
 Universal uninstaller for any program on your PC. Even allows you to uninstall default Windows applications (UWP) that cannot be uninstalled normally. Also deletes leftover files that normal uninstallers can leave behind in Program Files, Appdata, etc. 
 
@@ -281,12 +281,12 @@ Universal uninstaller for any program on your PC. Even allows you to uninstall d
 [Download](https://cdn.discordapp.com/attachments/823053450953752636/823121159612268594/geek.exe)
 
 * * *
-## MHGU SAVE EDITOR
+### MHGU SAVE EDITOR
 
 [Download](https://cdn.discordapp.com/attachments/823053450953752636/823293193923723274/MHGUSaveEditor.exe)
 
 * * *
-## WINDOWED BORDERLESS GAMING
+### WINDOWED BORDERLESS GAMING
 
 To force PC games that do not have "Borderless Windowed" by default to use this mode.
 
@@ -295,11 +295,11 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
 [Download](https://cdn.discordapp.com/attachments/823053450953752636/823120298592698418/WBG.7z)
 
 * * *
-## POWERISO
+### POWERISO
 
 Iso mounting tool.
 
-[Download](aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JreGhqMm40OGVoZjkyNy9Qb3dlcklTT183LjQuN3ovZmlsZQ==)
+Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JreGhqMm40OGVoZjkyNy9Qb3dlcklTT183LjQuN3ovZmlsZQ==`
 
 **Installation steps:**
 1. Run "PowerISO7-x64-Full" (or the other installer if you have 32x)
@@ -309,11 +309,11 @@ Iso mounting tool.
 *Note: Your antivirus might flag or delete the keygen. It's a false positive.*
 
 * * *
-## VOICEMOD PRO
+### VOICEMOD PRO
 
 Voice changer and regulator for your voice chat!
 
-[Download](aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbm94eTQ4ZkJhLTZWQ2wtV0FLX20xVXo5bG1MVm1QNUwvdmlldz91c3A9c2hhcmluZw==)
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbm94eTQ4ZkJhLTZWQ2wtV0FLX20xVXo5bG1MVm1QNUwvdmlldz91c3A9c2hhcmluZw==`
 
 **Installation steps:**
 1. Disconnect from the internet
@@ -323,7 +323,7 @@ Voice changer and regulator for your voice chat!
 5. Done
 
 * * *
-## DEFENDER CONTROL
+### DEFENDER CONTROL
 
 Disable/turn off Windows Defender when transferring files or installing pirated games at just the click of a button. 
 
@@ -335,31 +335,31 @@ Disabling Defender is also useful for installing pirated games, because it can b
   
 * * *
 
-## NINJA RIPPER
+### NINJA RIPPER
 
 [Official Site](https://www.ninjaripper.com/)
 
-[Download](aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3QydGtnYXplbjhrN3kxay9OaW5qYV9SaXBwZXJfMi4wLjNfYmV0YS5yYXIvZmlsZQ==)
+Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3QydGtnYXplbjhrN3kxay9OaW5qYV9SaXBwZXJfMi4wLjNfYmV0YS5yYXIvZmlsZQ==`
 
 * * *
-## OVR TOOLKIT
+### OVR TOOLKIT
 
 OVR Toolkit is a SteamVR Overlay utility designed to make viewing the desktop within VR easy and intuitive. OVR Toolkit allows you to display specific desktop windows, quickly select between them, use intuitive controls to navigate those windows, and use a virtual keyboard to type.
 
 [Steam page](https://store.steampowered.com/app/1068820/OVR_Toolkit/)
 
-[Download](aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xcm82a2tLU0NlQkxtSkFSeWdnYVEtT1c0X05xMTlXUU4vdmlldz91c3A9c2hhcmluZw==)
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xcm82a2tLU0NlQkxtSkFSeWdnYVEtT1c0X05xMTlXUU4vdmlldz91c3A9c2hhcmluZw==`
 
 *Note: OVR Toolkit comes pre-installed in portable mode. Just extract and run the program.*
 
 
 # DOWNLOADERS
 
-## INTERNET DOWNLOAD MANAGER
+### INTERNET DOWNLOAD MANAGER
 
 Premium alternative to jDownloader and Free Download Manager. Has great downloads speeds and is easy to use.
 
-[Download](aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzA2bzAwbndwd2t4cTZ1aS9JbnRlcm5ldF9Eb3dubG9hZF9NYW5hZ2VyLjd6L2ZpbGU=)
+Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzA2bzAwbndwd2t4cTZ1aS9JbnRlcm5ldF9Eb3dubG9hZF9NYW5hZ2VyLjd6L2ZpbGU=`
 
 **Installation steps:**
 1.  Extract the archive
@@ -381,12 +381,12 @@ Premium alternative to jDownloader and Free Download Manager. Has great download
 [Download](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
 
 * * *
-## FREEZER
+### FREEZER
 
 [Download](http://freezer.life/)
 
 * * *
-## DEEMIX
+### DEEMIX
 
 Downloads music from Deezer, A platform that provides higher bitrate than Spotify Premium
 
@@ -395,7 +395,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
 
 # WINDOWS CUSTOMIZATION
 
-## WALLPAPER ENGINE
+### WALLPAPER ENGINE
 
 Allows to you customize your desktop with animated wallpapers
 
@@ -405,12 +405,12 @@ Features:
 * Set your own intervals at which wallpapers change
 * Make your own animated wallpapers using the Engine’s built in tools.
 
-[Download](aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xYUFTZENUZm9LV2hyLXU1ZDZIeW9ybkZMVU5DWDFCMXkvdmlldz91c3A9c2hhcmluZw==)
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xYUFTZENUZm9LV2hyLXU1ZDZIeW9ybkZMVU5DWDFCMXkvdmlldz91c3A9c2hhcmluZw==`
 
 
 # MEDIA
 
-## JELLYFIN
+### JELLYFIN
 
 Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way.
 
