@@ -34,11 +34,16 @@ Includes:
 
 * * *
 ### Individual links for the most used Adobe products
-- **ADOBE PREMIERE PRO** Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNoZzUwcnVlcjQwZ2Rydi9BRE9CRV9QUkVNSUVSX1BST19GUkVFX2J5X09MQUguemlwL2ZpbGUg`
-- **ADOBE PHOTOSHOP** Download: `IG1lZ2EubnovZmlsZS9mOTlrU0NCSSNxSnpXWC05SXJPYWlGbFprMk92amlKTzVncUU5WHhlNlJuV3Z5Y2JMVUE4`
-- **ADOBE ILLUSTRATOR** Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3UvMC91Yz9pZD0xVThyX0tQU2VKQ2FISUtoWFZCOFludU1oRzVTa1FRcWQmZXhwb3J0PWRvd25sb2Fk`
-- **ADOBE AFTER EFFECTS** Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21waGNleXUzc3VjeHl6cy9BZnRlcl9FZmZlY3RzLnJhci9maWxl` *(Password: 123)*
-- **ADOBE LIGHTROOM CC** Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVUTNmRzhCZ1BqSFR3a3Ivdmlldz91c3A9c2hhcmluZw==`
+- **ADOBE PREMIERE PRO** Download: 
+- `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNoZzUwcnVlcjQwZ2Rydi9BRE9CRV9QUkVNSUVSX1BST19GUkVFX2J5X09MQUguemlwL2ZpbGUg`
+- **ADOBE PHOTOSHOP** Download: 
+- `IG1lZ2EubnovZmlsZS9mOTlrU0NCSSNxSnpXWC05SXJPYWlGbFprMk92amlKTzVncUU5WHhlNlJuV3Z5Y2JMVUE4`
+- **ADOBE ILLUSTRATOR** Download: 
+- `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3UvMC91Yz9pZD0xVThyX0tQU2VKQ2FISUtoWFZCOFludU1oRzVTa1FRcWQmZXhwb3J0PWRvd25sb2Fk`
+- **ADOBE AFTER EFFECTS** Download: 
+- `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21waGNleXUzc3VjeHl6cy9BZnRlcl9FZmZlY3RzLnJhci9maWxl` *(Password: 123)*
+- **ADOBE LIGHTROOM CC** Download: 
+- `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVUTNmRzhCZ1BqSFR3a3Ivdmlldz91c3A9c2hhcmluZw==`
 
 *Note: Installation instructions included in the download*
 
@@ -56,7 +61,8 @@ Features:
 * Nuzlocke mode available from the start
 * Nuclear Pokemon!
 
-Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29ydHFxcTQxNXhjNTJlbC9Qb2tlbW9uX1VyYW5pdW0uN3ovZmlsZQ==`
+Download: 
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29ydHFxcTQxNXhjNTJlbC9Qb2tlbW9uX1VyYW5pdW0uN3ovZmlsZQ==`
 
 *Note: You choose your starter by answering color coded questions asked by the professor.*
 
@@ -90,7 +96,8 @@ Features:
 * New abilities, like being able to slide down walls
 * And more
 
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRWowUUdDU1NPM2diU3FfZFY2Q1lhSHZKVjJTRmZtNEQvdmlldz91c3A9c2hhcmluZw==`
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRWowUUdDU1NPM2diU3FfZFY2Q1lhSHZKVjJTRmZtNEQvdmlldz91c3A9c2hhcmluZw==`
 
 * * *
 ### SUPER MARIO 64 CO-OP
@@ -101,7 +108,8 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRWowUUdDU1NPM2diU3FfZFY2Q
 
 The ultimate modern and retro game launcher!
   
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOGl2d1E2WWRUc3BJWVRnVnBPeDRTSjZyV0hrdnpST1Evdmlldz91c3A9c2hhcmluZw==`
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOGl2d1E2WWRUc3BJWVRnVnBPeDRTSjZyV0hrdnpST1Evdmlldz91c3A9c2hhcmluZw==`
 
 **Installation steps:**
 1. Run “LaunchBox-11.10-Setup.exe”
@@ -133,7 +141,8 @@ Features:
 
 Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the game is here.
 
-Download: `aHR0cHM6Ly8xZmljaGllci5jb20vP3B1b2RtejRtZ3V0emJmaDNvYWFv`
+Download: 
+`aHR0cHM6Ly8xZmljaGllci5jb20vP3B1b2RtejRtZ3V0emJmaDNvYWFv`
 
 
 # EDITING SOFTWARE
@@ -148,7 +157,8 @@ Features:
 * Allows you to use menus to categorize all the functions
 * Import images for further processing and editing
 
-Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZxbmlnMGhxZjdxdnJwNC9BcnRSYWdlXzYuN3ovZmlsZQ==`
+Download: 
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZxbmlnMGhxZjdxdnJwNC9BcnRSYWdlXzYuN3ovZmlsZQ==`
 
 **Installation steps:**
 1. Extract the downloaded file
@@ -166,7 +176,8 @@ Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZxbmlnMGhxZjdxdnJwNC9BcnRSY
 
 Enlarging your image without losing detail has always been impossible… until now. Enlarge your photos up to 600% while perfectly preserving image quality.
 
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSzFUMUxJWk9kWXJneXpRb042U1JMaEF3N3VrZF9Cdzcvdmlldz91c3A9c2hhcmluZw==
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSzFUMUxJWk9kWXJneXpRb042U1JMaEF3N3VrZF9Cdzcvdmlldz91c3A9c2hhcmluZw==
 
 **Installation steps:**
 1. Extract the archive
@@ -188,7 +199,8 @@ Features:
 * Use deep learning to deinterlace videos while preserving image definition
 * Naturally restore old videos without adding visual artifacts
 
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xamlGSm1DNnVobVVoRF9abHhSd3gzUmVvd1drSmlXeDIvdmlldz91c3A9c2hhcmluZw==`
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xamlGSm1DNnVobVVoRF9abHhSd3gzUmVvd1drSmlXeDIvdmlldz91c3A9c2hhcmluZw==`
 
 **Installation steps:**
 1. Extract the archive
@@ -201,7 +213,8 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xamlGSm1DNnVobVVoRF9abHhSd
 * * *
 ### DAVINCI RESOLVE STUDIO 2021
 
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xaHV6OXdpa2llcjQ5emJTZWlkWWExTW5CbkU4Z3NtNmMvdmlldz91c3A9c2hhcmluZw==`
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xaHV6OXdpa2llcjQ5emJTZWlkWWExTW5CbkU4Z3NtNmMvdmlldz91c3A9c2hhcmluZw==`
 
 [Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)
 
@@ -253,7 +266,8 @@ Crack download: Unavailable. Will re-upload asap.
 * * *
 ### AIDA64 ENGINEER/EXTREME 6.32.5600 + KEYGEN
 
-Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3d3b2Nna25mbGxqZGRkNS9BSURBNjQrNi4zMi41NjAwK0ZpbmFsLnJhci9maWxl`
+Download: 
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3d3b2Nna25mbGxqZGRkNS9BSURBNjQrNi4zMi41NjAwK0ZpbmFsLnJhci9maWxl`
 
 * * *
 ### STEAM ACHIEVEMENT MANAGER
@@ -299,7 +313,8 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
 
 Iso mounting tool.
 
-Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JreGhqMm40OGVoZjkyNy9Qb3dlcklTT183LjQuN3ovZmlsZQ==`
+Download: 
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JreGhqMm40OGVoZjkyNy9Qb3dlcklTT183LjQuN3ovZmlsZQ==`
 
 **Installation steps:**
 1. Run "PowerISO7-x64-Full" (or the other installer if you have 32x)
@@ -313,7 +328,8 @@ Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JreGhqMm40OGVoZjkyNy9Qb3dlc
 
 Voice changer and regulator for your voice chat!
 
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbm94eTQ4ZkJhLTZWQ2wtV0FLX20xVXo5bG1MVm1QNUwvdmlldz91c3A9c2hhcmluZw==`
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbm94eTQ4ZkJhLTZWQ2wtV0FLX20xVXo5bG1MVm1QNUwvdmlldz91c3A9c2hhcmluZw==`
 
 **Installation steps:**
 1. Disconnect from the internet
@@ -339,7 +355,8 @@ Disabling Defender is also useful for installing pirated games, because it can b
 
 [Official Site](https://www.ninjaripper.com/)
 
-Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3QydGtnYXplbjhrN3kxay9OaW5qYV9SaXBwZXJfMi4wLjNfYmV0YS5yYXIvZmlsZQ==`
+Download: 
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3QydGtnYXplbjhrN3kxay9OaW5qYV9SaXBwZXJfMi4wLjNfYmV0YS5yYXIvZmlsZQ==`
 
 * * *
 ### OVR TOOLKIT
@@ -348,7 +365,8 @@ OVR Toolkit is a SteamVR Overlay utility designed to make viewing the desktop wi
 
 [Steam page](https://store.steampowered.com/app/1068820/OVR_Toolkit/)
 
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xcm82a2tLU0NlQkxtSkFSeWdnYVEtT1c0X05xMTlXUU4vdmlldz91c3A9c2hhcmluZw==`
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xcm82a2tLU0NlQkxtSkFSeWdnYVEtT1c0X05xMTlXUU4vdmlldz91c3A9c2hhcmluZw==`
 
 *Note: OVR Toolkit comes pre-installed in portable mode. Just extract and run the program.*
 
@@ -359,7 +377,8 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xcm82a2tLU0NlQkxtSkFSeWdnY
 
 Premium alternative to jDownloader and Free Download Manager. Has great downloads speeds and is easy to use.
 
-Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzA2bzAwbndwd2t4cTZ1aS9JbnRlcm5ldF9Eb3dubG9hZF9NYW5hZ2VyLjd6L2ZpbGU=`
+Download: 
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzA2bzAwbndwd2t4cTZ1aS9JbnRlcm5ldF9Eb3dubG9hZF9NYW5hZ2VyLjd6L2ZpbGU=`
 
 **Installation steps:**
 1.  Extract the archive
@@ -405,7 +424,8 @@ Features:
 * Set your own intervals at which wallpapers change
 * Make your own animated wallpapers using the Engine’s built in tools.
 
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xYUFTZENUZm9LV2hyLXU1ZDZIeW9ybkZMVU5DWDFCMXkvdmlldz91c3A9c2hhcmluZw==`
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xYUFTZENUZm9LV2hyLXU1ZDZIeW9ybkZMVU5DWDFCMXkvdmlldz91c3A9c2hhcmluZw==`
 
 
 # MEDIA
