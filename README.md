@@ -34,15 +34,15 @@ Includes:
 
 * * *
 ### Individual links for the most used Adobe products
-- **ADOBE PREMIERE PRO** Download: 
+- **ADOBE PREMIERE PRO:**
 - `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNoZzUwcnVlcjQwZ2Rydi9BRE9CRV9QUkVNSUVSX1BST19GUkVFX2J5X09MQUguemlwL2ZpbGUg`
-- **ADOBE PHOTOSHOP** Download: 
+- **ADOBE PHOTOSHOP** 
 - `IG1lZ2EubnovZmlsZS9mOTlrU0NCSSNxSnpXWC05SXJPYWlGbFprMk92amlKTzVncUU5WHhlNlJuV3Z5Y2JMVUE4`
-- **ADOBE ILLUSTRATOR** Download: 
+- **ADOBE ILLUSTRATOR:**
 - `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3UvMC91Yz9pZD0xVThyX0tQU2VKQ2FISUtoWFZCOFludU1oRzVTa1FRcWQmZXhwb3J0PWRvd25sb2Fk`
-- **ADOBE AFTER EFFECTS** Download: 
+- **ADOBE AFTER EFFECTS:**
 - `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21waGNleXUzc3VjeHl6cy9BZnRlcl9FZmZlY3RzLnJhci9maWxl` *(Password: 123)*
-- **ADOBE LIGHTROOM CC** Download: 
+- **ADOBE LIGHTROOM CC:**
 - `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVUTNmRzhCZ1BqSFR3a3Ivdmlldz91c3A9c2hhcmluZw==`
 
 *Note: Installation instructions included in the download*
@@ -66,7 +66,8 @@ Download:
 
 *Note: You choose your starter by answering color coded questions asked by the professor.*
 
-Official walkthrough for everything you need: https://pokemon-uranium.fandom.com/wiki/Game_Walkthrough
+Official walkthrough for everything you need: 
+https://pokemon-uranium.fandom.com/wiki/Game_Walkthrough
 
 * * *
 ### POKEMON GAIA
