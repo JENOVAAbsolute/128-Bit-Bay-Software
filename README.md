@@ -360,7 +360,7 @@ Disabling Defender is also useful for installing pirated games, because it can b
 [Official Site](https://www.ninjaripper.com/)
 
 Download: 
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3QydGtnYXplbjhrN3kxay9OaW5qYV9SaXBwZXJfMi4wLjNfYmV0YS5yYXIvZmlsZQ==`
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWUVsSkQ1VHJINEF4VXFWU29OcWVGUnJoaEZZVnh3RXAvdmlldz91c3A9c2hhcmluZw==`
 
 * * *
 ### OVR TOOLKIT
