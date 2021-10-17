@@ -1,5 +1,51 @@
 # 128-Bit-Bay-Software
 
+- [128-Bit-Bay-Software](#128-bit-bay-software)
+  * [*Use the keyboard shortcut `CTRL+F` to quickly search for software. If what you want is not listed, you can request it in the Discord server.*](#-use-the-keyboard-shortcut--ctrl-f--to-quickly-search-for-software-if-what-you-want-is-not-listed--you-can-request-it-in-the-discord-server-)
+- [ADOBE SUITE](#adobe-suite)
+    + [ADOBE MASTER COLLECTION](#adobe-master-collection)
+    + [Individual links for the most used Adobe products](#individual-links-for-the-most-used-adobe-products)
+- [GAMING](#gaming)
+    + [POKEMON URANIUM](#pokemon-uranium)
+    + [POKEMON GAIA](#pokemon-gaia)
+    + [SUPER MARIO 64 PLUS](#super-mario-64-plus)
+    + [SUPER MARIO 64 CO-OP](#super-mario-64-co-op)
+    + [LAUNCHBOX PREMIUM](#launchbox-premium)
+    + [STEAM ROM MANAGER](#steam-rom-manager)
+    + [ANOTHER METROID 2 REMAKE FAN GAME](#another-metroid-2-remake-fan-game)
+- [EDITING SOFTWARE](#editing-software)
+    + [ARTRAGE 6](#artrage-6)
+    + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
+    + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
+    + [DAVINCI RESOLVE STUDIO 2021](#davinci-resolve-studio-2021)
+    + [STAXRIP VIDEO ENCODER](#staxrip-video-encoder)
+- [MISCELLANEOUS TOOLS](#miscellaneous-tools)
+    + [QBITTORRENT CLIENT](#qbittorrent-client)
+    + [BITLORD - TORRENT STREAMER AND DOWNLOADER](#bitlord---torrent-streamer-and-downloader)
+    + [KRISP](#krisp)
+    + [AIDA64 ENGINEER/EXTREME 6.32.5600 + KEYGEN](#aida64-engineer-extreme-6325600---keygen)
+    + [STEAM ACHIEVEMENT MANAGER](#steam-achievement-manager)
+    + [GEEK UNINSTALLER](#geek-uninstaller)
+    + [MHGU SAVE EDITOR](#mhgu-save-editor)
+    + [WINDOWED BORDERLESS GAMING](#windowed-borderless-gaming)
+    + [POWERISO](#poweriso)
+    + [VOICEMOD PRO](#voicemod-pro)
+    + [DEFENDER CONTROL](#defender-control)
+    + [NINJA RIPPER](#ninja-ripper)
+    + [OVR TOOLKIT](#ovr-toolkit)
+    + [O&O Defrag](#o-o-defrag)
+- [DOWNLOADERS](#downloaders)
+    + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
+    + [FREEZER](#freezer)
+    + [DEEMIX](#deemix)
+- [WINDOWS CUSTOMIZATION](#windows-customization)
+    + [WALLPAPER ENGINE](#wallpaper-engine)
+- [MEDIA](#media)
+    + [JELLYFIN](#jellyfin)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## *Use the keyboard shortcut `CTRL+F` to quickly search for software. If what you want is not listed, you can request it in the Discord server.*
 
 # ADOBE SUITE
