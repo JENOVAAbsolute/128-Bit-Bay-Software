@@ -1,5 +1,7 @@
 # 128-Bit-Bay-Software
 
+## *Use the keyboard shortcut `CTRL+F` to quickly search for software. If what you want is not listed, you can request it in the Discord server.*
+
 ### Table of Contents
 
 - [ADOBE SUITE](#adobe-suite)
@@ -43,8 +45,6 @@
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
 
-
-## *Use the keyboard shortcut `CTRL+F` to quickly search for software. If what you want is not listed, you can request it in the Discord server.*
 
 # ADOBE SUITE
 
