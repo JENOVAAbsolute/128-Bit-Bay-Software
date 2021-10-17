@@ -1,7 +1,5 @@
 # 128-Bit-Bay-Software
 
-- [128-Bit-Bay-Software](#128-bit-bay-software)
-  * [*Use the keyboard shortcut `CTRL+F` to quickly search for software. If what you want is not listed, you can request it in the Discord server.*](#-use-the-keyboard-shortcut--ctrl-f--to-quickly-search-for-software-if-what-you-want-is-not-listed--you-can-request-it-in-the-discord-server-)
 - [ADOBE SUITE](#adobe-suite)
     + [ADOBE MASTER COLLECTION](#adobe-master-collection)
     + [Individual links for the most used Adobe products](#individual-links-for-the-most-used-adobe-products)
