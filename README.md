@@ -43,8 +43,6 @@
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 ## *Use the keyboard shortcut `CTRL+F` to quickly search for software. If what you want is not listed, you can request it in the Discord server.*
 
