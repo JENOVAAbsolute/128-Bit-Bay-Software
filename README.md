@@ -29,6 +29,9 @@
 - [AUDIO SOFTWARE](#audio-software)
     + [SERATO DJ PRO](#serato-dj-pro)
     + [VOICEMOD PRO](#voicemod-pro)
+- [ART & ILLUSTRATION](#art-&-illustration)
+    + [ARTRAGE 6](#artrage-6)
+    + [CLIP STUDIO PAINT](#clip-studio-paint)
 - [MISCELLANEOUS TOOLS](#miscellaneous-tools)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
     + [KRISP](#krisp)
@@ -208,31 +211,6 @@ Download:
 
 # EDITING SOFTWARE
 
-### ARTRAGE 6
-
-A very handy application which will allow you to paint, sketch and draw in a very modern looking working environment.
- 
-Features:
-* Watercolors, oil palettes, pens and brushes
-* Easy to use interface
-* Allows you to use menus to categorize all the functions
-* Import images for further processing and editing
-
-Download: 
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZxbmlnMGhxZjdxdnJwNC9BcnRSYWdlXzYuN3ovZmlsZQ==`
-
-**Installation steps:**
-1. Extract the downloaded file
-2. Run "install_artrage_6_windows.exe"
-3. Install the program wherever you want
-4. Check the image below
-5. Copy the crack files inside the x64 or x86 folder
-6. Paste the cracked exe files into ArtRage's install folder where the original files are located
-7. Click yes to replace
-8. Launch ArtRage, and click "Cancel" when asked for updates
-9. Done
-
-* * *
 ### TOPAZ GIGAPIXEL AI
 
 Enlarging your image without losing detail has always been impossible… until now. Enlarge your photos up to 600% while perfectly preserving image quality.
@@ -292,7 +270,8 @@ Comparable to Handbrake, but you are given much more control over the encoding q
 
 ### SERATO DJ PRO
 
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3d0bzd3T3hUM2JvZk93dHlrVUZnUXBJSmRsRlJycmEvdmlldz91c3A9c2hhcmluZw==`
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3d0bzd3T3hUM2JvZk93dHlrVUZnUXBJSmRsRlJycmEvdmlldz91c3A9c2hhcmluZw==`
 
 * * *
 ### VOICEMOD PRO
@@ -308,6 +287,43 @@ Download:
 3. Install the software
 4. Copy the contents of the crack folder to the install folder of Voicemod Pro
 5. Done
+
+
+# Art & Illustration
+
+### ARTRAGE 6
+
+A very handy application which will allow you to paint, sketch and draw in a very modern looking working environment.
+ 
+Features:
+* Watercolors, oil palettes, pens and brushes
+* Easy to use interface
+* Allows you to use menus to categorize all the functions
+* Import images for further processing and editing
+
+Download: 
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZxbmlnMGhxZjdxdnJwNC9BcnRSYWdlXzYuN3ovZmlsZQ==`
+
+**Installation steps:**
+1. Extract the downloaded file
+2. Run "install_artrage_6_windows.exe"
+3. Install the program wherever you want
+4. Check the image below
+5. Copy the crack files inside the x64 or x86 folder
+6. Paste the cracked exe files into ArtRage's install folder where the original files are located
+7. Click yes to replace
+8. Launch ArtRage, and click "Cancel" when asked for updates
+9. Done
+
+* * *
+### CLIP STUDIO PAINT
+
+Clip Studio Paint is optimized for drawing and painting. The paint brushes are highly customizable and easy to use. There's a thriving community of users who constantly contribute to the online materials library. Clip Studio Paint is also ideal for illustrators who specialize in linework. The smoothness of lines, lack of lag while drawing, as well as the vector output make drawing very fun and efficient.
+
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWjBLcXRzVjRUX2h0ZkFKTVVpc2RFbHUzLW80T0F4SFcvdmlldz91c3A9c2hhcmluZw==`
+
+*Note: Installation instructions included in the readme file.*
 
 
 # MISCELLANEOUS TOOLS
