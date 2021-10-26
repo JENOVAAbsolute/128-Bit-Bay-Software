@@ -18,7 +18,7 @@
 - [EDITING SOFTWARE](#editing-software)
     + [ARTRAGE 6](#artrage-6)
     + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
-    + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
+    + [TOPAZ VIDEO ENHANCE AI 2.4.0](#topaz-video-enhance-ai-2.4.0)
     + [DAVINCI RESOLVE STUDIO 2021](#davinci-resolve-studio-2021)
     + [STAXRIP VIDEO ENCODER](#staxrip-video-encoder)
 - [MISCELLANEOUS TOOLS](#miscellaneous-tools)
@@ -244,7 +244,7 @@ Download:
 7. Click “Help” at the top, and make sure it says “0 Days Left in Trial”
 
 * * *
-### TOPAZ VIDEO ENHANCE AI
+### TOPAZ VIDEO ENHANCE AI 2.4.0
 
 Video Enhance AI uses the latest deep learning techniques to naturally increase video quality and detail by using temporal information.
 
@@ -255,7 +255,7 @@ Features:
 * Naturally restore old videos without adding visual artifacts
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xamlGSm1DNnVobVVoRF9abHhSd3gzUmVvd1drSmlXeDIvdmlldz91c3A9c2hhcmluZw==`
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbmt2c1lrWjdBMGx2bkpRYkw2Um1sVG5uM2VoWkpwbVIvdmlldz91c3A9c2hhcmluZw==`
 
 **Installation steps:**
 1. Extract the archive
