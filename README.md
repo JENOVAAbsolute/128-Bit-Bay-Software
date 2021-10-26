@@ -31,7 +31,6 @@
     + [VOICEMOD PRO](#voicemod-pro)
 - [MISCELLANEOUS TOOLS](#miscellaneous-tools)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
-    + [BITLORD - TORRENT STREAMER AND DOWNLOADER](#bitlord---torrent-streamer-and-downloader)
     + [KRISP](#krisp)
     + [AIDA64 ENGINEER/EXTREME 6.32.5600 + KEYGEN](#aida64-engineer-extreme-6325600---keygen)
     + [STEAM ACHIEVEMENT MANAGER](#steam-achievement-manager)
@@ -45,6 +44,7 @@
     + [O&O Defrag](#o-o-defrag)
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
+    + [BITLORD - TORRENT STREAMER AND DOWNLOADER](#bitlord---torrent-streamer-and-downloader)
     + [FREEZER](#freezer)
     + [DEEMIX](#deemix)
 - [WINDOWS CUSTOMIZATION](#windows-customization)
@@ -319,15 +319,6 @@ qBitTorrent is our recommended torrent client. Do NOT use uTorrent or BitTorrent
 [Download](https://www.qbittorrent.org/download.php)
 
 * * *
-### BITLORD - TORRENT STREAMER AND DOWNLOADER
-
-Android app that allows you to stream torrent videos as they download.
-  
-[Download](https://play.google.com/store/apps/details?id=com.houseoflife.bitlord)
-
-*Note: Depending on your country, you’ll need a VPN for torrenting. It’s up to you to find out if your government gives a damn about stealing digital content.*
-
-* * *
 ### KRISP
 
 AI-powered app that removes background noise and echo for your voice chat! 
@@ -481,6 +472,15 @@ Download:
 *Note: The IDM integration module should automatically install into your browsers. If it does not, then use the following link to install it manually. Also make sure it’s enabled in your browser extensions.*
 
 [Download](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
+
+* * *
+### BITLORD - TORRENT STREAMER AND DOWNLOADER
+
+Android app that allows you to stream torrent videos as they download.
+  
+[Download](https://play.google.com/store/apps/details?id=com.houseoflife.bitlord)
+
+*Note: Depending on your country, you’ll need a VPN for torrenting. It’s up to you to find out if your government gives a damn about stealing digital content.*
 
 * * *
 ### FREEZER
