@@ -21,7 +21,6 @@
     + [STEAM ROM MANAGER](#steam-rom-manager)
     + [ANOTHER METROID 2 REMAKE FAN GAME](#another-metroid-2-remake-fan-game)
 - [EDITING SOFTWARE](#editing-software)
-    + [ARTRAGE 6](#artrage-6)
     + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
     + [DAVINCI RESOLVE STUDIO 2021](#davinci-resolve-studio-2021)
