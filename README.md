@@ -6,7 +6,7 @@
 
 - [ADOBE SUITE](#adobe-suite)
     + [ADOBE MASTER COLLECTION](#adobe-master-collection)
-    + [Individual links for the most used Adobe products](#individual-links-for-the-most-used-adobe-products)
+    + [STANDALONE ADOBE PRODUCTS](#STANDALONE-ADOBE-PRODUCTS)
 - [GAMING](#gaming)
     + [POKEMON URANIUM](#pokemon-uranium)
     + [POKEMON GAIA](#pokemon-gaia)
