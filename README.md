@@ -101,6 +101,7 @@ Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21waGNleXUzc3VjeHl6cy9BZnRlc
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVUTNmRzhCZ1BqSFR3a3Ivdmlldz91c3A9c2hhcmluZw==`
 
 *Note 1: Password for Adobe After Effects is `123`*
+
 *Note 2: Installation instructions included in the download*
 
 
