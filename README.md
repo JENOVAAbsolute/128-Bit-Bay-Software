@@ -80,7 +80,7 @@ Includes:
 - Adobe CoreSync helper 4.3.71.1
 
 * * *
-### Individual links for the most used Adobe products
+### STANDALONE ADOBE PRODUCTS
 - **ADOBE MEDIA ENCODER:**
 - `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xUlBETm5mVFFuOGhyMDA1aUZqS3h3RmROUVF3azFZSWYvdmlldz91c3A9c2hhcmluZw==`
 - **ADOBE PREMIERE PRO:**
