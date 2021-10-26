@@ -28,6 +28,7 @@
     + [STAXRIP VIDEO ENCODER](#staxrip-video-encoder)
 - [AUDIO SOFTWARE](#audio-software)
     + [SERATO DJ PRO](#serato-dj-pro)
+    + [VOICEMOD PRO](#voicemod-pro)
 - [MISCELLANEOUS TOOLS](#miscellaneous-tools)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
     + [BITLORD - TORRENT STREAMER AND DOWNLOADER](#bitlord---torrent-streamer-and-downloader)
@@ -38,7 +39,6 @@
     + [MHGU SAVE EDITOR](#mhgu-save-editor)
     + [WINDOWED BORDERLESS GAMING](#windowed-borderless-gaming)
     + [POWERISO](#poweriso)
-    + [VOICEMOD PRO](#voicemod-pro)
     + [DEFENDER CONTROL](#defender-control)
     + [NINJA RIPPER](#ninja-ripper)
     + [OVR TOOLKIT](#ovr-toolkit)
@@ -294,6 +294,21 @@ Comparable to Handbrake, but you are given much more control over the encoding q
 
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3d0bzd3T3hUM2JvZk93dHlrVUZnUXBJSmRsRlJycmEvdmlldz91c3A9c2hhcmluZw==`
 
+* * *
+### VOICEMOD PRO
+
+Voice changer and regulator for your voice chat!
+
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbm94eTQ4ZkJhLTZWQ2wtV0FLX20xVXo5bG1MVm1QNUwvdmlldz91c3A9c2hhcmluZw==`
+
+**Installation steps:**
+1. Disconnect from the internet
+2. Run “VoicemodSetup.exe”
+3. Install the software
+4. Copy the contents of the crack folder to the install folder of Voicemod Pro
+5. Done
+
 
 # MISCELLANEOUS TOOLS
 
@@ -389,21 +404,6 @@ Download:
 3. Use one of serials provided
 
 *Note: Your antivirus might flag or delete the keygen. It's a false positive.*
-
-* * *
-### VOICEMOD PRO
-
-Voice changer and regulator for your voice chat!
-
-Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbm94eTQ4ZkJhLTZWQ2wtV0FLX20xVXo5bG1MVm1QNUwvdmlldz91c3A9c2hhcmluZw==`
-
-**Installation steps:**
-1. Disconnect from the internet
-2. Run “VoicemodSetup.exe”
-3. Install the software
-4. Copy the contents of the crack folder to the install folder of Voicemod Pro
-5. Done
 
 * * *
 ### DEFENDER CONTROL
