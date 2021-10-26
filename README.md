@@ -81,6 +81,8 @@ Includes:
 
 * * *
 ### Individual links for the most used Adobe products
+- **ADOBE MEDIA ENCODER:**
+- `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xUlBETm5mVFFuOGhyMDA1aUZqS3h3RmROUVF3azFZSWYvdmlldz91c3A9c2hhcmluZw==`
 - **ADOBE PREMIERE PRO:**
 - `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNoZzUwcnVlcjQwZ2Rydi9BRE9CRV9QUkVNSUVSX1BST19GUkVFX2J5X09MQUguemlwL2ZpbGUg`
 - **ADOBE PHOTOSHOP** 
