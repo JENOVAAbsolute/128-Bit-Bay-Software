@@ -269,6 +269,8 @@ Comparable to Handbrake, but you are given much more control over the encoding q
 
 ### SERATO DJ PRO
 
+[Official Site](https://serato.com/dj/pro)
+
 Download: 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3d0bzd3T3hUM2JvZk93dHlrVUZnUXBJSmRsRlJycmEvdmlldz91c3A9c2hhcmluZw==`
 
