@@ -289,7 +289,7 @@ Download:
 5. Done
 
 
-# Art & Illustration
+# ART & ILLUSTRATION
 
 ### ARTRAGE 6
 
