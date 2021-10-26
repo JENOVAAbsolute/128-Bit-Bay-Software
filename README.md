@@ -118,6 +118,9 @@ Download:
 Official walkthrough for everything you need: 
 https://pokemon-uranium.fandom.com/wiki/Game_Walkthrough
 
+Official Pokemon Uranium Discord server:
+https://discord.gg/uranium
+
 * * *
 ### POKEMON GAIA
 
