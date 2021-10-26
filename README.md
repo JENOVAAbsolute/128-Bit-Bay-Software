@@ -7,6 +7,7 @@
 - [ADOBE SUITE](#adobe-suite)
     + [ADOBE MASTER COLLECTION](#adobe-master-collection)
     + [STANDALONE ADOBE PRODUCTS](#STANDALONE-ADOBE-PRODUCTS)
+    + [ADOBE MEDIA ENCODER](#ADOBE-MEDIA-ENCODER)
 - [GAMING](#gaming)
     + [POKEMON URANIUM](#pokemon-uranium)
     + [POKEMON GAIA](#pokemon-gaia)
