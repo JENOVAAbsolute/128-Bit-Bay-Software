@@ -26,6 +26,8 @@
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
     + [DAVINCI RESOLVE STUDIO 2021](#davinci-resolve-studio-2021)
     + [STAXRIP VIDEO ENCODER](#staxrip-video-encoder)
+- [AUDIO SOFTWARE](#audio-software)
+    + [SERATO DJ PRO](#serato-dj-pro)
 - [MISCELLANEOUS TOOLS](#miscellaneous-tools)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
     + [BITLORD - TORRENT STREAMER AND DOWNLOADER](#bitlord---torrent-streamer-and-downloader)
@@ -284,6 +286,13 @@ Download:
 Comparable to Handbrake, but you are given much more control over the encoding quality.
 
 [Download](https://drive.google.com/file/d/1o4JJMjcY4Y3GOwp0_ezDIBiVoVOPhj_U/view?usp=sharing)
+
+
+# AUDIO SOFTWARE
+
+### SERATO DJ PRO
+
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3d0bzd3T3hUM2JvZk93dHlrVUZnUXBJSmRsRlJycmEvdmlldz91c3A9c2hhcmluZw==`
 
 
 # MISCELLANEOUS TOOLS
