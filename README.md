@@ -29,7 +29,7 @@
 - [AUDIO SOFTWARE](#audio-software)
     + [SERATO DJ PRO](#serato-dj-pro)
     + [VOICEMOD PRO](#voicemod-pro)
-- [ART AND ILLUSTRATION](#art-and-illustration)
+- [ARTISTS AND DESIGNERS](#artists-and-designers)
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
 - [MISCELLANEOUS TOOLS](#miscellaneous-tools)
@@ -289,7 +289,7 @@ Download:
 5. Done
 
 
-# ART AND ILLUSTRATION
+# ARTISTS AND DESIGNERS
 
 ### ARTRAGE 6
 
