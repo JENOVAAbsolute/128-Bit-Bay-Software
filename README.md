@@ -96,7 +96,7 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSEc0d3hFeHBneXVkYUZDekFQT
 ### ADOBE ILLUSTRATOR:
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3UvMC91Yz9pZD0xVThyX0tQU2VKQ2FISUtoWFZCOFludU1oRzVTa1FRcWQmZXhwb3J0PWRvd25sb2Fk`
 ### ADOBE AFTER EFFECTS:
-Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21waGNleXUzc3VjeHl6cy9BZnRlcl9FZmZlY3RzLnJhci9maWxl`
+Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21waGNleXUzc3VjeHl6cy9BZnRlcl9FZmZlY3RzLnJhci9maWxl` 
 *Note 1: Password for Adobe After Effects is `123`*
 ### ADOBE LIGHTROOM CC:
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVUTNmRzhCZ1BqSFR3a3Ivdmlldz91c3A9c2hhcmluZw==`
