@@ -34,7 +34,6 @@
     + [CLIP STUDIO PAINT](#clip-studio-paint)
 - [MISCELLANEOUS TOOLS](#miscellaneous-tools)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
-    + [KRISP](#krisp)
     + [AIDA64 ENGINEER/EXTREME 6.32.5600 + KEYGEN](#aida64-engineer-extreme-6325600---keygen)
     + [STEAM ACHIEVEMENT MANAGER](#steam-achievement-manager)
     + [GEEK UNINSTALLER](#geek-uninstaller)
@@ -337,24 +336,6 @@ Download:
 qBitTorrent is our recommended torrent client. Do NOT use uTorrent or BitTorrent! It's spyware, and has been obsolete and unsafe for over a decade. If you have it, get rid of it and download qBittorrent.
 
 [Download](https://www.qbittorrent.org/download.php)
-
-* * *
-### KRISP
-
-AI-powered app that removes background noise and echo for your voice chat! 
-
-[Trial download](https://www.mediafire.com/file/f2bban6q95xvou9/krisp-1-21-1.7z/file )
-
-Crack download: Unavailable. Will re-upload asap.
-
-**Installation steps:** 
-1. Download the trial 
-2. Install Krisp 
-3. Close with task manager after Krisp launches automatically 
-4. Download the crack
-5. Extract the crack archive into the Krisp install folder
-6. Launch Krisp and sign in with a free account 
-7. Profit!
 
 * * *
 ### AIDA64 ENGINEER/EXTREME 6.32.5600 + KEYGEN
