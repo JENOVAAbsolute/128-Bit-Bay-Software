@@ -51,6 +51,7 @@
     + [DEEMIX](#deemix)
 - [WINDOWS CUSTOMIZATION](#windows-customization)
     + [WALLPAPER ENGINE](#wallpaper-engine)
+    + [DISPLAYFUSION](#displayfusion)
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
 
@@ -510,6 +511,14 @@ Features:
 
 Download: 
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xYUFTZENUZm9LV2hyLXU1ZDZIeW9ybkZMVU5DWDFCMXkvdmlldz91c3A9c2hhcmluZw==`
+
+* * *
+### DISPLAYFUSION
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOUJFOGVFQ3l5U3RGUXg3blJVNzdsNDhsRmc0cDctSTcvdmlldz91c3A9c2hhcmluZw==`
+
+[Official Site](https://www.displayfusion.com/)
 
 
 # MEDIA
