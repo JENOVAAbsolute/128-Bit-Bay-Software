@@ -55,6 +55,7 @@
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
 
+* * *
 
 # ADOBE SUITE
 
