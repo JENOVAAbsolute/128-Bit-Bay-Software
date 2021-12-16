@@ -390,7 +390,7 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
 Iso mounting tool.
 
 Download: 
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JreGhqMm40OGVoZjkyNy9Qb3dlcklTT183LjQuN3ovZmlsZQ==`
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JvdXZlazF6OThsczR3by9Qb3dlcklTT184LjEuN3ovZmlsZQ==`
 
 **Installation steps:**
 1. Run "PowerISO8-x64-Full" (or the other installer if you have 32x)
