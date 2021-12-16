@@ -393,9 +393,9 @@ Download:
 `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JreGhqMm40OGVoZjkyNy9Qb3dlcklTT183LjQuN3ovZmlsZQ==`
 
 **Installation steps:**
-1. Run "PowerISO7-x64-Full" (or the other installer if you have 32x)
+1. Run "PowerISO8-x64-Full" (or the other installer if you have 32x)
 2. Install the program
-3. Use one of serials provided
+3. Run the keygen
 
 *Note: Your antivirus might flag or delete the keygen. It's a false positive.*
 
