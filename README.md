@@ -541,3 +541,16 @@ Jellyfin is the volunteer-built media solution that puts you in control of your 
 [Compatible Devices](https://jellyfin.org/clients/)
 
 [Download](https://jellyfin.org/downloads/)
+
+* * *
+### YouTube Vanced
+
+YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking, true amoled dark mode and a lot more. Use the handy Vanced Manager to install YouTube Vanced with ease.
+
+* Features the option of an amoled black theme to reduce eye and battery strain.
+* Blocks All videos ads and allows you to play videos in the background or in Picture in Picture.
+* Swipe controls allow you to control brightness and volume like how it is in other video player apps such as VLC or MX Player.
+* New auto repeat feature allowing you to enjoy videos like tiktoks/vines or simply continue playing a song on loop.
+
+Download:
+`https://drive.google.com/file/d/1WXNKRsZJ8ZOLLxyW6gslGOAdy-AH3A4R/view?usp=sharing`
