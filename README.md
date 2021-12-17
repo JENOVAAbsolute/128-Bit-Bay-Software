@@ -54,6 +54,7 @@
     + [DISPLAYFUSION](#displayfusion)
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
+    + [YOUTUBE VANCED](#youtube-vanced)
 
 * * *
 
