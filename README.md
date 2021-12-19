@@ -13,6 +13,7 @@
     + [ADOBE AFTER EFFECTS](#ADOBE-AFTER-EFFECTS)
     + [ADOBE LIGHTROOM CC](#ADOBE-LIGHTROOM-CC)
     + [ADOBE AUDITION](#ADOBE-AUDITION)
+    + [ADOBE INDESIGN](#ADOBE-INDESIGN)
 - [GAMING](#gaming)
     + [POKEMON URANIUM](#pokemon-uranium)
     + [POKEMON GAIA](#pokemon-gaia)
@@ -106,6 +107,8 @@ Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21waGNleXUzc3VjeHl6cy9BZnRlc
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVUTNmRzhCZ1BqSFR3a3Ivdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE AUDITION
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVy1hRlJteHowUVhTYjV2XzlZbFVNZ0pQQWZwaFVqLV8vdmlldz91c3A9c2hhcmluZw==`
+### ADOBE INDESIGN
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xY29uYzBEeWVObnBSZi1ub2g4VW1vRWtEejdTZ0tVSjMvdmlldz91c3A9c2hhcmluZw==`
 
 *Note 1: Password for Adobe After Effects is `123`*
 
