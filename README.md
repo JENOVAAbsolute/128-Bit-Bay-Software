@@ -291,11 +291,13 @@ Download:
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbm94eTQ4ZkJhLTZWQ2wtV0FLX20xVXo5bG1MVm1QNUwvdmlldz91c3A9c2hhcmluZw==`
 
 **Installation steps:**
-1. Disconnect from the internet
-2. Run “VoicemodSetup.exe”
-3. Install the software
+1. Run “VoicemodSetup.exe”
+2. Install the software
+3. Disconnect from the internet
 4. Copy the contents of the crack folder to the install folder of Voicemod Pro
 5. Done
+
+*Note: Launch the software while disconnected from the internet, then reconnect to access the Pro voices.*
 
 
 # ARTISTS AND DESIGNERS
