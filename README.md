@@ -492,11 +492,6 @@ Android app that allows you to stream torrent videos as they download.
 *Note: Depending on your country, you’ll need a VPN for torrenting. It’s up to you to find out if your government gives a damn about stealing digital content.*
 
 * * *
-### FREEZER
-
-[Download](http://freezer.life/)
-
-* * *
 ### DEEMIX
 
 Downloads music from Deezer, A platform that provides higher bitrate than Spotify Premium
