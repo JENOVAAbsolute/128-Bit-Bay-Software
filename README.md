@@ -14,6 +14,7 @@
     + [ADOBE LIGHTROOM CC](#ADOBE-LIGHTROOM-CC)
     + [ADOBE AUDITION](#ADOBE-AUDITION)
     + [ADOBE INDESIGN](#ADOBE-INDESIGN)
+    + [ADOBE FRESCO](#ADOBE-FRESCO)
 - [GAMING](#gaming)
     + [POKEMON URANIUM](#pokemon-uranium)
     + [POKEMON GAIA](#pokemon-gaia)
@@ -109,6 +110,8 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVU
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVy1hRlJteHowUVhTYjV2XzlZbFVNZ0pQQWZwaFVqLV8vdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE INDESIGN
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xY29uYzBEeWVObnBSZi1ub2g4VW1vRWtEejdTZ0tVSjMvdmlldz91c3A9c2hhcmluZw==`
+### ADOBE FRESCO
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xci1ia3J2ZFFEVVZkYkVoakIxSm1TSmp5ZzItYzlHcGMvdmlldz91c3A9c2hhcmluZw==`
 
 *Note 1: Password for Adobe After Effects is `123`*
 
