@@ -464,7 +464,7 @@ Download:
 Premium alternative to jDownloader and Free Download Manager. Has great downloads speeds and is easy to use.
 
 Download: 
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzA2bzAwbndwd2t4cTZ1aS9JbnRlcm5ldF9Eb3dubG9hZF9NYW5hZ2VyLjd6L2ZpbGU=`
+`aHR0cHM6Ly93d3c2Ny56aXBweXNoYXJlLmNvbS92L1U5bTExb0c3L2ZpbGUuaHRtbAo=`
 
 **Installation steps:**
 1.  Extract the archive
