@@ -49,7 +49,6 @@
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [BITLORD - TORRENT STREAMER AND DOWNLOADER](#bitlord---torrent-streamer-and-downloader)
-    + [FREEZER](#freezer)
     + [DEEMIX](#deemix)
 - [WINDOWS CUSTOMIZATION](#windows-customization)
     + [WALLPAPER ENGINE](#wallpaper-engine)
