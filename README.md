@@ -56,7 +56,7 @@
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
     + [YOUTUBE VANCED](#youtube-vanced)
-- [MEDIA](#teaching-&-schooling)
+- [TEACHING AND SCHOOLING](#teaching-and-schooling)
     + [INFINITE ALGEBRA 1](#infinite-algebra-1)
 
 * * *
