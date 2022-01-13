@@ -56,6 +56,8 @@
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
     + [YOUTUBE VANCED](#youtube-vanced)
+- [MEDIA](#teaching-&-schooling)
+    + [INFINITE ALGEBRA 1](#infinite-algebra-1)
 
 * * *
 
@@ -557,3 +559,13 @@ YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking
 
 Download:
 `https://drive.google.com/file/d/1WXNKRsZJ8ZOLLxyW6gslGOAdy-AH3A4R/view?usp=sharing`
+
+
+# TEACHING & SCHOOLING
+
+### INFINITE ALGEBRA 1
+
+[Website](http://www.kutasoftware.com/ia1.html)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZnlzdWRzOGFPZVlrVHBhQ2Rpb3NhUktBRmtUYl9jRGMvdmlldz91c3A9c2hhcmluZw==`
