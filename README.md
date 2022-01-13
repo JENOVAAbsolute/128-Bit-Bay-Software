@@ -58,6 +58,7 @@
     + [YOUTUBE VANCED](#youtube-vanced)
 - [TEACHING AND SCHOOLING](#teaching-and-schooling)
     + [INFINITE ALGEBRA 1](#infinite-algebra-1)
+    + [INFINITE ALGEBRA 2](#infinite-algebra-2)
 
 * * *
 
@@ -569,3 +570,12 @@ Download:
 
 Download:
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZnlzdWRzOGFPZVlrVHBhQ2Rpb3NhUktBRmtUYl9jRGMvdmlldz91c3A9c2hhcmluZw==`
+
+* * *
+
+### INFINITE ALGEBRA 2
+
+[Website](http://www.kutasoftware.com/ia2.html)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRGpDVGFCN0tHYVFubHljdWpRRUl2WVNybWVuaUExV0Mvdmlldz91c3A9c2hhcmluZw==`
