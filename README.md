@@ -561,7 +561,7 @@ Download:
 `https://drive.google.com/file/d/1WXNKRsZJ8ZOLLxyW6gslGOAdy-AH3A4R/view?usp=sharing`
 
 
-# TEACHING & SCHOOLING
+# TEACHING AND SCHOOLING
 
 ### INFINITE ALGEBRA 1
 
