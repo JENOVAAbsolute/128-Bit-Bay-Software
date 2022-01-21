@@ -476,13 +476,6 @@ Download:
 4.  Close IDM Completely with Task Manager
 5.  Open the crack folder and run “Patch.exe”
 6.  Click “Patch”, then close the patcher when it’s done
-7.  Open the Readme document and copy the key
-8.  Launch IDM
-9.  Click “Help”, then “About IDM”
-10. Click “Registration” in the new window, then put in a fake name and email
-11. Paste the key you copied into the serial number box, then click “OK”
-12. Relaunch IDM, then click “Help”, and “About IDM” again
-13. It should say the product is now licensed
 
 *Note: The IDM integration module should automatically install into your browsers. If it does not, then use the following link to install it manually. Also make sure it’s enabled in your browser extensions.*
 
