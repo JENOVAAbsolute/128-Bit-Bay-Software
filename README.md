@@ -15,6 +15,7 @@
     + [ADOBE AUDITION](#ADOBE-AUDITION)
     + [ADOBE INDESIGN](#ADOBE-INDESIGN)
     + [ADOBE FRESCO](#ADOBE-FRESCO)
+    + [ADOBE ACROBAT PRO DC](#ADOBE-ACROBAT-PRO-DC)
 - [GAMING](#gaming)
     + [POKEMON URANIUM](#pokemon-uranium)
     + [POKEMON GAIA](#pokemon-gaia)
@@ -115,6 +116,8 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVy1hRlJteHowUVhTYjV2XzlZb
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xY29uYzBEeWVObnBSZi1ub2g4VW1vRWtEejdTZ0tVSjMvdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE FRESCO
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xci1ia3J2ZFFEVVZkYkVoakIxSm1TSmp5ZzItYzlHcGMvdmlldz91c3A9c2hhcmluZw==`
+### ADOBE ACROBAT PRO DC
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xNU5BYl9HOWgxY19SRVJjZnI2UUlKb3ZOM0lGWUJpZGgvdmlldz91c3A9c2hhcmluZw==`
 
 *Note 1: Password for Adobe After Effects is `123`*
 
