@@ -36,7 +36,6 @@
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
 - [MISCELLANEOUS TOOLS](#miscellaneous-tools)
-    + [QBITTORRENT CLIENT](#qbittorrent-client)
     + [AIDA64 ENGINEER/EXTREME 6.32.5600 + KEYGEN](#aida64-engineer-extreme-6325600---keygen)
     + [STEAM ACHIEVEMENT MANAGER](#steam-achievement-manager)
     + [GEEK UNINSTALLER](#geek-uninstaller)
@@ -49,6 +48,7 @@
     + [O&O Defrag](#o-o-defrag)
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
+    + [QBITTORRENT CLIENT](#qbittorrent-client)
     + [BITLORD - TORRENT STREAMER AND DOWNLOADER](#bitlord---torrent-streamer-and-downloader)
     + [DEEMIX](#deemix)
 - [WINDOWS CUSTOMIZATION](#windows-customization)
@@ -348,13 +348,6 @@ Download:
 
 # MISCELLANEOUS TOOLS
 
-### QBITTORRENT CLIENT
-
-qBitTorrent is our recommended torrent client. Do NOT use uTorrent or BitTorrent! It's spyware, and has been obsolete and unsafe for over a decade. If you have it, get rid of it and download qBittorrent.
-
-[Download](https://www.qbittorrent.org/download.php)
-
-* * *
 ### AIDA64 ENGINEER/EXTREME 6.32.5600 + KEYGEN
 
 Download: 
@@ -483,6 +476,13 @@ Download:
 *Note: The IDM integration module should automatically install into your browsers. If it does not, then use the following link to install it manually. Also make sure it’s enabled in your browser extensions.*
 
 [Download](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
+
+* * *
+### QBITTORRENT CLIENT
+
+qBitTorrent is our recommended torrent client. Do NOT use uTorrent or BitTorrent! It's spyware, and has been obsolete and unsafe for over a decade. If you have it, get rid of it and download qBittorrent.
+
+[Download](https://www.qbittorrent.org/download.php)
 
 * * *
 ### BITLORD - TORRENT STREAMER AND DOWNLOADER
