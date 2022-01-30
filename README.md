@@ -105,7 +105,7 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVk9nOUhDaGJ2UHR5QmxiLXUzN
 ### ADOBE PHOTOSHOP
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xLVlIbGdCTUhRUG1oMnZ4NEd5V2JFZTc4OERRQjJwMzMvdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE ILLUSTRATOR
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL3UvMC91Yz9pZD0xVThyX0tQU2VKQ2FISUtoWFZCOFludU1oRzVTa1FRcWQmZXhwb3J0PWRvd25sb2Fk`
+Download: Temporarily down as of 5:39am UTC. Will be back and updated within 24 hours
 ### ADOBE AFTER EFFECTS
 Download: `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21waGNleXUzc3VjeHl6cy9BZnRlcl9FZmZlY3RzLnJhci9maWxl` 
 ### ADOBE LIGHTROOM CC
