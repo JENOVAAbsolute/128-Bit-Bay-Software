@@ -588,7 +588,7 @@ Download:
 * * *
 ### INFINITE CALCULUS
 
-[Website](http://www.kutasoftware.com/ic.html)
+[Website](http://www.kutasoftware.com/ica.html)
 
 Download:
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xb2YzOUpoMVJzV2ZGUUx4OGlXQnM4LWpGbGtfc0FMaFIvdmlldz91c3A9c2hhcmluZw==`
