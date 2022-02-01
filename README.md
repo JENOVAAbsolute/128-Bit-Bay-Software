@@ -61,6 +61,7 @@
     + [INFINITE ALGEBRA 1](#infinite-algebra-1)
     + [INFINITE ALGEBRA 2](#infinite-algebra-2)
     + [INFINITE PRECALCULUS](#infinite-precalculus)
+    + [INFINITE CALCULUS](#infinite-calculus)
 
 * * *
 
@@ -583,3 +584,11 @@ Download:
 
 Download:
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOC1ra2F1YWpJMTNwd093cElSVU1jYjRYWGhUM1oxcWUvdmlldz91c3A9c2hhcmluZw==`
+
+* * *
+### INFINITE CALCULUS
+
+[Website](http://www.kutasoftware.com/ic.html)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xb2YzOUpoMVJzV2ZGUUx4OGlXQnM4LWpGbGtfc0FMaFIvdmlldz91c3A9c2hhcmluZw==`
