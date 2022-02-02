@@ -62,6 +62,7 @@
     + [INFINITE ALGEBRA 2](#infinite-algebra-2)
     + [INFINITE PRECALCULUS](#infinite-precalculus)
     + [INFINITE CALCULUS](#infinite-calculus)
+    + [INFINITE GEOMETRY](#infinite-geometry)
 
 * * *
 
