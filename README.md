@@ -592,3 +592,11 @@ Download:
 
 Download:
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xb2YzOUpoMVJzV2ZGUUx4OGlXQnM4LWpGbGtfc0FMaFIvdmlldz91c3A9c2hhcmluZw==`
+
+* * *
+### INFINITE GEOMETRY
+
+[Website](https://www.kutasoftware.com/ige.html)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM01aQk5kQmZmRk5WWlZMa1BfRGYxX2FwQTVCczRfOTYvdmlldz91c3A9c2hhcmluZw==`
