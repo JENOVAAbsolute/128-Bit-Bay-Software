@@ -32,6 +32,7 @@
 - [AUDIO SOFTWARE](#audio-software)
     + [SERATO DJ PRO](#serato-dj-pro)
     + [VOICEMOD PRO](#voicemod-pro)
+    + [SPECTRASONICS KEYSCAPE](#spectrasonics-keyscape)
 - [ARTISTS AND DESIGNERS](#artists-and-designers)
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
@@ -311,7 +312,7 @@ Download:
 *Note: Launch the software while disconnected from the internet, then reconnect to access the Pro voices.*
 
 * * *
-### Spectrasonics Keyscape
+### SPECTRASONICS KEYSCAPE
 
 Keyscape is an extraordinary virtual instrument featuring the largest selection of collector keyboards in the world. From “holy grail” pianos to stunning keyboards you didn’t even know existed, this is a keyboardist’s dream come true.
 
