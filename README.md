@@ -310,6 +310,18 @@ Download:
 
 *Note: Launch the software while disconnected from the internet, then reconnect to access the Pro voices.*
 
+* * *
+### Spectrasonics Keyscape
+
+Keyscape is an extraordinary virtual instrument featuring the largest selection of collector keyboards in the world. From “holy grail” pianos to stunning keyboards you didn’t even know existed, this is a keyboardist’s dream come true.
+
+[Official Site](https://www.spectrasonics.net/products/keyscape/)
+
+Download:
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V5ZHBqcDBtcnhiN3Fzbi9TcGVjdHJhc29uaWNzX0tleXNjYXBlX3YxLjMuMWMuN3ovZmlsZQ==`
+
+*Note: Installation instructions are included in the download*
+
 
 # ARTISTS AND DESIGNERS
 
