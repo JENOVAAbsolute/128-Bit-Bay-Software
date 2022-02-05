@@ -64,7 +64,7 @@
     + [INFINITE PRECALCULUS](#infinite-precalculus)
     + [INFINITE CALCULUS](#infinite-calculus)
     + [INFINITE GEOMETRY](#infinite-geometry)
-- [SOFTWARE DEVELOPMENT](#software-development)
+- [PROGRAMMING](#programming)
     + [JETBRAINS RIDER](#jetbrains-rider)
 
 * * *
@@ -618,7 +618,7 @@ Download:
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM01aQk5kQmZmRk5WWlZMa1BfRGYxX2FwQTVCczRfOTYvdmlldz91c3A9c2hhcmluZw==`
 
 
-# SOFTWARE DEVELOPMENT
+# PROGRAMMING
 
 ### JETBRAINS RIDER
 
