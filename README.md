@@ -64,6 +64,8 @@
     + [INFINITE PRECALCULUS](#infinite-precalculus)
     + [INFINITE CALCULUS](#infinite-calculus)
     + [INFINITE GEOMETRY](#infinite-geometry)
+- [SOFTWARE DEVELOPMENT](#software-development)
+    + [JETBRAINS RIDER](#jetbrains-rider)
 
 * * *
 
@@ -614,3 +616,16 @@ Download:
 
 Download:
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM01aQk5kQmZmRk5WWlZMa1BfRGYxX2FwQTVCczRfOTYvdmlldz91c3A9c2hhcmluZw==`
+
+
+# SOFTWARE DEVELOPMENT
+
+### JETBRAINS RIDER
+
+JetBrains Rider is a cross-platform .NET IDE based on the IntelliJ platform and ReSharper.
+
+Rider helps you develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, or Linux. It provides rich editing support and code insight for languages used in .NET development, from C#, VB.NET and F# to ASP.NET Razor syntax, JavaScript, TypeScript, XAML, XML, HTML, CSS, SCSS, JSON, and SQL.
+
+[Website](https://www.jetbrains.com/rider/)
+
+Download: COMING SOON!
