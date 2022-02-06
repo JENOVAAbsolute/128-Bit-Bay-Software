@@ -628,4 +628,5 @@ Rider helps you develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications 
 
 [Website](https://www.jetbrains.com/rider/)
 
-Download: COMING SOON!
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xdWpsVVFRUXJlNTJhcG14WFVHYWxWNEU5ZzZ2Y3BSRWkvdmlldz91c3A9c2hhcmluZw==`
