@@ -154,21 +154,6 @@ Official Pokemon Uranium Discord server:
 https://discord.gg/uranium
 
 * * *
-### POKEMON GAIA
-
-Features:
-* New region! Welcome to Orbtus
-* Pokemon from Generations 1-6
-* Fairy-type and a new type chart
-* Mega Evolution
-* Some new original soundtracks
-
-[Download](https://cdn.discordapp.com/attachments/823053450953752636/827078645164015636/Pokemon_Gaia.7z)
-
-*Note 1: This is a ROM hack. Not a fan game. Load it up on your preferred GBA emulator.*
-*Note 2: This game is unfinished. Main story is complete. Post game is unimplemented.*
-
-* * *
 ### SUPER MARIO 64 PLUS
 
 Enhanced version of the Super Mario 64 PC port with new features.
