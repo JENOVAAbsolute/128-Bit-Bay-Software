@@ -24,6 +24,7 @@
     + [ANOTHER METROID 2 REMAKE FAN GAME](#another-metroid-2-remake-fan-game)
     + [LAUNCHBOX PREMIUM](#launchbox-premium)
     + [STEAM ROM MANAGER](#steam-rom-manager)
+    + [REWASD](#rewasd)
 - [EDITING SOFTWARE](#editing-software)
     + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
@@ -215,6 +216,16 @@ Features:
 * Automatically sorts your games on Steam alphabetically
 
 *Note: This software looks hard to use. It’s not. If you find yourself having trouble, ping JENOVA for help.*
+
+* * *
+### REWASD
+
+A truly powerful gamepad mapper that allows you to remap a controller to keyboard and mouse, reassign with Xbox Elite Paddles, and turn your ordinary joystick in a turbo & macro controller.
+
+[Official Site](https://www.rewasd.com/)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTUFfOUNGNzhQNDZGTjhGeHRwV0dQZm8wczBEbkwzZngvdmlldz91c3A9c2hhcmluZw==`
 
 
 # EDITING SOFTWARE
