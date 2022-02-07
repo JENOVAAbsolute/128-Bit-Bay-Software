@@ -21,9 +21,9 @@
     + [POKEMON GAIA](#pokemon-gaia)
     + [SUPER MARIO 64 PLUS](#super-mario-64-plus)
     + [SUPER MARIO 64 CO-OP](#super-mario-64-co-op)
+    + [ANOTHER METROID 2 REMAKE FAN GAME](#another-metroid-2-remake-fan-game)
     + [LAUNCHBOX PREMIUM](#launchbox-premium)
     + [STEAM ROM MANAGER](#steam-rom-manager)
-    + [ANOTHER METROID 2 REMAKE FAN GAME](#another-metroid-2-remake-fan-game)
 - [EDITING SOFTWARE](#editing-software)
     + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
@@ -174,6 +174,15 @@ Download:
 ### SUPER MARIO 64 CO-OP
 
 [Download](https://www.mediafire.com/file/iihhv4h7s6bcvrr/Stable_Co_Op_.rar/file)
+
+* * *
+### ANOTHER METROID 2 REMAKE FAN GAME
+
+Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the game is here.
+
+Download: 
+`aHR0cHM6Ly8xZmljaGllci5jb20vP3B1b2RtejRtZ3V0emJmaDNvYWFv`
+
 * * *
 ### LAUNCHBOX PREMIUM
 
@@ -206,14 +215,6 @@ Features:
 * Automatically sorts your games on Steam alphabetically
 
 *Note: This software looks hard to use. It’s not. If you find yourself having trouble, ping JENOVA for help.*
-
-* * *
-### ANOTHER METROID 2 REMAKE FAN GAME
-
-Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the game is here.
-
-Download: 
-`aHR0cHM6Ly8xZmljaGllci5jb20vP3B1b2RtejRtZ3V0emJmaDNvYWFv`
 
 
 # EDITING SOFTWARE
