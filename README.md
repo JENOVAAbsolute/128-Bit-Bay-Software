@@ -6,16 +6,17 @@
 
 - [ADOBE SUITE](#adobe-suite)
     + [ADOBE MASTER COLLECTION](#adobe-master-collection)
-    + [ADOBE MEDIA ENCODER](#ADOBE-MEDIA-ENCODER)
-    + [ADOBE PREMIERE PRO](#ADOBE-PREMIERE-PRO)
-    + [ADOBE PHOTOSHOP](#ADOBE-PHOTOSHOP)
-    + [ADOBE ILLUSTRATOR](#ADOBE-ILLUSTRATOR)
-    + [ADOBE AFTER EFFECTS](#ADOBE-AFTER-EFFECTS)
-    + [ADOBE LIGHTROOM CC](#ADOBE-LIGHTROOM-CC)
-    + [ADOBE AUDITION](#ADOBE-AUDITION)
-    + [ADOBE INDESIGN](#ADOBE-INDESIGN)
-    + [ADOBE FRESCO](#ADOBE-FRESCO)
-    + [ADOBE ACROBAT PRO DC](#ADOBE-ACROBAT-PRO-DC)
+    + [ADOBE MEDIA ENCODER](#adobe-media-encoder)
+    + [ADOBE PREMIERE PRO](#adobe-premiere-pro)
+    + [ADOBE PHOTOSHOP](#adobe-photoshop)
+    + [ADOBE ILLUSTRATOR](#adobe-illustrator)
+    + [ADOBE AFTER EFFECTS](#adobe-after-effects)
+    + [ADOBE LIGHTROOM CC](#adobe-lightroom-cc)
+    + [ADOBE AUDITION](#adobe-audition)
+    + [ADOBE INDESIGN](#adobe-indesign)
+    + [ADOBE FRESCO](#adobe-fresco)
+    + [ADOBE ACROBAT PRO DC](#adobe-acrobat-pro-dc)
+    + [ADOBE PHOTOSHOP LIGHTROOM](#adobe-photoshop-lightroom)
 - [GAMING](#gaming)
     + [POKEMON URANIUM](#pokemon-uranium)
     + [POKEMON GAIA](#pokemon-gaia)
@@ -125,6 +126,8 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xY29uYzBEeWVObnBSZi1ub2g4V
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xci1ia3J2ZFFEVVZkYkVoakIxSm1TSmp5ZzItYzlHcGMvdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE ACROBAT PRO DC
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xNU5BYl9HOWgxY19SRVJjZnI2UUlKb3ZOM0lGWUJpZGgvdmlldz91c3A9c2hhcmluZw==`
+### ADOBE PHOTOSHOP LIGHTROOM
+Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRWtnbVV2Q05Ld2pYcUJIakhvVzZRN2N3b2Ric05KeTQvdmlldz91c3A9c2hhcmluZw==`
 
 *Note 1: Password for Adobe After Effects is `123`*
 
