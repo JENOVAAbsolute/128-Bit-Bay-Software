@@ -44,7 +44,6 @@
 - [ARTISTS AND DESIGNERS](#artists-and-designers)
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
-- [MISCELLANEOUS TOOLS](#miscellaneous-tools)
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
