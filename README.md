@@ -25,7 +25,12 @@
     + [ANOTHER METROID 2 REMAKE FAN GAME](#another-metroid-2-remake-fan-game)
     + [LAUNCHBOX PREMIUM](#launchbox-premium)
     + [STEAM ROM MANAGER](#steam-rom-manager)
+    + [STEAM ACHIEVEMENT MANAGER](#steam-achievement-manager)
     + [REWASD](#rewasd)
+    + [WINDOWED BORDERLESS GAMING](#windowed-borderless-gaming)
+    + [OVR TOOLKIT](#ovr-toolkit)
+    + [NINJA RIPPER](#ninja-ripper)
+    + [MHGU SAVE EDITOR](#mhgu-save-editor)
 - [EDITING SOFTWARE](#editing-software)
     + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
@@ -40,15 +45,6 @@
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
 - [MISCELLANEOUS TOOLS](#miscellaneous-tools)
-    + [STEAM ACHIEVEMENT MANAGER](#steam-achievement-manager)
-    + [GEEK UNINSTALLER](#geek-uninstaller)
-    + [MHGU SAVE EDITOR](#mhgu-save-editor)
-    + [WINDOWED BORDERLESS GAMING](#windowed-borderless-gaming)
-    + [POWERISO](#poweriso)
-    + [DEFENDER CONTROL](#defender-control)
-    + [NINJA RIPPER](#ninja-ripper)
-    + [OVR TOOLKIT](#ovr-toolkit)
-    + [O&O Defrag](#o-o-defrag)
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
@@ -57,9 +53,15 @@
 - [WINDOWS CUSTOMIZATION](#windows-customization)
     + [WALLPAPER ENGINE](#wallpaper-engine)
     + [DISPLAYFUSION](#displayfusion)
+- [SYSTEM MANAGEMENT](#system-management)
+    + [O&O Defrag](#o-o-defrag)
+    + [AIDA64](#aida64)
+    + [GEEK UNINSTALLER](#geek-uninstaller)
+    + [DEFENDER CONTROL](#defender-control)
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
     + [YOUTUBE VANCED](#youtube-vanced)
+    + [POWERISO](#poweriso)
 - [TEACHING AND SCHOOLING](#teaching-and-schooling)
     + [INFINITE ALGEBRA 1](#infinite-algebra-1)
     + [INFINITE ALGEBRA 2](#infinite-algebra-2)
@@ -220,6 +222,22 @@ Features:
 *Note: This software looks hard to use. It’s not. If you find yourself having trouble, ping JENOVA for help.*
 
 * * *
+### STEAM ACHIEVEMENT MANAGER
+
+Easy to use tool to force unlock Steam Achievements.
+
+Example uses:
+*  Achievements you can't get due to bugs or glitches 
+*  Online achievements when the game has shut down its multiplayer service, like Tomb Raider 
+*  Achievements requiring tools you don't have, such as VR, etc
+*  A game with mod support disabling achievements
+* Or maybe you're just a lazy bum 
+
+[Download](https://cdn.discordapp.com/attachments/823053450953752636/825945200509452298/Steam_Achievement_Manager.7z)
+
+*WARNING: Valve does not care if you use this. Your Steam account will not be banned. However, a very small amount of developers might care, and they may ban you from their game's online services.*
+
+* * *
 ### REWASD
 
 A truly powerful gamepad mapper that allows you to remap a controller to keyboard and mouse, reassign with Xbox Elite Paddles, and turn your ordinary joystick in a turbo & macro controller.
@@ -228,6 +246,40 @@ A truly powerful gamepad mapper that allows you to remap a controller to keyboar
 
 Download:
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTUFfOUNGNzhQNDZGTjhGeHRwV0dQZm8wczBEbkwzZngvdmlldz91c3A9c2hhcmluZw==`
+
+* * *
+### WINDOWED BORDERLESS GAMING
+
+To force PC games that do not have "Borderless Windowed" by default to use this mode.
+
+*Note: I do not know if this works for emulators. This is intended for PC games. Instructions inside.*
+
+[Download](https://cdn.discordapp.com/attachments/823053450953752636/823120298592698418/WBG.7z)
+
+* * *
+### OVR TOOLKIT
+
+OVR Toolkit is a SteamVR Overlay utility designed to make viewing the desktop within VR easy and intuitive. OVR Toolkit allows you to display specific desktop windows, quickly select between them, use intuitive controls to navigate those windows, and use a virtual keyboard to type.
+
+[Steam page](https://store.steampowered.com/app/1068820/OVR_Toolkit/)
+
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xcm82a2tLU0NlQkxtSkFSeWdnYVEtT1c0X05xMTlXUU4vdmlldz91c3A9c2hhcmluZw==`
+
+*Note: OVR Toolkit comes pre-installed in portable mode. Just extract and run the program.*
+
+* * *
+### NINJA RIPPER
+
+[Official Site](https://www.ninjaripper.com/)
+
+Download: 
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWUVsSkQ1VHJINEF4VXFWU29OcWVGUnJoaEZZVnh3RXAvdmlldz91c3A9c2hhcmluZw==`
+
+* * *
+### MHGU SAVE EDITOR
+
+[Download](https://drive.google.com/file/d/1GcyGuGiB9KguaZm6UfESpAxZw66b-cJV/view?usp=sharing)
 
 
 # EDITING SOFTWARE
@@ -375,110 +427,6 @@ Download:
 *Note: Installation instructions included in the readme file.*
 
 
-# MISCELLANEOUS TOOLS
-
-### STEAM ACHIEVEMENT MANAGER
-
-Easy to use tool to force unlock Steam Achievements.
-
-Example uses:
-*  Achievements you can't get due to bugs or glitches 
-*  Online achievements when the game has shut down its multiplayer service, like Tomb Raider 
-*  Achievements requiring tools you don't have, such as VR, etc
-*  A game with mod support disabling achievements
-* Or maybe you're just a lazy bum 
-
-[Download](https://cdn.discordapp.com/attachments/823053450953752636/825945200509452298/Steam_Achievement_Manager.7z)
-
-*WARNING: Valve does not care if you use this. Your Steam account will not be banned. However, a very small amount of developers might care, and they may ban you from their game's online services.*
-
-* * *
-### GEEK UNINSTALLER
-
-Universal uninstaller for any program on your PC. Even allows you to uninstall default Windows applications (UWP) that cannot be uninstalled normally. Also deletes leftover files that normal uninstallers can leave behind in Program Files, Appdata, etc. 
-
-*WARNING! If you don't know what it is, do not uninstall it with Geek! Important applications your PC needs can appear in this program*
-
-[Download](https://cdn.discordapp.com/attachments/823053450953752636/823121159612268594/geek.exe)
-
-* * *
-### MHGU SAVE EDITOR
-
-[Download](https://cdn.discordapp.com/attachments/823053450953752636/823293193923723274/MHGUSaveEditor.exe)
-
-* * *
-### WINDOWED BORDERLESS GAMING
-
-To force PC games that do not have "Borderless Windowed" by default to use this mode.
-
-*Note: I do not know if this works for emulators. This is intended for PC games. Instructions inside.*
-
-[Download](https://cdn.discordapp.com/attachments/823053450953752636/823120298592698418/WBG.7z)
-
-* * *
-### POWERISO
-
-Iso mounting tool.
-
-Download: 
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JvdXZlazF6OThsczR3by9Qb3dlcklTT184LjEuN3ovZmlsZQ==`
-
-**Installation steps:**
-1. Run "PowerISO8-x64-Full" (or the other installer if you have 32x)
-2. Install the program
-3. Run the keygen
-
-*Note: Your antivirus might flag or delete the keygen. It's a false positive.*
-
-* * *
-### DEFENDER CONTROL
-
-Disable/turn off Windows Defender when transferring files or installing pirated games at just the click of a button. 
-
-Disabling antivirus makes file transfers faster, as Defender will not scan files during the transfer process.
-
-Disabling Defender is also useful for installing pirated games, because it can block installers from properly applying cracks. This leads to pirated games that don’t work.
-
-[Download](https://www.sordum.org/9480/defender-control-v1-9/)
-  
-* * *
-
-### NINJA RIPPER
-
-[Official Site](https://www.ninjaripper.com/)
-
-Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWUVsSkQ1VHJINEF4VXFWU29OcWVGUnJoaEZZVnh3RXAvdmlldz91c3A9c2hhcmluZw==`
-
-* * *
-### OVR TOOLKIT
-
-OVR Toolkit is a SteamVR Overlay utility designed to make viewing the desktop within VR easy and intuitive. OVR Toolkit allows you to display specific desktop windows, quickly select between them, use intuitive controls to navigate those windows, and use a virtual keyboard to type.
-
-[Steam page](https://store.steampowered.com/app/1068820/OVR_Toolkit/)
-
-Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xcm82a2tLU0NlQkxtSkFSeWdnYVEtT1c0X05xMTlXUU4vdmlldz91c3A9c2hhcmluZw==`
-
-*Note: OVR Toolkit comes pre-installed in portable mode. Just extract and run the program.*
-
-* * *
-### O&O Defrag
-
-[Official Site](https://www.oo-software.com/en/products/oodefrag)
-
-Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTTNQTC1ybXBKUTg5cDN6LUdkeG0wM0EtMFhacFg4Nzkvdmlldz91c3A9c2hhcmluZw==`
-
-**Installation steps:**
-1. Extract the archive
-2. Install whichever version you prefer
-3. Run the keygen
-4. Done
-
-*Note: Keygens are almost always going to trigger your antivirus. It's a false positive. Disable your AV or make an exception so it does not delete the keygen.*
-
-
 # DOWNLOADERS
 
 ### INTERNET DOWNLOAD MANAGER
@@ -556,6 +504,52 @@ Download:
 [Official Site](https://www.displayfusion.com/)
 
 
+# SYSTEM MANAGEMENT
+
+### O&O Defrag
+
+[Official Site](https://www.oo-software.com/en/products/oodefrag)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTTNQTC1ybXBKUTg5cDN6LUdkeG0wM0EtMFhacFg4Nzkvdmlldz91c3A9c2hhcmluZw==`
+
+**Installation steps:**
+1. Extract the archive
+2. Install whichever version you prefer
+3. Run the keygen
+4. Done
+
+*Note: Keygens are almost always going to trigger your antivirus. It's a false positive. Disable your AV or make an exception so it does not delete the keygen.*
+
+* * *
+### AIDA64
+
+[Official Site](https://www.aida64.com/)
+
+Download:
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3h0NjZybGx1ODQ2djk0OC9BSURBNjQuN3ovZmlsZQ==`
+
+* * *
+### GEEK UNINSTALLER
+
+Universal uninstaller for any program on your PC. Even allows you to uninstall default Windows applications (UWP) that cannot be uninstalled normally. It also deletes leftover files that normal uninstallers can leave behind.
+
+*WARNING! If you don't know what it is, do not uninstall it with Geek! Important applications your PC needs can appear in this program*
+
+[Download](https://drive.google.com/file/d/1C6JIUTE1MElrCAfdinlo6FxTPi12POFh/view?usp=sharing)
+
+* * *
+### DEFENDER CONTROL
+
+Disable/turn off Windows Defender when transferring files or installing pirated games at just the click of a button. 
+
+Disabling antivirus makes file transfers faster, as Defender will not scan files during the transfer process.
+
+Disabling Defender is also useful for installing pirated games, because it can block installers from properly applying cracks. This leads to pirated games that don’t work.
+
+[Download](https://www.sordum.org/9480/defender-control-v1-9/)
+
+
 # MEDIA
 
 ### JELLYFIN
@@ -580,6 +574,21 @@ YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking
 
 Download:
 `https://drive.google.com/file/d/1WXNKRsZJ8ZOLLxyW6gslGOAdy-AH3A4R/view?usp=sharing`
+
+* * *
+### POWERISO
+
+Iso mounting tool.
+
+Download: 
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JvdXZlazF6OThsczR3by9Qb3dlcklTT184LjEuN3ovZmlsZQ==`
+
+**Installation steps:**
+1. Run "PowerISO8-x64-Full" (or the other installer if you have 32x)
+2. Install the program
+3. Run the keygen
+
+*Note: Your antivirus might flag or delete the keygen. It's a false positive.*
 
 
 # TEACHING AND SCHOOLING
