@@ -41,9 +41,10 @@
     + [VOICEMOD PRO](#voicemod-pro)
     + [SPECTRASONICS KEYSCAPE](#spectrasonics-keyscape)
     + [ABLETON LIVE SUITE](#ableton-live-suite)
-- [ARTISTS AND DESIGNERS](#artists-and-designers)
+- [ARTS AND DESIGNS](#arts-and-designs)
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
+    + [WONDERSHARE EDRAWMIND PRO](#wondershare-edrawmind-pro)
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
@@ -385,7 +386,7 @@ Download:
 *Note: Installation Instructions are included in the download.*
 
 
-# ARTISTS AND DESIGNERS
+# ARTS AND DESIGNS
 
 ### ARTRAGE 6
 
@@ -420,6 +421,16 @@ Download:
 `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWjBLcXRzVjRUX2h0ZkFKTVVpc2RFbHUzLW80T0F4SFcvdmlldz91c3A9c2hhcmluZw==`
 
 *Note: Installation instructions included in the readme file.*
+
+* * *
+### WONDERSHARE EDRAWMIND PRO
+
+A collaborative mind mapping, brainstorming, and outlining tool for product managers.
+
+[Official Site](https://www.edrawmind.com/)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRHFDU3F6MW1BWkRIWHhULWdUTVhQU2xyU3d0QWZMbHYvdmlldz91c3A9c2hhcmluZw==`
 
 
 # DOWNLOADERS
