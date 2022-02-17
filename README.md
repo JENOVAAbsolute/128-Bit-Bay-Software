@@ -48,7 +48,7 @@
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
-    + [BITLORD - TORRENT STREAMER AND DOWNLOADER](#bitlord---torrent-streamer-and-downloader)
+    + [BITLORD](#bitlord)
     + [DEEMIX](#deemix)
 - [WINDOWS CUSTOMIZATION](#windows-customization)
     + [WALLPAPER ENGINE](#wallpaper-engine)
@@ -430,7 +430,7 @@ A collaborative mind mapping, brainstorming, and outlining tool for product mana
 [Official Site](https://www.edrawmind.com/)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRHFDU3F6MW1BWkRIWHhULWdUTVhQU2xyU3d0QWZMbHYvdmlldz91c3A9c2hhcmluZw==`
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2g3Z21pbGtkZDZ6djZxNy9Xb25kZXJzaGFyZV9FZHJhd01pbmRfUHJvXzkuMC4xMC5yYXIvZmlsZQ==`
 
 
 # DOWNLOADERS
@@ -462,7 +462,7 @@ qBitTorrent is our recommended torrent client. Do NOT use uTorrent or BitTorrent
 [Download](https://www.qbittorrent.org/download.php)
 
 * * *
-### BITLORD - TORRENT STREAMER AND DOWNLOADER
+### BITLORD
 
 Android app that allows you to stream torrent videos as they download.
   
