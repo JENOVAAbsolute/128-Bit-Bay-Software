@@ -57,6 +57,7 @@
     + [O&O Defrag](#o-o-defrag)
     + [AIDA64](#aida64)
     + [GEEK UNINSTALLER](#geek-uninstaller)
+    + [REVO UNINSTALLER PRO](#revo-uninstaller-pro)
     + [DEFENDER CONTROL](#defender-control)
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
@@ -543,6 +544,14 @@ Universal uninstaller for any program on your PC. Even allows you to uninstall d
 *WARNING! If you don't know what it is, do not uninstall it with Geek! Important applications your PC needs can appear in this program*
 
 [Download](https://drive.google.com/file/d/1C6JIUTE1MElrCAfdinlo6FxTPi12POFh/view?usp=sharing)
+
+* * *
+### REVO UNINSTALLER PRO
+
+[Official Site](https://www.revouninstaller.com/)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTVJ4ck8yUFdVaXJBb3dOeXZOMnppUGRReXFoa1ROVmUvdmlldz91c3A9c2hhcmluZw==`
 
 * * *
 ### DEFENDER CONTROL
