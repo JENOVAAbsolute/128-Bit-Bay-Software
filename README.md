@@ -119,7 +119,7 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVDJyc0pSVVc0NTZqbDhMNmFFV
 ### ADOBE AFTER EFFECTS
 Download: `aHR0cHM6Ly9tZWdhdXAubmV0LzFJcHg4L0Fkb2JlX0FmdGVyX0VmZmVjdHNfMjAyMl92MjIuMi4wLjEyMC43eg==`
 
-*NOTE: Hosted on MegaUp. You WILL need uBlock Origin, and filters to bypass MegaUp forcing you to disable uBlock.*
+*NOTE: Hosted on MegaUp. You MUST have uBlock Origin, and filters to bypass MegaUp forcing you to disable uBlock.*
 ### ADOBE LIGHTROOM CC
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVUTNmRzhCZ1BqSFR3a3Ivdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE AUDITION
