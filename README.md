@@ -53,6 +53,7 @@
 - [WINDOWS CUSTOMIZATION](#windows-customization)
     + [WALLPAPER ENGINE](#wallpaper-engine)
     + [DISPLAYFUSION](#displayfusion)
+    + [STARDOCK CURTAINS](#stardock-curtains)
 - [SYSTEM MANAGEMENT](#system-management)
     + [O&O Defrag](#o-o-defrag)
     + [AIDA64](#aida64)
@@ -499,6 +500,8 @@ Download:
 * * *
 ### DISPLAYFUSION
 
+[Official Site](https://www.displayfusion.com/)
+
 Download:
 `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzUyZnhhZnI0Z2t3ZTVtaC9EaXNwbGF5RnVzaW9uX1Byb185Ljd6L2ZpbGU=`
 
@@ -510,7 +513,13 @@ Download:
 
 *Note: Keygens are almost always going to trigger your antivirus. It's a false positive. Disable your AV or make an exception so it does not delete the keygen.*
 
-[Official Site](https://www.displayfusion.com/)
+* * *
+### STARDOCK CURTAINS
+
+[Official Site](https://www.stardock.com/products/curtains/)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xajFhQ0ZReGhDSkh5QTE1TGlxUDBKcVhPX2pXM1BnNVovdmlldz91c3A9c2hhcmluZw==`
 
 
 # SYSTEM MANAGEMENT
