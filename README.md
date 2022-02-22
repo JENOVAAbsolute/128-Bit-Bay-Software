@@ -53,7 +53,6 @@
 - [WINDOWS CUSTOMIZATION](#windows-customization)
     + [WALLPAPER ENGINE](#wallpaper-engine)
     + [DISPLAYFUSION](#displayfusion)
-    + [STARDOCK CURTAINS](#stardock-curtains)
 - [SYSTEM MANAGEMENT](#system-management)
     + [O&O Defrag](#o-o-defrag)
     + [AIDA64](#aida64)
@@ -512,14 +511,6 @@ Download:
 4.  Run the "crd_kg.exe" to apply the crack.
 
 *Note: Keygens are almost always going to trigger your antivirus. It's a false positive. Disable your AV or make an exception so it does not delete the keygen.*
-
-* * *
-### STARDOCK CURTAINS
-
-[Official Site](https://www.stardock.com/products/curtains/)
-
-Download:
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzU0MHA5cjFobmdkeHQ3aC9TdGFyZG9ja19DdXJ0YWluc18xLjE5LjEuN3ovZmlsZQ==`
 
 
 # SYSTEM MANAGEMENT
