@@ -45,6 +45,7 @@
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
     + [WONDERSHARE EDRAWMIND PRO](#wondershare-edrawmind-pro)
+    + [SKETCHUP PRO](#sketchup-pro)
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
@@ -434,6 +435,14 @@ A collaborative mind mapping, brainstorming, and outlining tool for product mana
 
 Download:
 `aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2g3Z21pbGtkZDZ6djZxNy9Xb25kZXJzaGFyZV9FZHJhd01pbmRfUHJvXzkuMC4xMC5yYXIvZmlsZQ==`
+
+* * *
+### SKETCHUP PRO
+
+[Official Site](https://www.sketchup.com/products/sketchup-pro)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOVRCWl91RFdRZTE3aTVRR2VoejZuVS0zQ0RiVHE1a1Ivdmlldz91c3A9c2hhcmluZw==`
 
 
 # DOWNLOADERS
