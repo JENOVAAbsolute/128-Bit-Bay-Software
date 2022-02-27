@@ -35,6 +35,7 @@
     + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
     + [DAVINCI RESOLVE STUDIO 2021](#davinci-resolve-studio-2021)
+    + [FILMORA 9](#filmora-9)
     + [STAXRIP VIDEO ENCODER](#staxrip-video-encoder)
 - [AUDIO SOFTWARE](#audio-software)
     + [SERATO DJ PRO](#serato-dj-pro)
@@ -330,6 +331,14 @@ Download:
 [Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)
 
 *Note: Installation instructions are included in the download.*
+
+* * *
+### FILMORA 9
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xdWhrTTFaZThlMVBfSm0yNzhDSTNRSUdWeFVBLTB6TlQvdmlldz91c3A9c2hhcmluZw==`
+
+[Website](https://filmora.wondershare.com/)
 
 * * *
 ### STAXRIP VIDEO ENCODER
