@@ -35,7 +35,7 @@
     + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
     + [DAVINCI RESOLVE STUDIO 2021](#davinci-resolve-studio-2021)
-    + [VEGAS Pro](#vegas-pro)
+    + [VEGAS PRO](#vegas-pro)
     + [FILMORA 9](#filmora-9)
     + [STAXRIP VIDEO ENCODER](#staxrip-video-encoder)
 - [AUDIO SOFTWARE](#audio-software)
