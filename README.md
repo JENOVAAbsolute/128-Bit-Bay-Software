@@ -35,6 +35,7 @@
     + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
     + [DAVINCI RESOLVE STUDIO 2021](#davinci-resolve-studio-2021)
+    + [VEGAS Pro](#vegas-pro)
     + [FILMORA 9](#filmora-9)
     + [STAXRIP VIDEO ENCODER](#staxrip-video-encoder)
 - [AUDIO SOFTWARE](#audio-software)
@@ -331,6 +332,14 @@ Download:
 [Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)
 
 *Note: Installation instructions are included in the download.*
+
+* * *
+### VEGAS PRO
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRFpESG5ZLXN0akNkNDRZVVdtM3RMWWZiZkc3SG9oZ3Evdmlldz91c3A9c2hhcmluZw==`
+
+[Website](https://www.vegascreativesoftware.com/us/vegas-pro/)
 
 * * *
 ### FILMORA 9
