@@ -53,6 +53,7 @@
     + [QBITTORRENT CLIENT](#qbittorrent-client)
     + [BITLORD](#bitlord)
     + [DEEMIX](#deemix)
+    + [AUDIALS ONE](#audials-one)
 - [WINDOWS CUSTOMIZATION](#windows-customization)
     + [WALLPAPER ENGINE](#wallpaper-engine)
     + [DISPLAYFUSION](#displayfusion)
@@ -506,6 +507,16 @@ Android app that allows you to stream torrent videos as they download.
 Downloads music from Deezer, A platform that provides higher bitrate than Spotify Premium
 
 [Download](https://www.reddit.com/r/deemix/comments/hmrhhs/download_links/)
+
+* * *
+### AUDIALS ONE
+
+Record movies, series and television from streams. Save your favorite songs from any music streaming service.
+
+[Official Site](https://audials.com/en/audials-one)
+
+Download:
+`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQlVYZTdtcUJLakM1OHZRMV9wVGhVSl8xeGgxNVYxd3Avdmlldz91c3A9c2hhcmluZw==`
 
 
 # WINDOWS CUSTOMIZATION
