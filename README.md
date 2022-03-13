@@ -626,8 +626,7 @@ YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking
 * Swipe controls allow you to control brightness and volume like how it is in other video player apps such as VLC or MX Player.
 * New auto repeat feature allowing you to enjoy videos like tiktoks/vines or simply continue playing a song on loop.
 
-Download:
-`https://drive.google.com/file/d/1WXNKRsZJ8ZOLLxyW6gslGOAdy-AH3A4R/view?usp=sharing`
+[Download](https://drive.google.com/file/d/1WXNKRsZJ8ZOLLxyW6gslGOAdy-AH3A4R/view?usp=sharing)
 
 * * *
 ### POWERISO
