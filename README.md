@@ -19,7 +19,6 @@
     + [ADOBE PHOTOSHOP LIGHTROOM](#adobe-photoshop-lightroom)
 - [GAMING](#gaming)
     + [POKEMON URANIUM](#pokemon-uranium)
-    + [POKEMON GAIA](#pokemon-gaia)
     + [SUPER MARIO 64 PLUS](#super-mario-64-plus)
     + [SUPER MARIO 64 CO-OP](#super-mario-64-co-op)
     + [ANOTHER METROID 2 REMAKE FAN GAME](#another-metroid-2-remake-fan-game)
