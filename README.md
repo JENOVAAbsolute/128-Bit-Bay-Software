@@ -120,9 +120,7 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xLVlIbGdCTUhRUG1oMnZ4NEd5V
 ### ADOBE ILLUSTRATOR
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVDJyc0pSVVc0NTZqbDhMNmFFV1dzdlBudFloanpmMlAvdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE AFTER EFFECTS
-Download: TEMPORARILY DOWN
-
-*NOTE: Hosted on MegaUp. You MUST have uBlock Origin, and filters to bypass MegaUp forcing you to disable uBlock.*
+Download: `aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyLzVCRDMyOUFCM0QuaHRtbA==`
 ### ADOBE LIGHTROOM CC
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWmtlZXpCandCTU5CM2VlOHhVUTNmRzhCZ1BqSFR3a3Ivdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE AUDITION
