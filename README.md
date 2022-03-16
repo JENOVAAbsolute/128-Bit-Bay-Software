@@ -403,7 +403,7 @@ Ableton Live is a fast, fluid and flexible software for music creation and perfo
 [Official Site](https://www.ableton.com/en/live/)
 
 Download:
-TEMPORARILY DOWN
+`aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyLzIyOUY4MkRBRTIuaHRtbA==`
 
 *Note: Installation Instructions are included in the download.*
 
