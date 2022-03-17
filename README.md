@@ -232,7 +232,7 @@ Example uses:
 *  A game with mod support disabling achievements
 * Or maybe you're just a lazy bum 
 
-[Download](https://cdn.discordapp.com/attachments/823053450953752636/825945200509452298/Steam_Achievement_Manager.7z)
+[Download](https://www.mediafire.com/file/7959hmvrrsju1ez/Steam_Achievement_Manager.7z/file)
 
 *WARNING: Valve does not care if you use this. Your Steam account will not be banned. However, a very small amount of developers might care, and they may ban you from their game's online services.*
 
@@ -253,7 +253,7 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
 
 *Note: I do not know if this works for emulators. This is intended for PC games. Instructions inside.*
 
-[Download](https://cdn.discordapp.com/attachments/823053450953752636/823120298592698418/WBG.7z)
+[Download](https://www.mediafire.com/file/tqxklcoisekjeod/WBG.7z/file)
 
 * * *
 ### OVR TOOLKIT
@@ -457,7 +457,7 @@ Download:
 [Official Site](https://www.sketchup.com/products/sketchup-pro)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOVRCWl91RFdRZTE3aTVRR2VoejZuVS0zQ0RiVHE1a1Ivdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/A24F1B558C.html`
 
 
 # DOWNLOADERS
