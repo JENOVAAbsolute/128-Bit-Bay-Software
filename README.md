@@ -25,7 +25,6 @@
     + [LAUNCHBOX PREMIUM](#launchbox-premium)
     + [STEAM ROM MANAGER](#steam-rom-manager)
     + [STEAM ACHIEVEMENT MANAGER](#steam-achievement-manager)
-    + [FPS MONITOR](#fps-monitor)
     + [REWASD](#rewasd)
     + [WINDOWED BORDERLESS GAMING](#windowed-borderless-gaming)
     + [OVR TOOLKIT](#ovr-toolkit)
