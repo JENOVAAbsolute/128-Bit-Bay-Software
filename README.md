@@ -325,7 +325,7 @@ Download:
 ### DAVINCI RESOLVE STUDIO 2021
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xaHV6OXdpa2llcjQ5emJTZWlkWWExTW5CbkU4Z3NtNmMvdmlldz91c3A9c2hhcmluZw==`
+`aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyL0U5OThDMUU5NTkuaHRtbA==`
 
 [Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)
 
