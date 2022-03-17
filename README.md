@@ -132,7 +132,7 @@ Download: `https://filecrypt.cc/Container/D4C3EC0BC1.html`
 ### ADOBE ACROBAT PRO DC
 Download: `https://filecrypt.cc/Container/5751E6F4EB.html`
 ### ADOBE PHOTOSHOP LIGHTROOM
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRWtnbVV2Q05Ld2pYcUJIakhvVzZRN2N3b2Ric05KeTQvdmlldz91c3A9c2hhcmluZw==`
+Download: `https://filecrypt.cc/Container/A55FFE53F9.html`
 
 
 # GAMING
