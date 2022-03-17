@@ -334,7 +334,7 @@ Download:
 ### VEGAS PRO
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRFpESG5ZLXN0akNkNDRZVVdtM3RMWWZiZkc3SG9oZ3Evdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/638C9D16EF.html`
 
 [Website](https://www.vegascreativesoftware.com/us/vegas-pro/)
 
