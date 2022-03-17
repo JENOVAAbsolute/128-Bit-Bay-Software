@@ -186,7 +186,7 @@ Download:
 Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the game is here.
 
 Download: 
-`aHR0cHM6Ly8xZmljaGllci5jb20vP3B1b2RtejRtZ3V0emJmaDNvYWFv`
+`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3Nyb2F6azNjZWYyb2x5bC9Bbm90aGVyX01ldHJvaWRfMl9SZW1ha2UuN3ovZmlsZQ==`
 
 * * *
 ### LAUNCHBOX PREMIUM
