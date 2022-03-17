@@ -528,7 +528,7 @@ Features:
 * Make your own animated wallpapers using the Engine’s built in tools.
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xYUFTZENUZm9LV2hyLXU1ZDZIeW9ybkZMVU5DWDFCMXkvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/7912CECD54.html`
 
 * * *
 ### DISPLAYFUSION
@@ -623,7 +623,8 @@ YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking
 * Swipe controls allow you to control brightness and volume like how it is in other video player apps such as VLC or MX Player.
 * New auto repeat feature allowing you to enjoy videos like tiktoks/vines or simply continue playing a song on loop.
 
-[Download](https://drive.google.com/file/d/1WXNKRsZJ8ZOLLxyW6gslGOAdy-AH3A4R/view?usp=sharing)
+Download:
+`https://filecrypt.cc/Container/E7F9D4A503.html`
 
 * * *
 ### POWERISO
