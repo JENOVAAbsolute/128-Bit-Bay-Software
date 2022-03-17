@@ -174,7 +174,7 @@ Features:
 * And more
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRWowUUdDU1NPM2diU3FfZFY2Q1lhSHZKVjJTRmZtNEQvdmlldz91c3A9c2hhcmluZw==`
+[Download:](https://www.mediafire.com/file/qx1s2cxjp3k157n/SM64Plus.7z/file)
 
 * * *
 ### SUPER MARIO 64 CO-OP
@@ -273,7 +273,7 @@ OVR Toolkit is a SteamVR Overlay utility designed to make viewing the desktop wi
 [Steam page](https://store.steampowered.com/app/1068820/OVR_Toolkit/)
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xcm82a2tLU0NlQkxtSkFSeWdnYVEtT1c0X05xMTlXUU4vdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/F599E2EC65.html`
 
 *Note: OVR Toolkit comes pre-installed in portable mode. Just extract and run the program.*
 
@@ -371,7 +371,7 @@ Comparable to Handbrake, but you are given much more control over the encoding q
 [Official Site](https://serato.com/dj/pro)
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xN3d0bzd3T3hUM2JvZk93dHlrVUZnUXBJSmRsRlJycmEvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/DFFAABA4F4.html`
 
 * * *
 ### VOICEMOD PRO
