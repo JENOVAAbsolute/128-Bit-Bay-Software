@@ -289,7 +289,7 @@ Download:
 Enlarging your image without losing detail has always been impossible… until now. Enlarge your photos up to 600% while perfectly preserving image quality.
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xSjZyLW54OUFrYXpvbEZGSVhYckdqVzNXNEtsbjR6MVovdmlldz91c3A9c2hhcmluZw==`
+`aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyL0Y5RjQzQjFBN0QuaHRtbA==`
 
 **Installation steps:**
 1. Extract the archive
