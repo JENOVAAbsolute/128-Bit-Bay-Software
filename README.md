@@ -173,7 +173,6 @@ Features:
 * New abilities, like being able to slide down walls
 * And more
 
-Download: 
 [Download:](https://www.mediafire.com/file/qx1s2cxjp3k157n/SM64Plus.7z/file)
 
 * * *
