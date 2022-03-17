@@ -124,7 +124,7 @@ Download: `https://filecrypt.cc/Container/5BD329AB3D.html`
 ### ADOBE LIGHTROOM CC
 Download: `https://filecrypt.cc/Container/7F0ABE1AAE.html`
 ### ADOBE AUDITION
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVy1hRlJteHowUVhTYjV2XzlZbFVNZ0pQQWZwaFVqLV8vdmlldz91c3A9c2hhcmluZw==`
+Download: `https://filecrypt.cc/Container/9DDFF16A2F.html`
 ### ADOBE INDESIGN
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xY29uYzBEeWVObnBSZi1ub2g4VW1vRWtEejdTZ0tVSjMvdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE FRESCO
@@ -244,7 +244,7 @@ A truly powerful gamepad mapper that allows you to remap a controller to keyboar
 [Official Site](https://www.rewasd.com/)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTUFfOUNGNzhQNDZGTjhGeHRwV0dQZm8wczBEbkwzZngvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/B5BC56CC3A.html`
 
 * * *
 ### WINDOWED BORDERLESS GAMING
@@ -278,7 +278,7 @@ Download:
 * * *
 ### MHGU SAVE EDITOR
 
-[Download](https://drive.google.com/file/d/1GcyGuGiB9KguaZm6UfESpAxZw66b-cJV/view?usp=sharing)
+[Download](https://www.mediafire.com/file/udkg713oppnx4wz/MHGUSaveEditor.7z/file)
 
 
 # EDITING SOFTWARE
@@ -342,7 +342,7 @@ Download:
 ### FILMORA 9
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xdWhrTTFaZThlMVBfSm0yNzhDSTNRSUdWeFVBLTB6TlQvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/C57084DADE.html`
 
 [Website](https://filmora.wondershare.com/)
 
@@ -512,7 +512,7 @@ Record movies, series and television from streams. Save your favorite songs from
 [Official Site](https://audials.com/en/audials-one)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xQlVYZTdtcUJLakM1OHZRMV9wVGhVSl8xeGgxNVYxd3Avdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/0B42E56858.html`
 
 
 # WINDOWS CUSTOMIZATION
@@ -579,7 +579,7 @@ Universal uninstaller for any program on your PC. Even allows you to uninstall d
 
 *WARNING! If you don't know what it is, do not uninstall it with Geek! Important applications your PC needs can appear in this program*
 
-[Download](https://drive.google.com/file/d/1C6JIUTE1MElrCAfdinlo6FxTPi12POFh/view?usp=sharing)
+[Download](https://www.mediafire.com/file/0n3pmenxwk3m77q/Geek.7z/file)
 
 * * *
 ### REVO UNINSTALLER PRO
@@ -587,7 +587,7 @@ Universal uninstaller for any program on your PC. Even allows you to uninstall d
 [Official Site](https://www.revouninstaller.com/)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTVJ4ck8yUFdVaXJBb3dOeXZOMnppUGRReXFoa1ROVmUvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/7820691F0A.html`
 
 * * *
 ### DEFENDER CONTROL
