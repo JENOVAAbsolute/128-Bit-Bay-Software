@@ -25,6 +25,7 @@
     + [LAUNCHBOX PREMIUM](#launchbox-premium)
     + [STEAM ROM MANAGER](#steam-rom-manager)
     + [STEAM ACHIEVEMENT MANAGER](#steam-achievement-manager)
+    + [FPS MONITOR](#fps-monitor)
     + [REWASD](#rewasd)
     + [WINDOWED BORDERLESS GAMING](#windowed-borderless-gaming)
     + [OVR TOOLKIT](#ovr-toolkit)
@@ -194,7 +195,7 @@ Download:
 The ultimate modern and retro game launcher!
   
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOGl2d1E2WWRUc3BJWVRnVnBPeDRTSjZyV0hrdnpST1Evdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/94572DC9D8.html`
 
 **Installation steps:**
 1. Run “LaunchBox-11.10-Setup.exe”
@@ -238,6 +239,14 @@ Example uses:
 *WARNING: Valve does not care if you use this. Your Steam account will not be banned. However, a very small amount of developers might care, and they may ban you from their game's online services.*
 
 * * *
+### FPS MONITOR
+
+[Official Site](https://fpsmon.com/en/)
+
+Download:
+`https://filecrypt.cc/Container/7FD63A2593.html`
+
+* * *
 ### REWASD
 
 A truly powerful gamepad mapper that allows you to remap a controller to keyboard and mouse, reassign with Xbox Elite Paddles, and turn your ordinary joystick in a turbo & macro controller.
@@ -274,7 +283,7 @@ Download:
 [Official Site](https://www.ninjaripper.com/)
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWUVsSkQ1VHJINEF4VXFWU29OcWVGUnJoaEZZVnh3RXAvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/BD13814234.html`
 
 * * *
 ### MHGU SAVE EDITOR
@@ -438,7 +447,7 @@ Download:
 Clip Studio Paint is optimized for drawing and painting. The paint brushes are highly customizable and easy to use. There's a thriving community of users who constantly contribute to the online materials library. Clip Studio Paint is also ideal for illustrators who specialize in linework. The smoothness of lines, lack of lag while drawing, as well as the vector output make drawing very fun and efficient.
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xWjBLcXRzVjRUX2h0ZkFKTVVpc2RFbHUzLW80T0F4SFcvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/BFB5D5831E.html`
 
 *Note: Installation instructions included in the readme file.*
 
@@ -555,7 +564,7 @@ Download:
 [Official Site](https://www.oo-software.com/en/products/oodefrag)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xTTNQTC1ybXBKUTg5cDN6LUdkeG0wM0EtMFhacFg4Nzkvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/A32A5C77FA.html`
 
 **Installation steps:**
 1. Extract the archive
@@ -649,7 +658,7 @@ Download:
 [Website](http://www.kutasoftware.com/ia1.html)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xZnlzdWRzOGFPZVlrVHBhQ2Rpb3NhUktBRmtUYl9jRGMvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/917D4C75CA.html`
 
 * * *
 ### INFINITE ALGEBRA 2
@@ -657,7 +666,7 @@ Download:
 [Website](http://www.kutasoftware.com/ia2.html)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRGpDVGFCN0tHYVFubHljdWpRRUl2WVNybWVuaUExV0Mvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/6C97C400C7.html`
 
 * * *
 ### INFINITE PRECALCULUS
@@ -665,7 +674,7 @@ Download:
 [Website](http://www.kutasoftware.com/ipc.html)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xOC1ra2F1YWpJMTNwd093cElSVU1jYjRYWGhUM1oxcWUvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/E2C6303D4C.html`
 
 * * *
 ### INFINITE CALCULUS
@@ -673,7 +682,7 @@ Download:
 [Website](http://www.kutasoftware.com/ica.html)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xb2YzOUpoMVJzV2ZGUUx4OGlXQnM4LWpGbGtfc0FMaFIvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/252C625AC3.html`
 
 * * *
 ### INFINITE GEOMETRY
@@ -681,7 +690,7 @@ Download:
 [Website](https://www.kutasoftware.com/ige.html)
 
 Download:
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xM01aQk5kQmZmRk5WWlZMa1BfRGYxX2FwQTVCczRfOTYvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/CE846BC763.html`
 
 
 # PROGRAMMING
