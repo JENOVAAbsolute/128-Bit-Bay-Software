@@ -209,7 +209,7 @@ Download:
 
 Allows you to add ROMs to your Steam library. No need to launch the emulator then the game after. This does both simultaneously by just clicking “Play” on Steam.
 
-[Download](https://drive.google.com/file/d/1FCWaaK6rO2n1xq_nktIrGkU8gMSxZ0kI/view?usp=sharing)
+[Download](https://www.mediafire.com/file/04oatsp8a59n8an/Steam_ROM_Manager.7z/file)
 
 Features:
 * Tons of presets for plenty of emulators
@@ -236,14 +236,6 @@ Example uses:
 [Download](https://cdn.discordapp.com/attachments/823053450953752636/825945200509452298/Steam_Achievement_Manager.7z)
 
 *WARNING: Valve does not care if you use this. Your Steam account will not be banned. However, a very small amount of developers might care, and they may ban you from their game's online services.*
-
-* * *
-### FPS MONITOR
-
-[Official Site](https://fpsmon.com/en/)
-
-Download:
-`https://filecrypt.cc/Container/7FD63A2593.html`
 
 * * *
 ### REWASD
@@ -360,7 +352,7 @@ Download:
 
 Comparable to Handbrake, but you are given much more control over the encoding quality.
 
-[Download](https://drive.google.com/file/d/1o4JJMjcY4Y3GOwp0_ezDIBiVoVOPhj_U/view?usp=sharing)
+[Download](https://www.mediafire.com/file/u6x1jv7j00hkhbr/StaxRip.7z/file)
 
 
 # AUDIO SOFTWARE
@@ -378,7 +370,7 @@ Download:
 Voice changer and regulator for your voice chat!
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbm94eTQ4ZkJhLTZWQ2wtV0FLX20xVXo5bG1MVm1QNUwvdmlldz91c3A9c2hhcmluZw==`
+`https://filecrypt.cc/Container/5F405A7086.html`
 
 **Installation steps:**
 1. Run “VoicemodSetup.exe”
