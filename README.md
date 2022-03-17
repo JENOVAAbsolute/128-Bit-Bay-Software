@@ -112,17 +112,17 @@ Includes:
 
 * * *
 ### ADOBE MEDIA ENCODER
-Download: `aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyLzExOUY0REU4NjcuaHRtbA==`
+Download: `https://filecrypt.cc/Container/119F4DE867.html`
 ### ADOBE PREMIERE PRO
-Download: `aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyLzAyQTdDM0E1OUMuaHRtbA==`
+Download: `https://filecrypt.cc/Container/02A7C3A59C.html`
 ### ADOBE PHOTOSHOP
-Download: `aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyL0RCMzM3QzA1MjguaHRtbA==`
+Download: `https://filecrypt.cc/Container/DB337C0528.html`
 ### ADOBE ILLUSTRATOR
-Download: `aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyL0JBMzUxMjVBQTAuaHRtbA==`
+Download: `https://filecrypt.cc/Container/BA35125AA0.html`
 ### ADOBE AFTER EFFECTS
-Download: `aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyLzVCRDMyOUFCM0QuaHRtbA==`
+Download: `https://filecrypt.cc/Container/5BD329AB3D.html`
 ### ADOBE LIGHTROOM CC
-Download: `aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyLzdGMEFCRTFBQUUuaHRtbA==`
+Download: `https://filecrypt.cc/Container/7F0ABE1AAE.html`
 ### ADOBE AUDITION
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVy1hRlJteHowUVhTYjV2XzlZbFVNZ0pQQWZwaFVqLV8vdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE INDESIGN
@@ -130,7 +130,7 @@ Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xY29uYzBEeWVObnBSZi1ub2g4V
 ### ADOBE FRESCO
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xci1ia3J2ZFFEVVZkYkVoakIxSm1TSmp5ZzItYzlHcGMvdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE ACROBAT PRO DC
-Download: `aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyLzU3NTFFNkY0RUIuaHRtbA==`
+Download: `https://filecrypt.cc/Container/5751E6F4EB.html`
 ### ADOBE PHOTOSHOP LIGHTROOM
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xRWtnbVV2Q05Ld2pYcUJIakhvVzZRN2N3b2Ric05KeTQvdmlldz91c3A9c2hhcmluZw==`
 
@@ -289,7 +289,7 @@ Download:
 Enlarging your image without losing detail has always been impossible… until now. Enlarge your photos up to 600% while perfectly preserving image quality.
 
 Download: 
-`aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyL0Y5RjQzQjFBN0QuaHRtbA==`
+`https://filecrypt.cc/Container/F9F43B1A7D.html`
 
 **Installation steps:**
 1. Extract the archive
@@ -311,7 +311,7 @@ Features:
 * Naturally restore old videos without adding visual artifacts
 
 Download: 
-`aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyL0VBQzUzOEE5NTQuaHRtbA==`
+`https://filecrypt.cc/Container/EAC538A954.html`
 
 **Installation steps:**
 1. Extract the archive
@@ -325,7 +325,7 @@ Download:
 ### DAVINCI RESOLVE STUDIO 2021
 
 Download: 
-`aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyL0U5OThDMUU5NTkuaHRtbA==`
+`https://filecrypt.cc/Container/E998C1E959.html`
 
 [Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)
 
@@ -401,7 +401,7 @@ Ableton Live is a fast, fluid and flexible software for music creation and perfo
 [Official Site](https://www.ableton.com/en/live/)
 
 Download:
-`aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyLzIyOUY4MkRBRTIuaHRtbA==`
+`https://filecrypt.cc/Container/229F82DAE2.html`
 
 *Note: Installation Instructions are included in the download.*
 
@@ -571,7 +571,7 @@ Download:
 [Official Site](https://www.aida64.com/)
 
 Download:
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3h0NjZybGx1ODQ2djk0OC9BSURBNjQuN3ovZmlsZQ==`
+`https://filecrypt.cc/Container/66B2401349.html`
 
 * * *
 ### GEEK UNINSTALLER
