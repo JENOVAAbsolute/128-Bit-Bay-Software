@@ -186,7 +186,7 @@ Download:
 Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the game is here.
 
 Download: 
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3Nyb2F6azNjZWYyb2x5bC9Bbm90aGVyX01ldHJvaWRfMl9SZW1ha2UuN3ovZmlsZQ==`
+`https://filecrypt.cc/Container/DACF4B049A.html`
 
 * * *
 ### LAUNCHBOX PREMIUM
@@ -389,7 +389,7 @@ Keyscape is an extraordinary virtual instrument featuring the largest selection 
 [Official Site](https://www.spectrasonics.net/products/keyscape/)
 
 Download:
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V5ZHBqcDBtcnhiN3Fzbi9TcGVjdHJhc29uaWNzX0tleXNjYXBlX3YxLjMuMWMuN3ovZmlsZQ==`
+`https://filecrypt.cc/Container/BBDD2F8A2A.html`
 
 *Note: Installation instructions are included in the download*
 
@@ -419,7 +419,7 @@ Features:
 * Import images for further processing and editing
 
 Download: 
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZxbmlnMGhxZjdxdnJwNC9BcnRSYWdlXzYuN3ovZmlsZQ==`
+`https://filecrypt.cc/Container/9FD3F55834.html`
 
 **Installation steps:**
 1. Extract the downloaded file
@@ -450,7 +450,7 @@ A collaborative mind mapping, brainstorming, and outlining tool for product mana
 [Official Site](https://www.edrawmind.com/)
 
 Download:
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2g3Z21pbGtkZDZ6djZxNy9Xb25kZXJzaGFyZV9FZHJhd01pbmRfUHJvXzkuMC4xMC5yYXIvZmlsZQ==`
+`https://filecrypt.cc/Container/F6F47C6B50.html`
 
 * * *
 ### SKETCHUP PRO
@@ -468,7 +468,7 @@ Download:
 Premium alternative to jDownloader and Free Download Manager. Has great downloads speeds and is easy to use.
 
 Download: 
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZqZDhna3puOWVobGhlaC9JbnRlcm5ldF9Eb3dubG9hZF9NYW5hZ2VyLjd6L2ZpbGU=`
+`https://filecrypt.cc/Container/4D445F3F93.html`
 
 **Installation steps:**
 1.  Extract the archive
@@ -537,7 +537,7 @@ Download:
 [Official Site](https://www.displayfusion.com/)
 
 Download:
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzUyZnhhZnI0Z2t3ZTVtaC9EaXNwbGF5RnVzaW9uX1Byb185Ljd6L2ZpbGU=`
+`https://filecrypt.cc/Container/6F743274BA.html`
 
 **Installation steps:**
 1.  Extract the archive
@@ -632,7 +632,7 @@ YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking
 Iso mounting tool.
 
 Download: 
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JvdXZlazF6OThsczR3by9Qb3dlcklTT184LjEuN3ovZmlsZQ==`
+`https://filecrypt.cc/Container/B9ED43CAC6.html`
 
 **Installation steps:**
 1. Run "PowerISO8-x64-Full" (or the other installer if you have 32x)
