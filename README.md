@@ -112,7 +112,7 @@ Includes:
 
 * * *
 ### ADOBE MEDIA ENCODER
-Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xeThtRjZTbWI0Q0xMQzQyR2o5VTROYTRlYmJtaEE0VFgvdmlldz91c3A9c2hhcmluZw==`
+Download: `aHR0cHM6Ly9maWxlY3J5cHQuY2MvQ29udGFpbmVyLzExOUY0REU4NjcuaHRtbA==`
 ### ADOBE PREMIERE PRO
 Download: `aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xVk9nOUhDaGJ2UHR5QmxiLXUzNkpBNGcya1lwMTJockQvdmlldz91c3A9c2hhcmluZw==`
 ### ADOBE PHOTOSHOP
