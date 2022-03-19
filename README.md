@@ -44,6 +44,7 @@
     + [VOICEMOD PRO](#voicemod-pro)
     + [SPECTRASONICS KEYSCAPE](#spectrasonics-keyscape)
     + [ABLETON LIVE SUITE](#ableton-live-suite)
+    + [FL STUDIO](#fl-studio)
 - [ARTS AND DESIGNS](#arts-and-designs)
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
@@ -405,6 +406,14 @@ Download:
 `https://filecrypt.cc/Container/229F82DAE2.html`
 
 *Note: Installation Instructions are included in the download.*
+
+* * *
+### FL STUDIO
+
+[Official Site](https://www.image-line.com/fl-studio/)
+
+Download:
+`https://filecrypt.cc/Container/29BE6731CE.html`
 
 
 # ARTS AND DESIGNS
