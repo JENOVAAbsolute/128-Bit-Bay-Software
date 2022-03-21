@@ -470,6 +470,14 @@ Download:
 Download:
 `https://filecrypt.cc/Container/A24F1B558C.html`
 
+* * *
+### AUTODESK 3DS MAX
+
+[Official Site](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription)
+
+Download:
+`https://filecrypt.cc/Container/4171C3D336.html`
+
 
 # DOWNLOADERS
 
