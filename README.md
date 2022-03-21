@@ -50,6 +50,7 @@
     + [CLIP STUDIO PAINT](#clip-studio-paint)
     + [WONDERSHARE EDRAWMIND PRO](#wondershare-edrawmind-pro)
     + [SKETCHUP PRO](#sketchup-pro)
+    + [AUTODESK 3DS MAX](#autodesk-3ds-max)
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
