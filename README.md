@@ -38,7 +38,7 @@
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
     + [DAVINCI RESOLVE STUDIO 2021](#davinci-resolve-studio-2021)
     + [VEGAS PRO](#vegas-pro)
-    + [FILMORA 9](#filmora-9)
+    + [FILMORA X](#filmora-x)
     + [STAXRIP VIDEO ENCODER](#staxrip-video-encoder)
 - [AUDIO SOFTWARE](#audio-software)
     + [SERATO DJ PRO](#serato-dj-pro)
@@ -354,10 +354,10 @@ Download:
 [Website](https://www.vegascreativesoftware.com/us/vegas-pro/)
 
 * * *
-### FILMORA 9
+### FILMORA X
 
 Download:
-`https://filecrypt.cc/Container/C57084DADE.html`
+`https://filecrypt.cc/Container/0995C0E7E9.html`
 
 [Website](https://filmora.wondershare.com/)
 
