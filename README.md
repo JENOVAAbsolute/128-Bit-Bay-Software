@@ -24,7 +24,7 @@
     + [SUPER MARIO 64 PLUS](#super-mario-64-plus)
     + [SUPER MARIO 64 CO-OP](#super-mario-64-co-op)
     + [ANOTHER METROID 2 REMAKE FAN GAME](#another-metroid-2-remake-fan-game)
-    + [WONDERDRAFT D&D MAP CREATION TOOL](#wonderdraft d&d map creation tool)
+    + [WONDERDRAFT DD MAP CREATION TOOL](#wonderdraft d&d map creation tool)
     + [LAUNCHBOX PREMIUM](#launchbox-premium)
     + [STEAM ROM MANAGER](#steam-rom-manager)
     + [STEAM ACHIEVEMENT MANAGER](#steam-achievement-manager)
