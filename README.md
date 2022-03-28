@@ -125,7 +125,7 @@ Download: `https://filecrypt.cc/Container/DB337C0528.html`
 ### ADOBE ILLUSTRATOR
 Download: `https://filecrypt.cc/Container/BA35125AA0.html`
 ### ADOBE AFTER EFFECTS
-Download: `https://filecrypt.cc/Container/5BD329AB3D.html`
+Download: `https://filecrypt.cc/Container/E9B493FD04.html`
 ### ADOBE LIGHTROOM CC
 Download: `https://filecrypt.cc/Container/7F0ABE1AAE.html`
 ### ADOBE AUDITION
