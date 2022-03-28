@@ -135,7 +135,7 @@ Download: `https://filecrypt.cc/Container/7E04776100.html`
 ### ADOBE FRESCO
 Download: `https://filecrypt.cc/Container/D4C3EC0BC1.html`
 ### ADOBE ACROBAT PRO DC
-Download: `https://filecrypt.cc/Container/5751E6F4EB.html`
+Download: `https://filecrypt.cc/Container/9AC31054AE.html`
 ### ADOBE PHOTOSHOP LIGHTROOM
 Download: `https://filecrypt.cc/Container/A55FFE53F9.html`
 
