@@ -33,6 +33,7 @@
     + [OVR TOOLKIT](#ovr-toolkit)
     + [NINJA RIPPER](#ninja-ripper)
     + [MHGU SAVE EDITOR](#mhgu-save-editor)
+    + [XDELTA](#xdelta)
 - [EDITING SOFTWARE](#editing-software)
     + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
@@ -294,6 +295,13 @@ Download:
 ### MHGU SAVE EDITOR
 
 [Download](https://www.mediafire.com/file/udkg713oppnx4wz/MHGUSaveEditor.7z/file)
+
+* * *
+### XDELTA
+
+Patcher to apply ROM hacks to games
+
+[Download](https://www.mediafire.com/file/ul8x6w1dd77x023/XDelta.7z/file)
 
 
 # EDITING SOFTWARE
