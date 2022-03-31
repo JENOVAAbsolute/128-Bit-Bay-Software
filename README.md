@@ -33,7 +33,7 @@
     + [OVR TOOLKIT](#ovr-toolkit)
     + [NINJA RIPPER](#ninja-ripper)
     + [MHGU SAVE EDITOR](#mhgu-save-editor)
-    + [XDELTA](#xdelta)
+    + [XDELTA ROM HACK PATCHER](#xdelta-rom-hack-patcher)
 - [EDITING SOFTWARE](#editing-software)
     + [TOPAZ GIGAPIXEL AI](#topaz-gigapixel-ai)
     + [TOPAZ VIDEO ENHANCE AI](#topaz-video-enhance-ai)
