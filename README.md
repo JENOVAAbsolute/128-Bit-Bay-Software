@@ -299,8 +299,6 @@ Download:
 * * *
 ### XDELTA ROM HACK PATCHER
 
-Patcher to apply ROM hacks to games
-
 [Download](https://www.mediafire.com/file/ul8x6w1dd77x023/XDelta.7z/file)
 
 
