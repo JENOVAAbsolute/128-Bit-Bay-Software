@@ -504,15 +504,7 @@ Download:
 Premium alternative to jDownloader and Free Download Manager. Has great downloads speeds and is easy to use.
 
 Download: 
-`https://filecrypt.cc/Container/4D445F3F93.html`
-
-**Installation steps:**
-1.  Extract the archive
-2.  Run “idman638build18f.exe” and install IDM
-3.  IDM will open integration windows, then launch.
-4.  Close IDM Completely with Task Manager
-5.  Open the crack folder and run “Patch.exe”
-6.  Click “Patch”, then close the patcher when it’s done
+`https://filecrypt.cc/Container/3B0DA8FA68.html`
 
 *Note: The IDM integration module should automatically install into your browsers. If it does not, then use the following link to install it manually. Also make sure it’s enabled in your browser extensions.*
 
