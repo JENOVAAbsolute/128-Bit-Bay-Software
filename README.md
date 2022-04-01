@@ -122,7 +122,7 @@ Download: `https://filecrypt.cc/Container/EE5B43E4BF.html`
 ### ADOBE PREMIERE PRO
 Download: `https://filecrypt.cc/Container/02A7C3A59C.html`
 ### ADOBE PHOTOSHOP
-Download: `https://filecrypt.cc/Container/DB337C0528.html`
+Download: `https://filecrypt.cc/Container/A1BA2B239B.html`
 ### ADOBE ILLUSTRATOR
 Download: `https://filecrypt.cc/Container/98EC2A97F2.html`
 ### ADOBE AFTER EFFECTS
