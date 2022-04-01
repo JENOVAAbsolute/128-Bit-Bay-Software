@@ -118,7 +118,7 @@ Includes:
 
 * * *
 ### ADOBE MEDIA ENCODER
-Download: `https://filecrypt.cc/Container/119F4DE867.html`
+Download: `https://filecrypt.cc/Container/EE5B43E4BF.html`
 ### ADOBE PREMIERE PRO
 Download: `https://filecrypt.cc/Container/02A7C3A59C.html`
 ### ADOBE PHOTOSHOP
