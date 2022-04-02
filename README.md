@@ -72,7 +72,7 @@
     + [JELLYFIN](#jellyfin)
     + [YOUTUBE VANCED](#youtube-vanced)
     + [POWERISO](#poweriso)
-- [TEACHING AND SCHOOLING](#teaching-and-schooling)
+- [TEACHING AND LEARNING](#teaching-and-learning)
     + [INFINITE ALGEBRA 1](#infinite-algebra-1)
     + [INFINITE ALGEBRA 2](#infinite-algebra-2)
     + [INFINITE PRECALCULUS](#infinite-precalculus)
@@ -671,7 +671,7 @@ Download:
 *Note: Your antivirus might flag or delete the keygen. It's a false positive.*
 
 
-# TEACHING AND SCHOOLING
+# TEACHING AND LEARNING
 
 ### INFINITE ALGEBRA 1
 
@@ -711,6 +711,14 @@ Download:
 
 Download:
 `https://filecrypt.cc/Container/CE846BC763.html`
+
+* * *
+### ANTIDOTE
+
+[Website](https://www.antidote.info/en/)
+
+Download:
+`https://filecrypt.cc/Container/779883561A.html`
 
 
 # PROGRAMMING
