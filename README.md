@@ -78,6 +78,7 @@
     + [INFINITE PRECALCULUS](#infinite-precalculus)
     + [INFINITE CALCULUS](#infinite-calculus)
     + [INFINITE GEOMETRY](#infinite-geometry)
+    + [ANTIDOTE](#antidote)
 - [PROGRAMMING](#programming)
     + [JETBRAINS RIDER](#jetbrains-rider)
 
