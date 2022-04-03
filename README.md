@@ -505,7 +505,7 @@ Download:
 Premium alternative to jDownloader and Free Download Manager. Has great downloads speeds and is easy to use.
 
 Download: 
-`https://filecrypt.cc/Container/3B0DA8FA68.html`
+TEMPORARILY UNAVAILABLE
 
 *Note: The IDM integration module should automatically install into your browsers. If it does not, then use the following link to install it manually. Also make sure it’s enabled in your browser extensions.*
 
