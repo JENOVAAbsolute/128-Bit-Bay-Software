@@ -346,7 +346,7 @@ Download:
 ### DAVINCI RESOLVE STUDIO 2021
 
 Download: 
-`https://filecrypt.cc/Container/E998C1E959.html`
+`https://filecrypt.cc/Container/CFFE9231CD.html`
 
 [Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)
 
