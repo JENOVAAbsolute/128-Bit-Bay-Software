@@ -310,7 +310,7 @@ Download:
 Enlarging your image without losing detail has always been impossible… until now. Enlarge your photos up to 600% while perfectly preserving image quality.
 
 Download: 
-`https://filecrypt.cc/Container/F9F43B1A7D.html`
+`https://filecrypt.cc/Container/64B8D78A35.html`
 
 **Installation steps:**
 1. Extract the archive
