@@ -225,7 +225,7 @@ https://discord.gg/uranium
 
 Enhanced version of the Super Mario 64 PC port with new features.
 
-Features:
+**Features:**
 * Everything included in the original PC port
 * New FoV customization
 * Custom analogue camera speed
@@ -233,7 +233,7 @@ Features:
 * New abilities, like being able to slide down walls
 * And more
 
-[Download](https://www.mediafire.com/file/qx1s2cxjp3k157n/SM64Plus.7z/file)
+**[Download](https://www.mediafire.com/file/qx1s2cxjp3k157n/SM64Plus.7z/file)**
 
 * * *
 ### SUPER MARIO 64 CO-OP
