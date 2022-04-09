@@ -440,7 +440,7 @@ Video Enhance AI uses the latest deep learning techniques to naturally increase 
     </pre>
    </details>
 
-**[Website](https://www.vegascreativesoftware.com/us/vegas-pro/)**
+**[Official Site](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
 * * *
 ### FILMORA X
@@ -451,7 +451,7 @@ Video Enhance AI uses the latest deep learning techniques to naturally increase 
     </pre>
    </details>
 
-**[Website](https://filmora.wondershare.com/)**
+**[Official Site](https://filmora.wondershare.com/)**
 
 * * *
 ### STAXRIP VIDEO ENCODER
@@ -792,7 +792,7 @@ Jellyfin is the volunteer-built media solution that puts you in control of your 
 
 **[Download](https://jellyfin.org/downloads/)**
 
-**[Website](https://jellyfin.org/)**
+**[Official Site](https://jellyfin.org/)**
 
 **[Compatible Devices](https://jellyfin.org/clients/)**
 
@@ -842,7 +842,7 @@ Iso mounting tool.
     </pre>
    </details>
 
-**[Website](http://www.kutasoftware.com/ia1.html)**
+**[Official Site](http://www.kutasoftware.com/ia1.html)**
 
 * * *
 ### INFINITE ALGEBRA 2
@@ -853,7 +853,7 @@ Iso mounting tool.
     </pre>
    </details>
 
-**[Website](http://www.kutasoftware.com/ia2.html)**
+**[Official Site](http://www.kutasoftware.com/ia2.html)**
 
 * * *
 ### INFINITE PRECALCULUS
@@ -864,7 +864,7 @@ Iso mounting tool.
     </pre>
    </details>
 
-**[Website](http://www.kutasoftware.com/ipc.html)**
+**[Official Site](http://www.kutasoftware.com/ipc.html)**
 
 * * *
 ### INFINITE CALCULUS
@@ -875,7 +875,7 @@ Iso mounting tool.
     </pre>
    </details>
 
-**[Website](http://www.kutasoftware.com/ica.html)**
+**[Official Site](http://www.kutasoftware.com/ica.html)**
 
 * * *
 ### INFINITE GEOMETRY
@@ -886,7 +886,7 @@ Iso mounting tool.
     </pre>
    </details>
 
-**[Website](https://www.kutasoftware.com/ige.html)**
+**[Official Site](https://www.kutasoftware.com/ige.html)**
 
 * * *
 ### ANTIDOTE
@@ -897,7 +897,7 @@ Iso mounting tool.
     </pre>
    </details>
 
-**[Website](https://www.antidote.info/en/)**
+**[Official Site](https://www.antidote.info/en/)**
 
 
 # PROGRAMMING
@@ -912,4 +912,4 @@ JetBrains Rider is a cross-platform .NET IDE based on the IntelliJ platform and 
     </pre>
    </details>
 
-**[Website](https://www.jetbrains.com/rider/)**
+**[Official Site](https://www.jetbrains.com/rider/)**
