@@ -2,7 +2,7 @@
 
 ## *Use the keyboard shortcut `CTRL+F` to quickly search for software. If what you want is not listed, you can request it in the Discord server.*
 
-## *Download password is available in our Discord server. `https://discord.gg/NF38g3ENVc`*
+## *You must use a decoder for most downloads: https://www.base64decode.org/*
 
 ### Table of Contents
 
