@@ -303,7 +303,7 @@ Allows you to add ROMs to your Steam library. No need to launch the emulator the
 
 Easy to use tool to force unlock Steam Achievements.
 
-[Download](https://www.mediafire.com/file/7959hmvrrsju1ez/Steam_Achievement_Manager.7z/file)
+**[Download](https://www.mediafire.com/file/7959hmvrrsju1ez/Steam_Achievement_Manager.7z/file)**
 
 Example uses:
 *  Achievements you can't get due to bugs or glitches 
@@ -319,49 +319,58 @@ Example uses:
 
 A truly powerful gamepad mapper that allows you to remap a controller to keyboard and mouse, reassign with Xbox Elite Paddles, and turn your ordinary joystick in a turbo & macro controller.
 
-[Official Site](https://www.rewasd.com/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL25lYXhoYTVtZzhmdzNyZi9yZVdBU0RfdjUuMi4yLjE3NTcuN3ovZmlsZQ==
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/B5BC56CC3A.html`
+[Official Site](https://www.rewasd.com/)
 
 * * *
 ### WINDOWED BORDERLESS GAMING
 
 To force PC games that do not have "Borderless Windowed" by default to use this mode.
 
-*Note: I do not know if this works for emulators. This is intended for PC games. Instructions inside.*
+**[Download](https://www.mediafire.com/file/tqxklcoisekjeod/WBG.7z/file)**
 
-[Download](https://www.mediafire.com/file/tqxklcoisekjeod/WBG.7z/file)
+*Note: I do not know if this works for emulators. This is intended for PC games. Instructions inside.*
 
 * * *
 ### OVR TOOLKIT
 
 OVR Toolkit is a SteamVR Overlay utility designed to make viewing the desktop within VR easy and intuitive. OVR Toolkit allows you to display specific desktop windows, quickly select between them, use intuitive controls to navigate those windows, and use a virtual keyboard to type.
 
-[Steam page](https://store.steampowered.com/app/1068820/OVR_Toolkit/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2lwamhoNDhtZHJpdmdsay9PVlJfVG9vbGtpdC43ei9maWxl
+    </pre>
+   </details>
 
-Download: 
-`https://filecrypt.cc/Container/F599E2EC65.html`
+**[Steam page](https://store.steampowered.com/app/1068820/OVR_Toolkit/)**
 
 *Note: OVR Toolkit comes pre-installed in portable mode. Just extract and run the program.*
 
 * * *
 ### NINJA RIPPER
 
-[Official Site](https://www.ninjaripper.com/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3AyaDExOWhyd3pqZzVzay9OaW5qYV9SaXBwZXJfMi4wLjRfYmV0YS43ei9maWxl
+    </pre>
+   </details>
 
-Download: 
-`https://filecrypt.cc/Container/BD13814234.html`
+[Official Site](https://www.ninjaripper.com/)
 
 * * *
 ### MHGU SAVE EDITOR
 
-[Download](https://www.mediafire.com/file/udkg713oppnx4wz/MHGUSaveEditor.7z/file)
+**[Download](https://www.mediafire.com/file/udkg713oppnx4wz/MHGUSaveEditor.7z/file)**
 
 * * *
 ### XDELTA ROM HACK PATCHER
 
-[Download](https://www.mediafire.com/file/ul8x6w1dd77x023/XDelta.7z/file)
+**[Download](https://www.mediafire.com/file/ul8x6w1dd77x023/XDelta.7z/file)**
 
 
 # EDITING SOFTWARE
@@ -370,8 +379,11 @@ Download:
 
 Enlarging your image without losing detail has always been impossible… until now. Enlarge your photos up to 600% while perfectly preserving image quality.
 
-Download: 
-`https://filecrypt.cc/Container/64B8D78A35.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29qdnVwY205Nnk1Y2Q1YS9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3hlenpyZ2J1bmN2NjA5aC9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3BvNnkyZGRuaTV2NzZobi9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3kxMTR4ZTJya251dXlqcC9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDQvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3R1YmNzb2U3NThmbWM1dy9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDUvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3k5MThzcnRxbXdzcXFybC9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDYvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzM1M3piYXZqc2ZkaWI3ZC9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDcvZmlsZQ==
+    </pre>
+   </details>
 
 **Installation steps:**
 1. Extract the archive
@@ -386,14 +398,17 @@ Download:
 
 Video Enhance AI uses the latest deep learning techniques to naturally increase video quality and detail by using temporal information.
 
-Features:
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL28xemszZmwxazk2bDUxNy9WaWRlb19FbmhhbmNlX0FJXzIuNC4wX3g2NC43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzUxdGx0ZWFiZWg1Yzd4MC9WaWRlb19FbmhhbmNlX0FJXzIuNC4wX3g2NC43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3g4OWR2MTlvNWx3dzhpOS9WaWRlb19FbmhhbmNlX0FJXzIuNC4wX3g2NC43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2FqMmQxbnphdmVqMmR1dy9WaWRlb19FbmhhbmNlX0FJXzIuNC4wX3g2NC43ei4wMDQvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3lmZWxtb2duNjVrenk0eS9WaWRlb19FbmhhbmNlX0FJXzIuNC4wX3g2NC43ei4wMDUvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzh1cndsMGJzY2g0ZWNrbS9WaWRlb19FbmhhbmNlX0FJXzIuNC4wX3g2NC43ei4wMDYvZmlsZQ==
+    </pre>
+   </details>
+
+**Features:**
 * Upscale SD to HD and HD to 4k or 8k while adding crisp video details
 * Remove noise and grain. Minimize flickering and other artifacts
 * Use deep learning to deinterlace videos while preserving image definition
 * Naturally restore old videos without adding visual artifacts
-
-Download: 
-`https://filecrypt.cc/Container/454051D15B.html`
 
 **Installation steps:**
 1. Extract the archive
@@ -409,7 +424,7 @@ Download:
 Download: 
 `https://filecrypt.cc/Container/CFFE9231CD.html`
 
-[Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)
+**[Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)**
 
 *Note: Installation instructions are included in the download.*
 
