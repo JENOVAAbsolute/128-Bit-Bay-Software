@@ -195,6 +195,12 @@
 
 ### POKEMON URANIUM
 
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29ydHFxcTQxNXhjNTJlbC9Qb2tlbW9uX1VyYW5pdW0uN3ovZmlsZQ==
+    </pre>
+   </details>
+
 **Features:**
 * 200 pokemon and fakemon
 * Brand new Tandor region
@@ -203,12 +209,6 @@
 * Unlockable randomizer mode
 * Nuzlocke mode available from the start
 * Nuclear Pokemon!
-
-- <details><summary>Download</summary>
-    <pre>
-    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29ydHFxcTQxNXhjNTJlbC9Qb2tlbW9uX1VyYW5pdW0uN3ovZmlsZQ==
-    </pre>
-   </details>
 
 *Note: You choose your starter by answering color coded questions asked by the professor.*
 
@@ -223,6 +223,8 @@ https://discord.gg/uranium
 
 Enhanced version of the Super Mario 64 PC port with new features.
 
+**[Download](https://www.mediafire.com/file/qx1s2cxjp3k157n/SM64Plus.7z/file)**
+
 **Features:**
 * Everything included in the original PC port
 * New FoV customization
@@ -230,8 +232,6 @@ Enhanced version of the Super Mario 64 PC port with new features.
 * Option to stay in levels after collecting stars
 * New abilities, like being able to slide down walls
 * And more
-
-**[Download](https://www.mediafire.com/file/qx1s2cxjp3k157n/SM64Plus.7z/file)**
 
 * * *
 ### SUPER MARIO 64 CO-OP
@@ -254,13 +254,13 @@ Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the gam
 
 Dungeons & Dragons map creation tool.
 
-**[Official Site](https://www.wonderdraft.net/)**
-
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzd2bWtqamVqZDFuNWZzZC9Xb25kZXJkcmFmdC43ei9maWxl
     </pre>
    </details>
+
+**[Official Site](https://www.wonderdraft.net/)**
 
 * * *
 ### LAUNCHBOX PREMIUM
@@ -303,14 +303,14 @@ Allows you to add ROMs to your Steam library. No need to launch the emulator the
 
 Easy to use tool to force unlock Steam Achievements.
 
+[Download](https://www.mediafire.com/file/7959hmvrrsju1ez/Steam_Achievement_Manager.7z/file)
+
 Example uses:
 *  Achievements you can't get due to bugs or glitches 
 *  Online achievements when the game has shut down its multiplayer service, like Tomb Raider 
 *  Achievements requiring tools you don't have, such as VR, etc
 *  A game with mod support disabling achievements
 * Or maybe you're just a lazy bum 
-
-[Download](https://www.mediafire.com/file/7959hmvrrsju1ez/Steam_Achievement_Manager.7z/file)
 
 *WARNING: Valve does not care if you use this. Your Steam account will not be banned. However, a very small amount of developers might care, and they may ban you from their game's online services.*
 
