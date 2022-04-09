@@ -305,7 +305,7 @@ Easy to use tool to force unlock Steam Achievements.
 
 **[Download](https://www.mediafire.com/file/7959hmvrrsju1ez/Steam_Achievement_Manager.7z/file)**
 
-Example uses:
+**Example uses:**
 *  Achievements you can't get due to bugs or glitches 
 *  Online achievements when the game has shut down its multiplayer service, like Tomb Raider 
 *  Achievements requiring tools you don't have, such as VR, etc
@@ -325,7 +325,7 @@ A truly powerful gamepad mapper that allows you to remap a controller to keyboar
     </pre>
    </details>
 
-[Official Site](https://www.rewasd.com/)
+**[Official Site](https://www.rewasd.com/)**
 
 * * *
 ### WINDOWED BORDERLESS GAMING
@@ -360,7 +360,7 @@ OVR Toolkit is a SteamVR Overlay utility designed to make viewing the desktop wi
     </pre>
    </details>
 
-[Official Site](https://www.ninjaripper.com/)
+**[Official Site](https://www.ninjaripper.com/)**
 
 * * *
 ### MHGU SAVE EDITOR
@@ -421,8 +421,11 @@ Video Enhance AI uses the latest deep learning techniques to naturally increase 
 * * *
 ### DAVINCI RESOLVE STUDIO 2021
 
-Download: 
-`https://filecrypt.cc/Container/CFFE9231CD.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2F5YTdobDU1dGJsZjE1aC9CbGFja21hZ2ljX0Rlc2lnbl9EYVZpbmNpX1Jlc29sdmVfU3R1ZGlvXzE3LjAuMC4wMDM5Ljd6LjAwMS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvY2YwbnZvOGVvc25wcXUwL0JsYWNrbWFnaWNfRGVzaWduX0RhVmluY2lfUmVzb2x2ZV9TdHVkaW9fMTcuMC4wLjAwMzkuN3ouMDAyL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS81cWF3ZWU1NjNsNXRta2UvQmxhY2ttYWdpY19EZXNpZ25fRGFWaW5jaV9SZXNvbHZlX1N0dWRpb18xNy4wLjAuMDAzOS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3B5ZzZ3ZzMzbWVweHhiYi9CbGFja21hZ2ljX0Rlc2lnbl9EYVZpbmNpX1Jlc29sdmVfU3R1ZGlvXzE3LjAuMC4wMDM5Ljd6LjAwNC9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvOXNhYm11ZDFtMXR0b3JmL0JsYWNrbWFnaWNfRGVzaWduX0RhVmluY2lfUmVzb2x2ZV9TdHVkaW9fMTcuMC4wLjAwMzkuN3ouMDA1L2ZpbGU=
+    </pre>
+   </details>
 
 **[Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)**
 
@@ -431,43 +434,55 @@ Download:
 * * *
 ### VEGAS PRO
 
-Download:
-`https://filecrypt.cc/Container/638C9D16EF.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3pkcjNqNnllc3p4d2xjMy9WRUdBU19Qcm9fMTkuMC4wLjQ1OC43ei9maWxl
+    </pre>
+   </details>
 
-[Website](https://www.vegascreativesoftware.com/us/vegas-pro/)
+**[Website](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
 * * *
 ### FILMORA X
 
-Download:
-`https://filecrypt.cc/Container/0995C0E7E9.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FnZmFqb3kwbjhkZDRtMC9GaWxtb3JhX1hfMTAuMS4yMC4xNS43ei9maWxl
+    </pre>
+   </details>
 
-[Website](https://filmora.wondershare.com/)
+**[Website](https://filmora.wondershare.com/)**
 
 * * *
 ### STAXRIP VIDEO ENCODER
 
 Comparable to Handbrake, but you are given much more control over the encoding quality.
 
-[Download](https://www.mediafire.com/file/u6x1jv7j00hkhbr/StaxRip.7z/file)
+**[Download](https://www.mediafire.com/file/u6x1jv7j00hkhbr/StaxRip.7z/file)**
 
 
 # AUDIO SOFTWARE
 
 ### SERATO DJ PRO
 
-[Official Site](https://serato.com/dj/pro)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNtdm1nM2V5OHJ0ZnI0Yi9TZXJhdG9fREpfUHJvLnJhci9maWxl
+    </pre>
+   </details>
 
-Download: 
-`https://filecrypt.cc/Container/DFFAABA4F4.html`
+**[Official Site](https://serato.com/dj/pro)**
 
 * * *
 ### VOICEMOD PRO
 
 Voice changer and regulator for your voice chat!
 
-Download: 
-`https://filecrypt.cc/Container/5F405A7086.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZwMXZ1cXdweG84dzhjdS9Wb2ljZU1vZF9Qcm9fdjEuMi42LjguN3ovZmlsZQ==
+    </pre>
+   </details>
 
 **Installation steps:**
 1. Run “VoicemodSetup.exe”
@@ -483,10 +498,13 @@ Download:
 
 Keyscape is an extraordinary virtual instrument featuring the largest selection of collector keyboards in the world. From “holy grail” pianos to stunning keyboards you didn’t even know existed, this is a keyboardist’s dream come true.
 
-[Official Site](https://www.spectrasonics.net/products/keyscape/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2V5ZHBqcDBtcnhiN3Fzbi9TcGVjdHJhc29uaWNzX0tleXNjYXBlX3YxLjMuMWMuN3ovZmlsZQ==
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/BBDD2F8A2A.html`
+**[Official Site](https://www.spectrasonics.net/products/keyscape/)**
 
 *Note: Installation instructions are included in the download*
 
@@ -495,20 +513,26 @@ Download:
 
 Ableton Live is a fast, fluid and flexible software for music creation and performance. It comes with effects, instruments, sounds and all kinds of creative features. Everything you need to make any kind of music is here.
 
-[Official Site](https://www.ableton.com/en/live/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3AzZ2N0MXRxanR0a3JmZC9BYmxldG9uX0xpdmVfU3VpdGVfdjExLjAuMTAuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS96aml6NGF3cGhqaDF1NTgvQWJsZXRvbl9MaXZlX1N1aXRlX3YxMS4wLjEwLjd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUveXhucWFkanppdnAwNTllL0FibGV0b25fTGl2ZV9TdWl0ZV92MTEuMC4xMC43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2F0YmUwdGlmMWUwb2g0by9BYmxldG9uX0xpdmVfU3VpdGVfdjExLjAuMTAuN3ouMDA0L2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9iMXFnb3Rsdmd5MzV0czIvQWJsZXRvbl9MaXZlX1N1aXRlX3YxMS4wLjEwLjd6LjAwNS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvZTBudG43dDlxaHNkZGhkL0FibGV0b25fTGl2ZV9TdWl0ZV92MTEuMC4xMC43ei4wMDYvZmlsZQ==
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/8EBA405AC6.html`
+**[Official Site](https://www.ableton.com/en/live/)**
 
 *Note: Installation Instructions are included in the download.*
 
 * * *
 ### FL STUDIO
 
-[Official Site](https://www.image-line.com/fl-studio/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3IxYXZqOTFqdGFlY3h0bS9JbWFnZS1saW5lX0ZMX1N0dWRpb18yMC44LjMuMjMwNC43ei9maWxl
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/29BE6731CE.html`
+**[Official Site](https://www.image-line.com/fl-studio/)**
 
 
 # ARTS AND DESIGNS
@@ -516,15 +540,18 @@ Download:
 ### ARTRAGE 6
 
 A very handy application which will allow you to paint, sketch and draw in a very modern looking working environment.
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZxbmlnMGhxZjdxdnJwNC9BcnRSYWdlXzYuN3ovZmlsZQ==
+    </pre>
+   </details>
  
-Features:
+**Features:**
 * Watercolors, oil palettes, pens and brushes
 * Easy to use interface
 * Allows you to use menus to categorize all the functions
 * Import images for further processing and editing
-
-Download: 
-`https://filecrypt.cc/Container/9FD3F55834.html`
 
 **Installation steps:**
 1. Extract the downloaded file
@@ -542,8 +569,11 @@ Download:
 
 Clip Studio Paint is optimized for drawing and painting. The paint brushes are highly customizable and easy to use. There's a thriving community of users who constantly contribute to the online materials library. Clip Studio Paint is also ideal for illustrators who specialize in linework. The smoothness of lines, lack of lag while drawing, as well as the vector output make drawing very fun and efficient.
 
-Download: 
-`https://filecrypt.cc/Container/BFB5D5831E.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3RhZGM3ZWVuYXp3NzRyaS9DbGlwX1N0dWRpb19QYWludF8xLjkuNC43ei9maWxl
+    </pre>
+   </details>
 
 *Note: Installation instructions included in the readme file.*
 
@@ -552,26 +582,35 @@ Download:
 
 A collaborative mind mapping, brainstorming, and outlining tool for product managers.
 
-[Official Site](https://www.edrawmind.com/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2g3Z21pbGtkZDZ6djZxNy9Xb25kZXJzaGFyZV9FZHJhd01pbmRfUHJvXzkuMC4xMC5yYXIvZmlsZQ==
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/F6F47C6B50.html`
+**[Official Site](https://www.edrawmind.com/)**
 
 * * *
 ### SKETCHUP PRO
 
-[Official Site](https://www.sketchup.com/products/sketchup-pro)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3JoZHdwbnRwMnVqdXZ5YS9Ta2V0Y2hVcF9Qcm9fMjAyMl92MjIuMC4zMTYuN3ovZmlsZQ==
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/A24F1B558C.html`
+**[Official Site](https://www.sketchup.com/products/sketchup-pro)**
 
 * * *
 ### AUTODESK 3DS MAX
 
-[Official Site](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3d0ajdjY2dwZXE2eDB3aC9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3IwMXdubjk4Z3Z3Y3d3bC9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3cwOWw0MXJ4MGtjcm9xbS9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2J0bGU4dDlwYmpqZ2FsdC9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMDQvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2dyOGRoanY5ajNlZXNlZS9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMDUvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3F5ZGQzamZoamJiMnFlaS9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMDYvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzV4ZWU2aTZlcXo0ODdtOC9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMDcvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21paW5mOHJ2dmR3bWJxdi9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMDgvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3Fvc204NGYyMnpyNG5hbi9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMDkvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JucmI3ZGZnem5jbWdtcS9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMTAvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2pyMnk1aDltMndxMzBybC9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMTEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3NqY2pmb25ocG1idDRzMS9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMTIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21qanF0OHI3czNxeGR2cy9BdXRvZGVza18zRFNfTUFYXzIwMjIuMy43ei4wMTMvZmlsZQ==
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/4171C3D336.html`
+**[Official Site](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription)**
 
 * * *
 ### TOON BOOM HARMONY
