@@ -54,12 +54,13 @@
     + [SKETCHUP PRO](#sketchup-pro)
     + [AUTODESK 3DS MAX](#autodesk-3ds-max)
     + [TOON BOOM HARMONY](#toon-boom-harmony)
-- [DOWNLOADERS](#downloaders)
+- [FILE AND DOWNLOAD MANAGERS](#file-and-download-managers)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
     + [BITLORD](#bitlord)
     + [DEEMIX](#deemix)
     + [AUDIALS ONE](#audials-one)
+    + [TOTAL COMMANDER](#total-commander)
 - [WINDOWS CUSTOMIZATION](#windows-customization)
     + [WALLPAPER ENGINE](#wallpaper-engine)
     + [DISPLAYFUSION](#displayfusion)
@@ -120,7 +121,10 @@ Includes:
 
 * * *
 ### ADOBE MEDIA ENCODER
-Download: `https://filecrypt.cc/Container/EE5B43E4BF.html`
+<summary>Download</summary> 
+```
+aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2h2bmhidmx2MHdxYzhzci9BZG9iZV9NZWRpYV9FbmNvZGVyXzIwMjJfdjIyLjIuMC42NC43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzdwN2YyYmZ4Yzg4eXl2ZS9BZG9iZV9NZWRpYV9FbmNvZGVyXzIwMjJfdjIyLjIuMC42NC43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JoOWtpb3IwNXVqYzdhMi9BZG9iZV9NZWRpYV9FbmNvZGVyXzIwMjJfdjIyLjIuMC42NC43ei4wMDMvZmlsZQ==
+```
 ### ADOBE PREMIERE PRO
 Download: `https://filecrypt.cc/Container/82B6AA44A2.html`
 ### ADOBE PHOTOSHOP
@@ -552,6 +556,14 @@ Record movies, series and television from streams. Save your favorite songs from
 
 Download:
 `https://filecrypt.cc/Container/0B42E56858.html`
+
+* * *
+### TOTAL COMMANDER
+
+[Official Site](https://www.ghisler.com/)
+
+Download:
+``
 
 
 # WINDOWS CUSTOMIZATION
