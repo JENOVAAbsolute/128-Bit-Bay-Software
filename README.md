@@ -127,7 +127,11 @@ Includes:
     </pre>
    </details>
 ### ADOBE PREMIERE PRO
-Download: `https://filecrypt.cc/Container/82B6AA44A2.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZrZzUwNTQxNGlnM3BtNS9BZG9iZV9QcmVtaWVyZV9Qcm9fMjAyMl92MjIuMS4xLjd6LjAwMS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvbm15NDBhNnRnYm90MXczL0Fkb2JlX1ByZW1pZXJlX1Byb18yMDIyX3YyMi4xLjEuN3ouMDAyL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9zM2lueWlqYTNxcWttc3YvQWRvYmVfUHJlbWllcmVfUHJvXzIwMjJfdjIyLjEuMS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2k5M3plYW5rMnVwMmUwZi9BZG9iZV9QcmVtaWVyZV9Qcm9fMjAyMl92MjIuMS4xLjd6LjAwNC9maWxl
+    </pre>
+   </details>
 ### ADOBE PHOTOSHOP
 Download: `https://filecrypt.cc/Container/A1BA2B239B.html`
 ### ADOBE ILLUSTRATOR
