@@ -1,6 +1,6 @@
 # 128-Bit-Bay-Software
 
-## *Use the Table of Contents below to quickly search for software. If what you want is not listed, you can request it in our Discord server.*
+## *Use the Table of Contents below to quickly search for software. If what you want is not listed, you can request it on Discord.*
 
 ## *Link to our Discord server: https://discord.gg/NF38g3ENVc*
 
