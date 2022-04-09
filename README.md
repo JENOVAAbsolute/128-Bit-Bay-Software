@@ -53,7 +53,7 @@
     + [WONDERSHARE EDRAWMIND PRO](#wondershare-edrawmind-pro)
     + [SKETCHUP PRO](#sketchup-pro)
     + [AUTODESK 3DS MAX](#autodesk-3ds-max)
-    + [TOON BOOM HARMONY 21](#toon-boom-harmony-21)
+    + [TOON BOOM HARMONY](#toon-boom-harmony)
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
@@ -499,7 +499,7 @@ Download:
 `https://filecrypt.cc/Container/4171C3D336.html`
 
 * * *
-### TOON BOOM HARMONY 21
+### TOON BOOM HARMONY
 
 [Official Website](https://www.toonboom.com/products/harmony)
 
