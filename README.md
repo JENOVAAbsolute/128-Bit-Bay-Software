@@ -89,9 +89,11 @@
 # ADOBE SUITE
 
 ### ADOBE MASTER COLLECTION
-
-Download:
-`aHR0cHM6Ly8xZmljaGllci5jb20vP2xycHZpamt6eHE4d3FrdzkyZTY4`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly8xZmljaGllci5jb20vP2xycHZpamt6eHE4d3FrdzkyZTY4
+    </pre>
+   </details>
 
 Includes:
 - Adobe Acrobat Pro DC 13/20/20074
@@ -163,13 +165,29 @@ Includes:
     </pre>
    </details>
 ### ADOBE INDESIGN
-Download: `https://filecrypt.cc/Container/7E04776100.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3d3czFwOHA1dXB0azBrai9BZG9iZV9JbkRlc2lnbl8yMDIyX3YxNy4wLjEuMTA1LnJhci9maWxl
+    </pre>
+   </details>
 ### ADOBE FRESCO
-Download: `https://filecrypt.cc/Container/D4C3EC0BC1.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3U4bTh1YmJxNXU0aHBvOC9BZG9iZV9GcmVzY29fMjAyMl92My4yLjEuNzU2LnJhci9maWxl
+    </pre>
+   </details>
 ### ADOBE ACROBAT PRO DC
-Download: `https://filecrypt.cc/Container/9AC31054AE.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2E3emtiOGJteW9yMDI3Zy9BZG9iZV9BY3JvYmF0X1Byb19EQ18yMDIxX3YwMTEuMjAwMzkuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9pcHM3aGVhOGgzajN5bmsvQWRvYmVfQWNyb2JhdF9Qcm9fRENfMjAyMV92MDExLjIwMDM5Ljd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvMWV5NDk1YTVmdmhqdDVkL0Fkb2JlX0Fjcm9iYXRfUHJvX0RDXzIwMjFfdjAxMS4yMDAzOS43ei4wMDMvZmlsZQ==
+    </pre>
+   </details>
 ### ADOBE PHOTOSHOP LIGHTROOM
-Download: `https://filecrypt.cc/Container/A55FFE53F9.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21tNTYxbXVnbWh1aGVlMS9BZG9iZV9QaG90b3Nob3BfTGlnaHRyb29tX3Y1LjEuN3ovZmlsZQ==
+    </pre>
+   </details>
 
 
 # GAMING
@@ -185,8 +203,11 @@ Features:
 * Nuzlocke mode available from the start
 * Nuclear Pokemon!
 
-Download: 
-`aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29ydHFxcTQxNXhjNTJlbC9Qb2tlbW9uX1VyYW5pdW0uN3ovZmlsZQ==`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29ydHFxcTQxNXhjNTJlbC9Qb2tlbW9uX1VyYW5pdW0uN3ovZmlsZQ==
+    </pre>
+   </details>
 
 *Note: You choose your starter by answering color coded questions asked by the professor.*
 
