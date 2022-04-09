@@ -238,33 +238,45 @@ Enhanced version of the Super Mario 64 PC port with new features.
 * * *
 ### SUPER MARIO 64 CO-OP
 
-[Download](https://www.mediafire.com/file/iihhv4h7s6bcvrr/Stable_Co_Op_.rar/file)
+**[Download](https://www.mediafire.com/file/iihhv4h7s6bcvrr/Stable_Co_Op_.rar/file)**
 
 * * *
 ### ANOTHER METROID 2 REMAKE FAN GAME
 
 Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the game is here.
 
-Download: 
-`https://filecrypt.cc/Container/DACF4B049A.html`
+**Download**
+- <details><summary>Link</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzhmZ3VrcWJveHNtbDAzNS9Bbm90aGVyX01ldHJvaWRfMl9SZW1ha2UuN3ovZmlsZQ==
+    </pre>
+   </details>
 
 * * *
 ### WONDERDRAFT
 
 Dungeons & Dragons map creation tool.
 
-[Official Site](https://www.wonderdraft.net/)
+**[Official Site](https://www.wonderdraft.net/)**
 
-Download:
-`https://filecrypt.cc/Container/019EC0E534.html`
+**Download**
+- <details><summary>Link</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzd2bWtqamVqZDFuNWZzZC9Xb25kZXJkcmFmdC43ei9maWxl
+    </pre>
+   </details>
 
 * * *
 ### LAUNCHBOX PREMIUM
 
 The ultimate modern and retro game launcher!
   
-Download: 
-`https://filecrypt.cc/Container/94572DC9D8.html`
+**Download**
+- <details><summary>Link</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzFiY2duOWZzZnZvcHVmNC9MYXVuY2hfQm94LnJhci9maWxl
+    </pre>
+   </details>
 
 **Installation steps:**
 1. Run “LaunchBox-11.10-Setup.exe”
@@ -279,9 +291,9 @@ Download:
 
 Allows you to add ROMs to your Steam library. No need to launch the emulator then the game after. This does both simultaneously by just clicking “Play” on Steam.
 
-[Download](https://www.mediafire.com/file/04oatsp8a59n8an/Steam_ROM_Manager.7z/file)
+**[Download](https://www.mediafire.com/file/04oatsp8a59n8an/Steam_ROM_Manager.7z/file)**
 
-Features:
+**Features:**
 * Tons of presets for plenty of emulators
 * Allows you to choose your directories. No being forced to use your main drive
 * Can add all of your ROMs at once, or in batches
