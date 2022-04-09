@@ -97,7 +97,7 @@
     </pre>
    </details>
 
-Includes:
+**Includes:**
 - Adobe Acrobat Pro DC 13/20/20074
 - Adobe After Effects 2020 17.5.1.47
 - Adobe Animate 2021 21.0.1.37179
