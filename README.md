@@ -196,7 +196,7 @@
 
 ### POKEMON URANIUM
 
-Features:
+**Features:**
 * 200 pokemon and fakemon
 * Brand new Tandor region
 * Full online functionality
@@ -205,7 +205,8 @@ Features:
 * Nuzlocke mode available from the start
 * Nuclear Pokemon!
 
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29ydHFxcTQxNXhjNTJlbC9Qb2tlbW9uX1VyYW5pdW0uN3ovZmlsZQ==
     </pre>
@@ -213,10 +214,10 @@ Features:
 
 *Note: You choose your starter by answering color coded questions asked by the professor.*
 
-Official walkthrough for everything you need: 
+**Official walkthrough for everything you need:**
 https://pokemon-uranium.fandom.com/wiki/Game_Walkthrough
 
-Official Pokemon Uranium Discord server:
+**Official Pokemon Uranium Discord server:**
 https://discord.gg/uranium
 
 * * *
