@@ -121,7 +121,7 @@ Includes:
 
 * * *
 ### ADOBE MEDIA ENCODER
- <details><summary>Download</summary>
+- <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2h2bmhidmx2MHdxYzhzci9BZG9iZV9NZWRpYV9FbmNvZGVyXzIwMjJfdjIyLjIuMC42NC43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzdwN2YyYmZ4Yzg4eXl2ZS9BZG9iZV9NZWRpYV9FbmNvZGVyXzIwMjJfdjIyLjIuMC42NC43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JoOWtpb3IwNXVqYzdhMi9BZG9iZV9NZWRpYV9FbmNvZGVyXzIwMjJfdjIyLjIuMC42NC43ei4wMDMvZmlsZQ==
     </pre>
