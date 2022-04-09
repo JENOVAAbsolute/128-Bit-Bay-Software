@@ -89,7 +89,9 @@
 # ADOBE SUITE
 
 ### ADOBE MASTER COLLECTION
-- <details><summary>Download</summary>
+
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly8xZmljaGllci5jb20vP2xycHZpamt6eHE4d3FrdzkyZTY4
     </pre>
