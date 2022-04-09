@@ -139,13 +139,29 @@ Includes:
     </pre>
    </details>
 ### ADOBE ILLUSTRATOR
-Download: `https://filecrypt.cc/Container/98EC2A97F2.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzE1OXVvOTdsZTVid24wcS9BZG9iZV9JbGx1c3RyYXRvcl8yMDIyX3YyNi4wLjMuNzc4Ljd6LjAwMS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvbmxkcnRud3I0dm5rMWZmL0Fkb2JlX0lsbHVzdHJhdG9yXzIwMjJfdjI2LjAuMy43NzguN3ouMDAyL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS8wbnl2YjNuZTJwcmszaXQvQWRvYmVfSWxsdXN0cmF0b3JfMjAyMl92MjYuMC4zLjc3OC43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2NtdmcwNXUxejR2dG83OC9BZG9iZV9JbGx1c3RyYXRvcl8yMDIyX3YyNi4wLjMuNzc4Ljd6LjAwNC9maWxl
+    </pre>
+   </details>
 ### ADOBE AFTER EFFECTS
-Download: `https://filecrypt.cc/Container/E9B493FD04.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2c0NGF0Mm9oZXVidGF4dy9BZG9iZV9BZnRlcl9FZmZlY3RzXzIwMjJfdjIyLjIuMC4xMjAuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS80YWxtMWZ4NGRkZmhycHkvQWRvYmVfQWZ0ZXJfRWZmZWN0c18yMDIyX3YyMi4yLjAuMTIwLjd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvcWIyOTJnYnppajlxbWdxL0Fkb2JlX0FmdGVyX0VmZmVjdHNfMjAyMl92MjIuMi4wLjEyMC43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2VqOHE3eTc1MzR6ZWN0bC9BZG9iZV9BZnRlcl9FZmZlY3RzXzIwMjJfdjIyLjIuMC4xMjAuN3ouMDA0L2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS83YXdrYWY3ZG12ZTUyejEvQWRvYmVfQWZ0ZXJfRWZmZWN0c18yMDIyX3YyMi4yLjAuMTIwLjd6LjAwNS9maWxl
+    </pre>
+   </details>
 ### ADOBE LIGHTROOM CC
-Download: `https://filecrypt.cc/Container/967A3F43CB.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzUzZTc3Yzk2amE2OTFwNS9BZG9iZV9MaWdodHJvb20uN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9hbnUzNXUyNnBnaGlpM2wvQWRvYmVfTGlnaHRyb29tLjd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvZHJqNGYxcmluZzhjZjRhL0Fkb2JlX0xpZ2h0cm9vbS43ei4wMDMvZmlsZQ==
+    </pre>
+   </details>
 ### ADOBE AUDITION
-Download: `https://filecrypt.cc/Container/9DDFF16A2F.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3dldnEyMWkxZWtsdTFkaS9BZG9iZV9BdWRpdGlvbl8yMDIyXzIyLjAuMC45Ni5yYXIvZmlsZQ==
+    </pre>
+   </details>
 ### ADOBE INDESIGN
 Download: `https://filecrypt.cc/Container/7E04776100.html`
 ### ADOBE FRESCO
