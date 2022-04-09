@@ -125,67 +125,78 @@
 
 * * *
 ### ADOBE MEDIA ENCODER
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2h2bmhidmx2MHdxYzhzci9BZG9iZV9NZWRpYV9FbmNvZGVyXzIwMjJfdjIyLjIuMC42NC43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzdwN2YyYmZ4Yzg4eXl2ZS9BZG9iZV9NZWRpYV9FbmNvZGVyXzIwMjJfdjIyLjIuMC42NC43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JoOWtpb3IwNXVqYzdhMi9BZG9iZV9NZWRpYV9FbmNvZGVyXzIwMjJfdjIyLjIuMC42NC43ei4wMDMvZmlsZQ==
     </pre>
    </details>
 ### ADOBE PREMIERE PRO
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZrZzUwNTQxNGlnM3BtNS9BZG9iZV9QcmVtaWVyZV9Qcm9fMjAyMl92MjIuMS4xLjd6LjAwMS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvbm15NDBhNnRnYm90MXczL0Fkb2JlX1ByZW1pZXJlX1Byb18yMDIyX3YyMi4xLjEuN3ouMDAyL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9zM2lueWlqYTNxcWttc3YvQWRvYmVfUHJlbWllcmVfUHJvXzIwMjJfdjIyLjEuMS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2k5M3plYW5rMnVwMmUwZi9BZG9iZV9QcmVtaWVyZV9Qcm9fMjAyMl92MjIuMS4xLjd6LjAwNC9maWxl
     </pre>
    </details>
 ### ADOBE PHOTOSHOP
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3B1OTV2cDN0Zjc2enFuby9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2EwZGt3aTY5YjlkdGhrZy9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3A1YzRzbXQzdWNrZzJ2cy9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2ZqYXA2Z2lydWpzbHA1MC9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDQvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3JuM2R4ajV3aTdjZzdiaC9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDUvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3Bkazd1b3FkYmxwazdjaC9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDYvZmlsZQ==
     </pre>
    </details>
 ### ADOBE ILLUSTRATOR
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzE1OXVvOTdsZTVid24wcS9BZG9iZV9JbGx1c3RyYXRvcl8yMDIyX3YyNi4wLjMuNzc4Ljd6LjAwMS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvbmxkcnRud3I0dm5rMWZmL0Fkb2JlX0lsbHVzdHJhdG9yXzIwMjJfdjI2LjAuMy43NzguN3ouMDAyL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS8wbnl2YjNuZTJwcmszaXQvQWRvYmVfSWxsdXN0cmF0b3JfMjAyMl92MjYuMC4zLjc3OC43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2NtdmcwNXUxejR2dG83OC9BZG9iZV9JbGx1c3RyYXRvcl8yMDIyX3YyNi4wLjMuNzc4Ljd6LjAwNC9maWxl
     </pre>
    </details>
 ### ADOBE AFTER EFFECTS
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2c0NGF0Mm9oZXVidGF4dy9BZG9iZV9BZnRlcl9FZmZlY3RzXzIwMjJfdjIyLjIuMC4xMjAuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS80YWxtMWZ4NGRkZmhycHkvQWRvYmVfQWZ0ZXJfRWZmZWN0c18yMDIyX3YyMi4yLjAuMTIwLjd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvcWIyOTJnYnppajlxbWdxL0Fkb2JlX0FmdGVyX0VmZmVjdHNfMjAyMl92MjIuMi4wLjEyMC43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2VqOHE3eTc1MzR6ZWN0bC9BZG9iZV9BZnRlcl9FZmZlY3RzXzIwMjJfdjIyLjIuMC4xMjAuN3ouMDA0L2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS83YXdrYWY3ZG12ZTUyejEvQWRvYmVfQWZ0ZXJfRWZmZWN0c18yMDIyX3YyMi4yLjAuMTIwLjd6LjAwNS9maWxl
     </pre>
    </details>
 ### ADOBE LIGHTROOM CC
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzUzZTc3Yzk2amE2OTFwNS9BZG9iZV9MaWdodHJvb20uN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9hbnUzNXUyNnBnaGlpM2wvQWRvYmVfTGlnaHRyb29tLjd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvZHJqNGYxcmluZzhjZjRhL0Fkb2JlX0xpZ2h0cm9vbS43ei4wMDMvZmlsZQ==
     </pre>
    </details>
 ### ADOBE AUDITION
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3dldnEyMWkxZWtsdTFkaS9BZG9iZV9BdWRpdGlvbl8yMDIyXzIyLjAuMC45Ni5yYXIvZmlsZQ==
     </pre>
    </details>
 ### ADOBE INDESIGN
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3d3czFwOHA1dXB0azBrai9BZG9iZV9JbkRlc2lnbl8yMDIyX3YxNy4wLjEuMTA1LnJhci9maWxl
     </pre>
    </details>
 ### ADOBE FRESCO
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3U4bTh1YmJxNXU0aHBvOC9BZG9iZV9GcmVzY29fMjAyMl92My4yLjEuNzU2LnJhci9maWxl
     </pre>
    </details>
 ### ADOBE ACROBAT PRO DC
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2E3emtiOGJteW9yMDI3Zy9BZG9iZV9BY3JvYmF0X1Byb19EQ18yMDIxX3YwMTEuMjAwMzkuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9pcHM3aGVhOGgzajN5bmsvQWRvYmVfQWNyb2JhdF9Qcm9fRENfMjAyMV92MDExLjIwMDM5Ljd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvMWV5NDk1YTVmdmhqdDVkL0Fkb2JlX0Fjcm9iYXRfUHJvX0RDXzIwMjFfdjAxMS4yMDAzOS43ei4wMDMvZmlsZQ==
     </pre>
    </details>
 ### ADOBE PHOTOSHOP LIGHTROOM
-- <details><summary>Download</summary>
+**Download**
+- <details><summary>Link</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21tNTYxbXVnbWh1aGVlMS9BZG9iZV9QaG90b3Nob3BfTGlnaHRyb29tX3Y1LjEuN3ovZmlsZQ==
     </pre>
