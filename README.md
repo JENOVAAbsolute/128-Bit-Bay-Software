@@ -133,7 +133,11 @@ Includes:
     </pre>
    </details>
 ### ADOBE PHOTOSHOP
-Download: `https://filecrypt.cc/Container/A1BA2B239B.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3B1OTV2cDN0Zjc2enFuby9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2EwZGt3aTY5YjlkdGhrZy9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3A1YzRzbXQzdWNrZzJ2cy9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2ZqYXA2Z2lydWpzbHA1MC9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDQvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3JuM2R4ajV3aTdjZzdiaC9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDUvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3Bkazd1b3FkYmxwazdjaC9BZG9iZV9QaG90b3Nob3BfMjAyMl92MjMuMS43ei4wMDYvZmlsZQ==
+    </pre>
+   </details>
 ### ADOBE ILLUSTRATOR
 Download: `https://filecrypt.cc/Container/98EC2A97F2.html`
 ### ADOBE AFTER EFFECTS
