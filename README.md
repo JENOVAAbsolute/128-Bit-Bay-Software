@@ -53,6 +53,7 @@
     + [WONDERSHARE EDRAWMIND PRO](#wondershare-edrawmind-pro)
     + [SKETCHUP PRO](#sketchup-pro)
     + [AUTODESK 3DS MAX](#autodesk-3ds-max)
+    + [TOON BOOM HARMONY 21](#toon-boom-harmony-21)
 - [DOWNLOADERS](#downloaders)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
