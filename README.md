@@ -615,10 +615,13 @@ A collaborative mind mapping, brainstorming, and outlining tool for product mana
 * * *
 ### TOON BOOM HARMONY
 
-[Official Website](https://www.toonboom.com/products/harmony)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2QzYnAyc2tyeWV0cnN1MC9Ub29uX0Jvb21fSGFybW9ueV8yMS4wLjEucmFyL2ZpbGU=
+    </pre>
+   </details>
 
-Dounload:
-`https://filecrypt.cc/Container/46FB6BD264.html`
+**[Official Website](https://www.toonboom.com/products/harmony)**
 
 
 # FILE AND DOWNLOAD MANAGERS
@@ -632,21 +635,21 @@ TEMPORARILY UNAVAILABLE
 
 *Note: The IDM integration module should automatically install into your browsers. If it does not, then use the following link to install it manually. Also make sure it’s enabled in your browser extensions.*
 
-[Download](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
+**[Download](https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)**
 
 * * *
 ### QBITTORRENT CLIENT
 
 qBitTorrent is our recommended torrent client. Do NOT use uTorrent or BitTorrent! It's spyware, and has been obsolete and unsafe for over a decade. If you have it, get rid of it and download qBittorrent.
 
-[Download](https://www.qbittorrent.org/download.php)
+**[Download](https://www.qbittorrent.org/download.php)**
 
 * * *
 ### BITLORD
 
 Android app that allows you to stream torrent videos as they download.
   
-[Download](https://play.google.com/store/apps/details?id=com.houseoflife.bitlord)
+**[Download](https://play.google.com/store/apps/details?id=com.houseoflife.bitlord)**
 
 *Note: Depending on your country, you’ll need a VPN for torrenting. It’s up to you to find out if your government gives a damn about stealing digital content.*
 
@@ -655,25 +658,31 @@ Android app that allows you to stream torrent videos as they download.
 
 Downloads music from Deezer, A platform that provides higher bitrate than Spotify Premium
 
-[Download](https://deemix.app/gui)
+**[Download](https://deemix.app/gui)**
 
 * * *
 ### AUDIALS ONE
 
 Record movies, series and television from streams. Save your favorite songs from any music streaming service.
 
-[Official Site](https://audials.com/en/audials-one)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzk3d3ZlY2NibGJsd3E2NC9BdWRpYWxzX09uZV8yMDIxLjAuMjIwLjAuN3ovZmlsZQ==
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/0B42E56858.html`
+**[Official Site](https://audials.com/en/audials-one)**
 
 * * *
 ### TOTAL COMMANDER
 
-[Official Site](https://www.ghisler.com/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2t5N3I4bGhhcWh2d2Nzai9Ub3RhbF9Db21tYW5kZXJfMTAuMDBfRXh0ZW5kZWRfMjIuMi43ei9maWxl
+    </pre>
+   </details>
 
-Download:
-``
+**[Official Site](https://www.ghisler.com/)**
 
 
 # WINDOWS CUSTOMIZATION
@@ -682,22 +691,28 @@ Download:
 
 Allows to you customize your desktop with animated wallpapers
 
-Features:
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3l0ZHpxZ21kMDc0OGJ3YS9XYWxscGFwZXJfRW5naW5lXy1fQnVpbGRfNjkwNTU5MC43ei9maWxl
+    </pre>
+   </details>
+
+**Features:**
 * Make playlists of as many wallpapers as you want
 * Use customizable hotkeys to switch playlists
 * Set your own intervals at which wallpapers change
 * Make your own animated wallpapers using the Engine’s built in tools.
 
-Download: 
-`https://filecrypt.cc/Container/7912CECD54.html`
-
 * * *
 ### DISPLAYFUSION
 
-[Official Site](https://www.displayfusion.com/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzUyZnhhZnI0Z2t3ZTVtaC9EaXNwbGF5RnVzaW9uX1Byb185Ljd6L2ZpbGU=
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/6F743274BA.html`
+**[Official Site](https://www.displayfusion.com/)**
 
 **Installation steps:**
 1.  Extract the archive
@@ -712,10 +727,13 @@ Download:
 
 ### O&O Defrag
 
-[Official Site](https://www.oo-software.com/en/products/oodefrag)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3dhdWZ2NDh4c2RscXBmNC9PJTI1MjZPX0RlZnJhZ192MjQuNS43ei9maWxl
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/A32A5C77FA.html`
+**[Official Site](https://www.oo-software.com/en/products/oodefrag)**
 
 **Installation steps:**
 1. Extract the archive
@@ -728,10 +746,13 @@ Download:
 * * *
 ### AIDA64
 
-[Official Site](https://www.aida64.com/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzkxbHFrNTJpdmN6bjl5cS9BSURBNjQuN3ovZmlsZQ==
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/66B2401349.html`
+**[Official Site](https://www.aida64.com/)**
 
 * * *
 ### GEEK UNINSTALLER
@@ -740,26 +761,27 @@ Universal uninstaller for any program on your PC. Even allows you to uninstall d
 
 *WARNING! If you don't know what it is, do not uninstall it with Geek! Important applications your PC needs can appear in this program*
 
-[Download](https://www.mediafire.com/file/0n3pmenxwk3m77q/Geek.7z/file)
+**[Download](https://www.mediafire.com/file/0n3pmenxwk3m77q/Geek.7z/file)**
 
 * * *
 ### REVO UNINSTALLER PRO
 
-[Official Site](https://www.revouninstaller.com/)
+**[Official Site](https://www.revouninstaller.com/)**
 
-Download:
-`https://filecrypt.cc/Container/7820691F0A.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2cwdG90aWJnNDg1NXFvNC9SZXZvX1VuaW5zdGFsbGVyLjd6L2ZpbGU=
+    </pre>
+   </details>
 
 * * *
 ### DEFENDER CONTROL
 
-Disable/turn off Windows Defender when transferring files or installing pirated games at just the click of a button. 
+**[Download](https://www.sordum.org/9480/defender-control-v1-9/)**
 
-Disabling antivirus makes file transfers faster, as Defender will not scan files during the transfer process.
-
-Disabling Defender is also useful for installing pirated games, because it can block installers from properly applying cracks. This leads to pirated games that don’t work.
-
-[Download](https://www.sordum.org/9480/defender-control-v1-9/)
+**Features:**
+* Disable/turn off Windows Defender when transferring files or installing pirated games at just the click of a button. 
+* Disabling antivirus makes file transfers faster, as Defender will not scan files during the transfer process.
 
 
 # MEDIA
@@ -768,32 +790,39 @@ Disabling Defender is also useful for installing pirated games, because it can b
 
 Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way.
 
-[Website](https://jellyfin.org/)
+**[Download](https://jellyfin.org/downloads/)**
 
-[Compatible Devices](https://jellyfin.org/clients/)
+**[Website](https://jellyfin.org/)**
 
-[Download](https://jellyfin.org/downloads/)
+**[Compatible Devices](https://jellyfin.org/clients/)**
 
 * * *
 ### YouTube Vanced
 
 YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking, true amoled dark mode and a lot more. Use the handy Vanced Manager to install YouTube Vanced with ease.
 
-* Features the option of an amoled black theme to reduce eye and battery strain.
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2RkM2poemVxN2ljZDEwNy9Zb3VUdWJlX1ZhbmNlZC43ei9maWxl
+    </pre>
+   </details>
+
+**Features:**
+* Includes an amoled black theme to reduce eye and battery strain.
 * Blocks All videos ads and allows you to play videos in the background or in Picture in Picture.
 * Swipe controls allow you to control brightness and volume like how it is in other video player apps such as VLC or MX Player.
 * New auto repeat feature allowing you to enjoy videos like tiktoks/vines or simply continue playing a song on loop.
-
-Download:
-`https://filecrypt.cc/Container/E7F9D4A503.html`
 
 * * *
 ### POWERISO
 
 Iso mounting tool.
 
-Download: 
-`https://filecrypt.cc/Container/B9ED43CAC6.html`
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2JvdXZlazF6OThsczR3by9Qb3dlcklTT184LjEuN3ovZmlsZQ==
+    </pre>
+   </details>
 
 **Installation steps:**
 1. Run "PowerISO8-x64-Full" (or the other installer if you have 32x)
@@ -807,61 +836,80 @@ Download:
 
 ### INFINITE ALGEBRA 1
 
-[Website](http://www.kutasoftware.com/ia1.html)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2MxNGhwcmdhZ3J5anNnZy9JbmZpbml0ZV9BbGdlYnJhXzFfdjIuNTIuN3ovZmlsZQ==
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/917D4C75CA.html`
+**[Website](http://www.kutasoftware.com/ia1.html)**
 
 * * *
 ### INFINITE ALGEBRA 2
 
-[Website](http://www.kutasoftware.com/ia2.html)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2Zoc3h1aGs4Zjc0NGFzNi9JbmZpbml0ZV9BbGdlYnJhXzJfdjIuNDIuN3ovZmlsZQ==
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/6C97C400C7.html`
+**[Website](http://www.kutasoftware.com/ia2.html)**
 
 * * *
 ### INFINITE PRECALCULUS
 
-[Website](http://www.kutasoftware.com/ipc.html)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3gxNnMxNHk0cTh5ZjZuZi9JbmZpbml0ZV9QcmVjYWxjdWx1c192Mi41Mi43ei9maWxl
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/E2C6303D4C.html`
+**[Website](http://www.kutasoftware.com/ipc.html)**
 
 * * *
 ### INFINITE CALCULUS
 
-[Website](http://www.kutasoftware.com/ica.html)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzEwanY1emQydTlocjF6Mi9JbmZpbml0ZV9DYWxjdWx1c192Mi42MS4wMy43ei9maWxl
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/252C625AC3.html`
+**[Website](http://www.kutasoftware.com/ica.html)**
 
 * * *
 ### INFINITE GEOMETRY
 
-[Website](https://www.kutasoftware.com/ige.html)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2hhYWVhaXlxeng1ZXV6OC9JbmZpbml0ZV9HZW9tZXRyeV92Mi41Mi43ei9maWxl
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/CE846BC763.html`
+**[Website](https://www.kutasoftware.com/ige.html)**
 
 * * *
 ### ANTIDOTE
 
-[Website](https://www.antidote.info/en/)
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2tkNm54dW5odXNrc29zdi9BbnRpZG90ZV8xMV92MS4xLjd6LjAwMS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvNDJ1YXFmcjZma2JmemxnL0FudGlkb3RlXzExX3YxLjEuN3ouMDAyL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9yM2czcjUwbWF6ZWNnZjcvQW50aWRvdGVfMTFfdjEuMS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3o4dHhybWc5bHBhMmZmeC9BbnRpZG90ZV8xMV92MS4xLjd6LjAwNC9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvOTJ6NjZ3bnlzenBrN3c3L0FudGlkb3RlXzExX3YxLjEuN3ouMDA1L2ZpbGU=
+    </pre>
+   </details>
 
-Download:
-`https://filecrypt.cc/Container/779883561A.html`
+**[Website](https://www.antidote.info/en/)**
 
 
 # PROGRAMMING
 
 ### JETBRAINS RIDER
 
-JetBrains Rider is a cross-platform .NET IDE based on the IntelliJ platform and ReSharper.
+JetBrains Rider is a cross-platform .NET IDE based on the IntelliJ platform and ReSharper. Rider helps you develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, or Linux. It provides rich editing support and code insight for languages used in .NET development, from C#, VB.NET and F# to ASP.NET Razor syntax, JavaScript, TypeScript, XAML, XML, HTML, CSS, SCSS, JSON, and SQL.
 
-Rider helps you develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, or Linux. It provides rich editing support and code insight for languages used in .NET development, from C#, VB.NET and F# to ASP.NET Razor syntax, JavaScript, TypeScript, XAML, XML, HTML, CSS, SCSS, JSON, and SQL.
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2phMWI4MGhhODBnZmF0dS9KZXRCcmFpbnNfUmlkZXJfMjAyMV92My4xLjd6L2ZpbGU=
+    </pre>
+   </details>
 
-[Website](https://www.jetbrains.com/rider/)
-
-Download:
-`https://filecrypt.cc/Container/693C8022DD.html`
+**[Website](https://www.jetbrains.com/rider/)**
