@@ -506,7 +506,7 @@ Dounload:
 `https://filecrypt.cc/Container/46FB6BD264.html`
 
 
-# DOWNLOADERS
+# FILE AND DOWNLOAD MANAGERS
 
 ### INTERNET DOWNLOAD MANAGER
 
