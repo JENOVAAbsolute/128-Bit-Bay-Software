@@ -4,10 +4,6 @@
 
 ## *Use the Table of Contents below to quickly search for software. If what you want is not listed, you can request it on Discord.*
 
-## *Most trusted sites use premium hosts with slow download speeds and cooldowns. I host on MediaFire, which has neither of those drawbacks.*
-
-## *Cracks are likely to trigger your antivirus. It's a false positive. Disable your AV or make an exception so the crack is not deleted.*
-
 ## *You must use a decoder for most downloads: https://www.base64decode.org/*
 
 ### Table of Contents
