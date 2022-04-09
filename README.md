@@ -179,7 +179,7 @@ Features:
 * New abilities, like being able to slide down walls
 * And more
 
-[Download:](https://www.mediafire.com/file/qx1s2cxjp3k157n/SM64Plus.7z/file)
+[Download](https://www.mediafire.com/file/qx1s2cxjp3k157n/SM64Plus.7z/file)
 
 * * *
 ### SUPER MARIO 64 CO-OP
@@ -540,7 +540,7 @@ Android app that allows you to stream torrent videos as they download.
 
 Downloads music from Deezer, A platform that provides higher bitrate than Spotify Premium
 
-[Download](https://www.reddit.com/r/deemix/comments/hmrhhs/download_links/)
+[Download](https://deemix.app/gui)
 
 * * *
 ### AUDIALS ONE
