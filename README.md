@@ -128,8 +128,7 @@
 * * *
 ### ADOBE MEDIA ENCODER
 
-**Version:**
-2022 v22.2.0.64
+**Version:** 22.2.0.64
 
 - <details><summary>Download</summary>
     <pre>
@@ -138,8 +137,7 @@
    </details>
 ### ADOBE PREMIERE PRO
 
-**Version:**
-2022 v22.1.1
+**Version:** 22.1.1
 
 - <details><summary>Download</summary>
     <pre>
@@ -148,8 +146,7 @@
    </details>
 ### ADOBE PHOTOSHOP
 
-**Version:**
-2022 v23.1
+**Version:** 23.1
 
 - <details><summary>Download</summary>
     <pre>
@@ -157,48 +154,72 @@
     </pre>
    </details>
 ### ADOBE ILLUSTRATOR
+
+**Version:** 26.0.3.778
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzE1OXVvOTdsZTVid24wcS9BZG9iZV9JbGx1c3RyYXRvcl8yMDIyX3YyNi4wLjMuNzc4Ljd6LjAwMS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvbmxkcnRud3I0dm5rMWZmL0Fkb2JlX0lsbHVzdHJhdG9yXzIwMjJfdjI2LjAuMy43NzguN3ouMDAyL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS8wbnl2YjNuZTJwcmszaXQvQWRvYmVfSWxsdXN0cmF0b3JfMjAyMl92MjYuMC4zLjc3OC43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2NtdmcwNXUxejR2dG83OC9BZG9iZV9JbGx1c3RyYXRvcl8yMDIyX3YyNi4wLjMuNzc4Ljd6LjAwNC9maWxl
     </pre>
    </details>
 ### ADOBE AFTER EFFECTS
+
+**Version:** 22.2.0.120
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2c0NGF0Mm9oZXVidGF4dy9BZG9iZV9BZnRlcl9FZmZlY3RzXzIwMjJfdjIyLjIuMC4xMjAuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS80YWxtMWZ4NGRkZmhycHkvQWRvYmVfQWZ0ZXJfRWZmZWN0c18yMDIyX3YyMi4yLjAuMTIwLjd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvcWIyOTJnYnppajlxbWdxL0Fkb2JlX0FmdGVyX0VmZmVjdHNfMjAyMl92MjIuMi4wLjEyMC43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2VqOHE3eTc1MzR6ZWN0bC9BZG9iZV9BZnRlcl9FZmZlY3RzXzIwMjJfdjIyLjIuMC4xMjAuN3ouMDA0L2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS83YXdrYWY3ZG12ZTUyejEvQWRvYmVfQWZ0ZXJfRWZmZWN0c18yMDIyX3YyMi4yLjAuMTIwLjd6LjAwNS9maWxl
     </pre>
    </details>
 ### ADOBE LIGHTROOM CC
+
+**Version:** *Unknown*
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzUzZTc3Yzk2amE2OTFwNS9BZG9iZV9MaWdodHJvb20uN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9hbnUzNXUyNnBnaGlpM2wvQWRvYmVfTGlnaHRyb29tLjd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvZHJqNGYxcmluZzhjZjRhL0Fkb2JlX0xpZ2h0cm9vbS43ei4wMDMvZmlsZQ==
     </pre>
    </details>
 ### ADOBE AUDITION
+
+**Version:** 22.0.0.96
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3dldnEyMWkxZWtsdTFkaS9BZG9iZV9BdWRpdGlvbl8yMDIyXzIyLjAuMC45Ni5yYXIvZmlsZQ==
     </pre>
    </details>
 ### ADOBE INDESIGN
+
+**Version:** 17.0.1.105
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3d3czFwOHA1dXB0azBrai9BZG9iZV9JbkRlc2lnbl8yMDIyX3YxNy4wLjEuMTA1LnJhci9maWxl
     </pre>
    </details>
 ### ADOBE FRESCO
+
+**Version:** 3.2.1.756
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3U4bTh1YmJxNXU0aHBvOC9BZG9iZV9GcmVzY29fMjAyMl92My4yLjEuNzU2LnJhci9maWxl
     </pre>
    </details>
 ### ADOBE ACROBAT PRO DC
+
+**Version:** 011.20039
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2E3emtiOGJteW9yMDI3Zy9BZG9iZV9BY3JvYmF0X1Byb19EQ18yMDIxX3YwMTEuMjAwMzkuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9pcHM3aGVhOGgzajN5bmsvQWRvYmVfQWNyb2JhdF9Qcm9fRENfMjAyMV92MDExLjIwMDM5Ljd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvMWV5NDk1YTVmdmhqdDVkL0Fkb2JlX0Fjcm9iYXRfUHJvX0RDXzIwMjFfdjAxMS4yMDAzOS43ei4wMDMvZmlsZQ==
     </pre>
    </details>
 ### ADOBE PHOTOSHOP LIGHTROOM
+
+**Version:** 5.1
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL21tNTYxbXVnbWh1aGVlMS9BZG9iZV9QaG90b3Nob3BfTGlnaHRyb29tX3Y1LjEuN3ovZmlsZQ==
@@ -227,11 +248,9 @@
 
 *Note: You choose your starter by answering color coded questions asked by the professor.*
 
-**Official walkthrough for everything you need:**
-https://pokemon-uranium.fandom.com/wiki/Game_Walkthrough
+**[Official Walkthrough](https://pokemon-uranium.fandom.com/wiki/Game_Walkthrough)**
 
-**Official Pokemon Uranium Discord server:**
-https://discord.gg/uranium
+**[Official Discord Server](https://discord.gg/uranium)**
 
 * * *
 ### SUPER MARIO 64 PLUS
@@ -267,8 +286,6 @@ Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the gam
 * * *
 ### WONDERDRAFT
 
-Dungeons & Dragons map creation tool.
-
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzd2bWtqamVqZDFuNWZzZC9Xb25kZXJkcmFmdC43ei9maWxl
@@ -279,14 +296,14 @@ Dungeons & Dragons map creation tool.
 
 * * *
 ### LAUNCHBOX PREMIUM
-
-The ultimate modern and retro game launcher!
   
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzFiY2duOWZzZnZvcHVmNC9MYXVuY2hfQm94LnJhci9maWxl
     </pre>
    </details>
+
+**[Official Site](https://www.launchbox-app.com/)**
 
 **Installation steps:**
 1. Run “LaunchBox-11.10-Setup.exe”
@@ -299,8 +316,6 @@ The ultimate modern and retro game launcher!
 * * *
 ### STEAM ROM MANAGER
 
-Allows you to add ROMs to your Steam library. No need to launch the emulator then the game after. This does both simultaneously by just clicking “Play” on Steam.
-
 **[Download](https://www.mediafire.com/file/04oatsp8a59n8an/Steam_ROM_Manager.7z/file)**
 
 **Features:**
@@ -311,8 +326,6 @@ Allows you to add ROMs to your Steam library. No need to launch the emulator the
 * Select game art for your ROMs on the preview screen, or add your own
 * Automatically sorts your games on Steam alphabetically
 
-*Note: This software looks hard to use. It’s not. If you find yourself having trouble, ping JENOVA for help.*
-
 * * *
 ### STEAM ACHIEVEMENT MANAGER
 
@@ -322,17 +335,8 @@ Easy to use tool to force unlock Steam Achievements.
 
 **[Download](https://www.mediafire.com/file/7959hmvrrsju1ez/Steam_Achievement_Manager.7z/file)**
 
-**Example uses:**
-*  Achievements you can't get due to bugs or glitches 
-*  Online achievements when the game has shut down its multiplayer service, like Tomb Raider 
-*  Achievements requiring tools you don't have, such as VR, etc
-*  A game with mod support disabling achievements
-*  Or maybe you're just a lazy bum 
-
 * * *
 ### REWASD
-
-A truly powerful gamepad mapper that allows you to remap a controller to keyboard and mouse, reassign with Xbox Elite Paddles, and turn your ordinary joystick in a turbo & macro controller.
 
 - <details><summary>Download</summary>
     <pre>
@@ -354,20 +358,20 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
 * * *
 ### OVR TOOLKIT
 
-OVR Toolkit is a SteamVR Overlay utility designed to make viewing the desktop within VR easy and intuitive. OVR Toolkit allows you to display specific desktop windows, quickly select between them, use intuitive controls to navigate those windows, and use a virtual keyboard to type.
-
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2lwamhoNDhtZHJpdmdsay9PVlJfVG9vbGtpdC43ei9maWxl
     </pre>
    </details>
 
-**[Steam page](https://store.steampowered.com/app/1068820/OVR_Toolkit/)**
+**[Steam Page](https://store.steampowered.com/app/1068820/OVR_Toolkit/)**
 
 *Note: OVR Toolkit comes pre-installed in portable mode. Just extract and run the program.*
 
 * * *
 ### NINJA RIPPER
+
+**Version:** 2.0.4 beta
 
 - <details><summary>Download</summary>
     <pre>
@@ -392,13 +396,15 @@ OVR Toolkit is a SteamVR Overlay utility designed to make viewing the desktop wi
 
 ### TOPAZ GIGAPIXEL AI
 
-Enlarging your image without losing detail has always been impossible… until now. Enlarge your photos up to 600% while perfectly preserving image quality.
+**Version:** 5.6.1
 
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29qdnVwY205Nnk1Y2Q1YS9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3hlenpyZ2J1bmN2NjA5aC9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3BvNnkyZGRuaTV2NzZobi9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3kxMTR4ZTJya251dXlqcC9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDQvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3R1YmNzb2U3NThmbWM1dy9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDUvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3k5MThzcnRxbXdzcXFybC9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDYvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzM1M3piYXZqc2ZkaWI3ZC9Ub3Bhel9HaWdhcGl4ZWxfQUlfNS42LjFfJTI1Mjh4NjQlMjUyOS43ei4wMDcvZmlsZQ==
     </pre>
    </details>
+
+**[Official Site](https://www.topazlabs.com/gigapixel-ai)**
 
 **Installation steps:**
 1. Extract the archive
@@ -411,7 +417,7 @@ Enlarging your image without losing detail has always been impossible… until n
 * * *
 ### TOPAZ VIDEO ENHANCE AI
 
-Video Enhance AI uses the latest deep learning techniques to naturally increase video quality and detail by using temporal information.
+**Version:** 2.4.0
 
 - <details><summary>Download</summary>
     <pre>
@@ -419,11 +425,7 @@ Video Enhance AI uses the latest deep learning techniques to naturally increase 
     </pre>
    </details>
 
-**Features:**
-* Upscale SD to HD and HD to 4k or 8k while adding crisp video details
-* Remove noise and grain. Minimize flickering and other artifacts
-* Use deep learning to deinterlace videos while preserving image definition
-* Naturally restore old videos without adding visual artifacts
+**[Official Site](https://www.topazlabs.com/video-enhance-ai)**
 
 **Installation steps:**
 1. Extract the archive
@@ -436,16 +438,20 @@ Video Enhance AI uses the latest deep learning techniques to naturally increase 
 * * *
 ### DAVINCI RESOLVE STUDIO 2021
 
+**Version:** 17.0.0.0039
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2F5YTdobDU1dGJsZjE1aC9CbGFja21hZ2ljX0Rlc2lnbl9EYVZpbmNpX1Jlc29sdmVfU3R1ZGlvXzE3LjAuMC4wMDM5Ljd6LjAwMS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvY2YwbnZvOGVvc25wcXUwL0JsYWNrbWFnaWNfRGVzaWduX0RhVmluY2lfUmVzb2x2ZV9TdHVkaW9fMTcuMC4wLjAwMzkuN3ouMDAyL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS81cWF3ZWU1NjNsNXRta2UvQmxhY2ttYWdpY19EZXNpZ25fRGFWaW5jaV9SZXNvbHZlX1N0dWRpb18xNy4wLjAuMDAzOS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3B5ZzZ3ZzMzbWVweHhiYi9CbGFja21hZ2ljX0Rlc2lnbl9EYVZpbmNpX1Jlc29sdmVfU3R1ZGlvXzE3LjAuMC4wMDM5Ljd6LjAwNC9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvOXNhYm11ZDFtMXR0b3JmL0JsYWNrbWFnaWNfRGVzaWduX0RhVmluY2lfUmVzb2x2ZV9TdHVkaW9fMTcuMC4wLjAwMzkuN3ouMDA1L2ZpbGU=
     </pre>
    </details>
 
-**[Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)**
+**[Official Site](https://www.blackmagicdesign.com/products/davinciresolve/studio)**
 
 * * *
 ### VEGAS PRO
+
+**Version:** 19.0.0.458
 
 - <details><summary>Download</summary>
     <pre>
@@ -458,6 +464,8 @@ Video Enhance AI uses the latest deep learning techniques to naturally increase 
 * * *
 ### FILMORA X
 
+**Version:** 10.1.20.15
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3FnZmFqb3kwbjhkZDRtMC9GaWxtb3JhX1hfMTAuMS4yMC4xNS43ei9maWxl
@@ -469,7 +477,7 @@ Video Enhance AI uses the latest deep learning techniques to naturally increase 
 * * *
 ### STAXRIP VIDEO ENCODER
 
-Comparable to Handbrake, but you are given much more control over the encoding quality.
+Comparable to Handbrake, but you are given much more control over encoding quality.
 
 **[Download](https://www.mediafire.com/file/u6x1jv7j00hkhbr/StaxRip.7z/file)**
 
@@ -489,13 +497,15 @@ Comparable to Handbrake, but you are given much more control over the encoding q
 * * *
 ### VOICEMOD PRO
 
-Voice changer and regulator for your voice chat!
+**Version:** 1.2.6.8
 
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZwMXZ1cXdweG84dzhjdS9Wb2ljZU1vZF9Qcm9fdjEuMi42LjguN3ovZmlsZQ==
     </pre>
    </details>
+
+**[Official Site](https://www.voicemod.net/)**
 
 **Installation steps:**
 1. Run “VoicemodSetup.exe”
@@ -507,7 +517,7 @@ Voice changer and regulator for your voice chat!
 * * *
 ### SPECTRASONICS KEYSCAPE
 
-Keyscape is an extraordinary virtual instrument featuring the largest selection of collector keyboards in the world. From “holy grail” pianos to stunning keyboards you didn’t even know existed, this is a keyboardist’s dream come true.
+**Version:** 1.3.1c
 
 - <details><summary>Download</summary>
     <pre>
@@ -520,7 +530,7 @@ Keyscape is an extraordinary virtual instrument featuring the largest selection 
 * * *
 ### ABLETON LIVE SUITE
 
-Ableton Live is a fast, fluid and flexible software for music creation and performance. It comes with effects, instruments, sounds and all kinds of creative features. Everything you need to make any kind of music is here.
+**Version: 11.0.10
 
 - <details><summary>Download</summary>
     <pre>
@@ -532,6 +542,8 @@ Ableton Live is a fast, fluid and flexible software for music creation and perfo
 
 * * *
 ### FL STUDIO
+
+**Version:** 20.8.3.2304
 
 - <details><summary>Download</summary>
     <pre>
@@ -546,19 +558,13 @@ Ableton Live is a fast, fluid and flexible software for music creation and perfo
 
 ### ARTRAGE 6
 
-A very handy application which will allow you to paint, sketch and draw in a very modern looking working environment.
-
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZxbmlnMGhxZjdxdnJwNC9BcnRSYWdlXzYuN3ovZmlsZQ==
     </pre>
    </details>
  
-**Features:**
-* Watercolors, oil palettes, pens and brushes
-* Easy to use interface
-* Allows you to use menus to categorize all the functions
-* Import images for further processing and editing
+**[Official Site](https://www.artrage.com/artrage-6/)**
 
 **Installation steps:**
 1. Extract the downloaded file
@@ -573,7 +579,7 @@ A very handy application which will allow you to paint, sketch and draw in a ver
 * * *
 ### CLIP STUDIO PAINT
 
-Clip Studio Paint is optimized for drawing and painting. The paint brushes are highly customizable and easy to use. There's a thriving community of users who constantly contribute to the online materials library. Clip Studio Paint is also ideal for illustrators who specialize in linework. The smoothness of lines, lack of lag while drawing, as well as the vector output make drawing very fun and efficient.
+**Version:** 1.9.4
 
 - <details><summary>Download</summary>
     <pre>
@@ -581,10 +587,12 @@ Clip Studio Paint is optimized for drawing and painting. The paint brushes are h
     </pre>
    </details>
 
+**[Official Site](https://www.clipstudio.net/en/)**
+
 * * *
 ### WONDERSHARE EDRAWMIND PRO
 
-A collaborative mind mapping, brainstorming, and outlining tool for product managers.
+**Version:** 9.0.10
 
 - <details><summary>Download</summary>
     <pre>
@@ -597,6 +605,8 @@ A collaborative mind mapping, brainstorming, and outlining tool for product mana
 * * *
 ### SKETCHUP PRO
 
+**Version:** 22.0.316
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3JoZHdwbnRwMnVqdXZ5YS9Ta2V0Y2hVcF9Qcm9fMjAyMl92MjIuMC4zMTYuN3ovZmlsZQ==
@@ -607,6 +617,8 @@ A collaborative mind mapping, brainstorming, and outlining tool for product mana
 
 * * *
 ### AUTODESK 3DS MAX
+
+**Version:** 2022.3
 
 - <details><summary>Download</summary>
     <pre>
@@ -619,6 +631,8 @@ A collaborative mind mapping, brainstorming, and outlining tool for product mana
 * * *
 ### TOON BOOM HARMONY
 
+**Version:** 21.0.1
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2QzYnAyc2tyeWV0cnN1MC9Ub29uX0Jvb21fSGFybW9ueV8yMS4wLjEucmFyL2ZpbGU=
@@ -630,8 +644,7 @@ A collaborative mind mapping, brainstorming, and outlining tool for product mana
 * * *
 ### ZBRUSH
 
-**Version:**
-2022.0.5
+**Version:** 2022.0.5
 
 - <details><summary>Download</summary>
     <pre>
@@ -646,10 +659,10 @@ A collaborative mind mapping, brainstorming, and outlining tool for product mana
 
 ### INTERNET DOWNLOAD MANAGER
 
-Premium alternative to jDownloader and Free Download Manager. Has great downloads speeds and is easy to use.
-
 Download: 
 TEMPORARILY UNAVAILABLE
+
+**[Official Site](https://www.internetdownloadmanager.com/)**
 
 *Note: The IDM integration module should automatically install into your browsers. If it does not, then use the following link to install it manually. Also make sure it’s enabled in your browser extensions.*
 
@@ -658,9 +671,9 @@ TEMPORARILY UNAVAILABLE
 * * *
 ### QBITTORRENT CLIENT
 
-qBitTorrent is our recommended torrent client. Do NOT use uTorrent or BitTorrent! It's spyware, and has been obsolete and unsafe for over a decade. If you have it, get rid of it and download qBittorrent.
+**[Download](https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent_4.4.2_x64_setup.exe)**
 
-**[Download](https://www.qbittorrent.org/download.php)**
+**[Official Site](https://www.qbittorrent.org/)**
 
 * * *
 ### BITLORD
@@ -674,12 +687,12 @@ Android app that allows you to stream torrent videos as they download.
 
 Downloads music from Deezer, A platform that provides higher bitrate than Spotify Premium
 
-**[Download](https://deemix.app/gui)**
+**[Download](https://download.deemix.app/gui/win-amd64_setup-latest.exe?filename=deemix-gui%20Setup.exe)**
 
 * * *
 ### AUDIALS ONE
 
-Record movies, series and television from streams. Save your favorite songs from any music streaming service.
+**Version:** 2021.0.220.0
 
 - <details><summary>Download</summary>
     <pre>
@@ -691,6 +704,8 @@ Record movies, series and television from streams. Save your favorite songs from
 
 * * *
 ### TOTAL COMMANDER
+
+**Version:** 10.00 Extended 22.2
 
 - <details><summary>Download</summary>
     <pre>
@@ -705,7 +720,7 @@ Record movies, series and television from streams. Save your favorite songs from
 
 ### WALLPAPER ENGINE
 
-Allows to you customize your desktop with animated wallpapers
+**Version:** Build 6905590
 
 - <details><summary>Download</summary>
     <pre>
@@ -713,14 +728,14 @@ Allows to you customize your desktop with animated wallpapers
     </pre>
    </details>
 
-**Features:**
-* Make playlists of as many wallpapers as you want
-* Use customizable hotkeys to switch playlists
-* Set your own intervals at which wallpapers change
-* Make your own animated wallpapers using the Engine’s built in tools.
+**[Official Site](https://www.wallpaperengine.io/en)**
+
+**[Steam Page](https://store.steampowered.com/app/431960/Wallpaper_Engine/)**
 
 * * *
 ### DISPLAYFUSION
+
+**Version:** Pro 9
 
 - <details><summary>Download</summary>
     <pre>
@@ -736,12 +751,12 @@ Allows to you customize your desktop with animated wallpapers
 3.  Extract the keygen archive
 4.  Run the "crd_kg.exe" to apply the crack.
 
-*Note: Keygens are almost always going to trigger your antivirus. It's a false positive. Disable your AV or make an exception so it does not delete the keygen.*
-
 
 # SYSTEM MANAGEMENT
 
 ### O&O Defrag
+
+**Version:** 24.5
 
 - <details><summary>Download</summary>
     <pre>
@@ -770,8 +785,6 @@ Allows to you customize your desktop with animated wallpapers
 * * *
 ### GEEK UNINSTALLER
 
-Universal uninstaller for any program on your PC. Even allows you to uninstall default Windows applications (UWP) that cannot be uninstalled normally. It also deletes leftover files that normal uninstallers can leave behind.
-
 *WARNING! If you don't know what it is, do not uninstall it with Geek! Important applications your PC needs can appear in this program*
 
 **[Download](https://www.mediafire.com/file/0n3pmenxwk3m77q/Geek.7z/file)**
@@ -792,16 +805,10 @@ Universal uninstaller for any program on your PC. Even allows you to uninstall d
 
 **[Download](https://www.sordum.org/9480/defender-control-v1-9/)**
 
-**Features:**
-* Disable/turn off Windows Defender when transferring files or installing pirated games at just the click of a button. 
-* Disabling antivirus makes file transfers faster, as Defender will not scan files during the transfer process.
-
 
 # MEDIA
 
 ### JELLYFIN
-
-Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way.
 
 **[Download](https://jellyfin.org/downloads/)**
 
@@ -820,16 +827,12 @@ YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking
     </pre>
    </details>
 
-**Features:**
-* Includes an amoled black theme to reduce eye and battery strain.
-* Blocks All videos ads and allows you to play videos in the background or in Picture in Picture.
-* Swipe controls allow you to control brightness and volume like how it is in other video player apps such as VLC or MX Player.
-* New auto repeat feature allowing you to enjoy videos like tiktoks/vines or simply continue playing a song on loop.
-
 * * *
 ### POWERISO
 
 Iso mounting tool.
+
+**Version:** 8.1
 
 - <details><summary>Download</summary>
     <pre>
@@ -842,12 +845,12 @@ Iso mounting tool.
 2. Install the program
 3. Run the keygen
 
-*Note: Your antivirus might flag or delete the keygen. It's a false positive.*
-
 
 # TEACHING AND LEARNING
 
 ### INFINITE ALGEBRA 1
+
+**Version:** 2.52
 
 - <details><summary>Download</summary>
     <pre>
@@ -860,6 +863,8 @@ Iso mounting tool.
 * * *
 ### INFINITE ALGEBRA 2
 
+**Version:** 2.42
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2Zoc3h1aGs4Zjc0NGFzNi9JbmZpbml0ZV9BbGdlYnJhXzJfdjIuNDIuN3ovZmlsZQ==
@@ -870,6 +875,8 @@ Iso mounting tool.
 
 * * *
 ### INFINITE PRECALCULUS
+
+**Version:** 2.52
 
 - <details><summary>Download</summary>
     <pre>
@@ -882,6 +889,8 @@ Iso mounting tool.
 * * *
 ### INFINITE CALCULUS
 
+**Version:** 2.61.03
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzEwanY1emQydTlocjF6Mi9JbmZpbml0ZV9DYWxjdWx1c192Mi42MS4wMy43ei9maWxl
@@ -893,6 +902,8 @@ Iso mounting tool.
 * * *
 ### INFINITE GEOMETRY
 
+**Version:** 2.52
+
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2hhYWVhaXlxeng1ZXV6OC9JbmZpbml0ZV9HZW9tZXRyeV92Mi41Mi43ei9maWxl
@@ -903,6 +914,8 @@ Iso mounting tool.
 
 * * *
 ### ANTIDOTE
+
+**Version:** 1.1
 
 - <details><summary>Download</summary>
     <pre>
@@ -917,7 +930,7 @@ Iso mounting tool.
 
 ### JETBRAINS RIDER
 
-JetBrains Rider is a cross-platform .NET IDE based on the IntelliJ platform and ReSharper. Rider helps you develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, or Linux. It provides rich editing support and code insight for languages used in .NET development, from C#, VB.NET and F# to ASP.NET Razor syntax, JavaScript, TypeScript, XAML, XML, HTML, CSS, SCSS, JSON, and SQL.
+**Version:** 3.1.7
 
 - <details><summary>Download</summary>
     <pre>
