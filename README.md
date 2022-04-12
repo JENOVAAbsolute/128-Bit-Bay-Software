@@ -56,6 +56,7 @@
     + [SKETCHUP PRO](#sketchup-pro)
     + [AUTODESK 3DS MAX](#autodesk-3ds-max)
     + [TOON BOOM HARMONY](#toon-boom-harmony)
+    + [ZBRUSH](#ZBRUSH)
 - [FILE AND DOWNLOAD MANAGERS](#file-and-download-managers)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
@@ -613,6 +614,20 @@ A collaborative mind mapping, brainstorming, and outlining tool for product mana
    </details>
 
 **[Official Website](https://www.toonboom.com/products/harmony)**
+
+* * *
+### ZBRUSH
+
+**Version:**
+2022.0.5
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3M3d29zeGh2NXExNDBqOC9QaXhvbG9naWNfWkJydXNoXzIwMjIuMC41Ljd6LjAwMS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvMW9ubHBldTY0M2l6Z2VwL1BpeG9sb2dpY19aQnJ1c2hfMjAyMi4wLjUuN3ouMDAyL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS80M3NyY2w4NWlrbGc0amsvUGl4b2xvZ2ljX1pCcnVzaF8yMDIyLjAuNS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2F1c3NlM3BpZGt6MzJ5NC9QaXhvbG9naWNfWkJydXNoXzIwMjIuMC41Ljd6LjAwNC9maWxl
+    </pre>
+   </details>
+
+**[Official Website](https://pixologic.com/)**
 
 
 # FILE AND DOWNLOAD MANAGERS
