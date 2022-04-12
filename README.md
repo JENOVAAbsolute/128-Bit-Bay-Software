@@ -663,7 +663,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
 
 - <details><summary>Download</summary>
     <pre>
-    aHR0cHM6Ly9jcy5yaW4ucnUvZm9ydW0vdmlld3RvcGljLnBocD9wPTI1Njc5MzIjcDI1Njc5MzI=
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzhqbnk2bWhrZ2U5YXl5dy9JbnRlcm5ldF9Eb3dubG9hZF9NYW5hZ2VyXzYuNDBfQnVpbGRfMTEuN3ovZmlsZQ==
     </pre>
    </details>
 
