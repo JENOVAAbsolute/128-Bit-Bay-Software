@@ -659,8 +659,13 @@ Comparable to Handbrake, but you are given much more control over encoding quali
 
 ### INTERNET DOWNLOAD MANAGER
 
-Download: 
-TEMPORARILY UNAVAILABLE
+**Version:** 6.40 Build 11
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly9jcy5yaW4ucnUvZm9ydW0vdmlld3RvcGljLnBocD9wPTI1Njc5MzIjcDI1Njc5MzI=
+    </pre>
+   </details>
 
 **[Official Site](https://www.internetdownloadmanager.com/)**
 
