@@ -55,6 +55,7 @@
     + [WONDERSHARE EDRAWMIND PRO](#wondershare-edrawmind-pro)
     + [SKETCHUP PRO](#sketchup-pro)
     + [AUTODESK 3DS MAX](#autodesk-3ds-max)
+    + [AUTODESK INFRAWORKS](#autodesk-infraworks)
     + [TOON BOOM HARMONY](#toon-boom-harmony)
     + [ZBRUSH](#ZBRUSH)
 - [FILE AND DOWNLOAD MANAGERS](#file-and-download-managers)
@@ -627,6 +628,19 @@ Comparable to Handbrake, but you are given much more control over encoding quali
    </details>
 
 **[Official Site](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription)**
+
+* * *
+### AUTODESK INFRAWORKS
+
+**Version:** 2023
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2Uzc2huZnBsZm44OXg1eS9BdXRvZGVza19JbmZyYVdvcmtzXzIwMjMuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS92cmdoMDF4aXc4bGFodzEvQXV0b2Rlc2tfSW5mcmFXb3Jrc18yMDIzLjd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUva2R6dG5sMW5pcDZ4dmdpL0F1dG9kZXNrX0luZnJhV29ya3NfMjAyMy43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2kwcHUxaGwzZ3N5dDZzbS9BdXRvZGVza19JbmZyYVdvcmtzXzIwMjMuN3ouMDA0L2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS82cHkycmwwa2ttODcxZ2QvQXV0b2Rlc2tfSW5mcmFXb3Jrc18yMDIzLjd6LjAwNS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvcjNtbDZ3YWxza3R3cXE3L0F1dG9kZXNrX0luZnJhV29ya3NfMjAyMy43ei4wMDYvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzZpd3Bvend1YzlkcGtuNS9BdXRvZGVza19JbmZyYVdvcmtzXzIwMjMuN3ouMDA3L2ZpbGU=
+    </pre>
+   </details>
+   
+**[Official Site](https://www.autodesk.com/products/infraworks/overview?term=1-YEAR&tab=subscription&plc=IW360P)
 
 * * *
 ### TOON BOOM HARMONY
