@@ -79,6 +79,7 @@
     + [JELLYFIN](#jellyfin)
     + [YOUTUBE VANCED](#youtube-vanced)
     + [POWERISO](#poweriso)
+    + [TACHIYOMI](#tachiyomi)
 - [TEACHING AND LEARNING](#teaching-and-learning)
     + [INFINITE ALGEBRA 1](#infinite-algebra-1)
     + [INFINITE ALGEBRA 2](#infinite-algebra-2)
@@ -716,6 +717,12 @@ Android app that allows you to stream torrent videos as they download.
 **[Download](https://play.google.com/store/apps/details?id=com.houseoflife.bitlord)**
 
 * * *
+### FLUD
+
+Torrent downloader for android.
+
+**[Download](https://play.google.com/store/apps/details?id=com.delphicoder.flud&hl=en_US&gl=US)**
+
 ### DEEMIX
 
 Downloads music from Deezer, A platform that provides higher bitrate than Spotify Premium
@@ -863,8 +870,6 @@ YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking
 * * *
 ### POWERISO
 
-Iso mounting tool.
-
 **Version:** 8.1
 
 - <details><summary>Download</summary>
@@ -877,6 +882,15 @@ Iso mounting tool.
 1. Run "PowerISO8-x64-Full" (or the other installer if you have 32x)
 2. Install the program
 3. Run the keygen
+
+* * *
+### TACHIYOMI
+
+Android app for manga readers. Includes a download feature as well.
+
+**Version:** 0.13.4
+
+**[Download](https://www.mediafire.com/file/et3n4woohgc33km/Tachiyomi_0.13.4.7z/file)**
 
 
 # TEACHING AND LEARNING
