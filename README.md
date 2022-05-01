@@ -71,7 +71,7 @@
     + [WALLPAPER ENGINE](#wallpaper-engine)
     + [DISPLAYFUSION](#displayfusion)
 - [SYSTEM MANAGEMENT](#system-management)
-    + [O&O Defrag](#o-o-defrag)
+    + [O&O DEFRAG](#o-o-defrag)
     + [AIDA64](#aida64)
     + [GEEK UNINSTALLER](#geek-uninstaller)
     + [REVO UNINSTALLER PRO](#revo-uninstaller-pro)
