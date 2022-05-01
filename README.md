@@ -891,7 +891,7 @@ Android app for manga readers. Includes a download feature as well.
 
 **Version:** 0.13.4
 
-**[Download](https://www.mediafire.com/file/et3n4woohgc33km/Tachiyomi_0.13.4.7z/file)**
+**[Download](https://tachiyomi.org/download/)**
 
 
 # TEACHING AND LEARNING
