@@ -646,7 +646,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
 **[Official Site](https://www.autodesk.com/products/infraworks/overview?term=1-YEAR&tab=subscription&plc=IW360P)**
 
 * * *
-### Autodesk Civil 3D
+### AUTODESK CIVIL 3D
 
 **Version:** 2022
 
@@ -795,7 +795,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
 
 # SYSTEM MANAGEMENT
 
-### O&O Defrag
+### O&O DEFRAG
 
 **Version:** 24.5
 
@@ -858,7 +858,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
 **[Compatible Devices](https://jellyfin.org/clients/)**
 
 * * *
-### YouTube Vanced
+### YOUTUBE VANCED
 
 YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking, true amoled dark mode and a lot more. Use the handy Vanced Manager to install YouTube Vanced with ease.
 
