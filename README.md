@@ -889,8 +889,6 @@ YouTube Vanced is the stock Android YouTube app, but better! Includes adblocking
 
 Android app for manga readers. Includes a download feature as well.
 
-**Version:** 0.13.4
-
 **[Download](https://tachiyomi.org/download/)**
 
 
