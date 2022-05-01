@@ -63,6 +63,7 @@
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
     + [BITLORD](#bitlord)
+    + [FLUD](#flud)
     + [DEEMIX](#deemix)
     + [AUDIALS ONE](#audials-one)
     + [TOTAL COMMANDER](#total-commander)
