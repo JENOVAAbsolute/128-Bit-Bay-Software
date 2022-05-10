@@ -57,6 +57,7 @@
     + [AUTODESK 3DS MAX](#autodesk-3ds-max)
     + [AUTODESK INFRAWORKS](#autodesk-infraworks)
     + [AUTODESK CIVIL 3D](#autodesk-civil-3d)
+    + [AUTODESK MAYA](#autodesk-maya)
     + [TOON BOOM HARMONY](#toon-boom-harmony)
     + [ZBRUSH](#ZBRUSH)
 - [FILE AND DOWNLOAD MANAGERS](#file-and-download-managers)
@@ -657,6 +658,19 @@ Comparable to Handbrake, but you are given much more control over encoding quali
    </details>
    
 **[Official Site](https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription)**
+
+* * *
+### AUTODESK MAYA
+
+**Version:** 2022.2
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3Z3cHQ2djBsbmI3bGZ1Zy9BdXRvZGVza19NYXlhXzIwMjIuMi43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzR3bHR3ZW40b2Q2eHMxbC9BdXRvZGVza19NYXlhXzIwMjIuMi43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3o5eHRtMXZhenVtNjQ2bi9BdXRvZGVza19NYXlhXzIwMjIuMi43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2ZtMjJ2bHVkeWFmaHYzeS9BdXRvZGVza19NYXlhXzIwMjIuMi43ei4wMDQvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2Uxem9vNTBrbndzc3l1Ni9BdXRvZGVza19NYXlhXzIwMjIuMi43ei4wMDUvZmlsZQ==
+    </pre>
+   </details>
+   
+   **[Official Site](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription)**
 
 * * *
 ### TOON BOOM HARMONY
