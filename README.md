@@ -77,6 +77,7 @@
     + [GEEK UNINSTALLER](#geek-uninstaller)
     + [REVO UNINSTALLER PRO](#revo-uninstaller-pro)
     + [DEFENDER CONTROL](#defender-control)
+    + [IMAZING](#imazing)
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
     + [YOUTUBE VANCED](#youtube-vanced)
@@ -769,6 +770,19 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
    </details>
 
 **[Official Site](https://www.ghisler.com/)**
+
+* * *
+### IMAZING
+
+**Version:** 2.12.3
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNqamNlN3o3bXE5M2ZyMC9pTWF6aW5nXzIuMTIuMy5yYXIvZmlsZQ==
+    </pre>
+   </details>
+   
+**[Official Site](https://imazing.com/)
 
 
 # WINDOWS CUSTOMIZATION
