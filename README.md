@@ -295,7 +295,7 @@ Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the gam
 
 - <details><summary>Download</summary>
     <pre>
-    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzd2bWtqamVqZDFuNWZzZC9Xb25kZXJkcmFmdC43ei9maWxl
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2h2eDQ1ZTE1NXZ5Z3ltai9Xb25kZXJkcmFmdF8xLjAuMy40Ljd6L2ZpbGU=
     </pre>
    </details>
 
