@@ -79,6 +79,7 @@
     + [REVO UNINSTALLER PRO](#revo-uninstaller-pro)
     + [DEFENDER CONTROL](#defender-control)
     + [IMAZING](#imazing)
+    + [DEEP FREEZE](#deep-freeze)
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
     + [YOUTUBE VANCED](#youtube-vanced)
@@ -796,7 +797,20 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
     </pre>
    </details>
    
-**[Official Site](https://imazing.com/)
+**[Official Site](https://imazing.com/)**
+
+* * *
+### DEEP FREEZE
+
+**Version:** 8.60.020.5592
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzY0YzVpeGp5ZHc2YWtyMC9EZWVwX0ZyZWV6ZV9TdGFuZGFyZF92OC42MC4wMjAuNTU5Mi43ei9maWxl
+    </pre>
+   </details>
+   
+**[Official Site](https://www.faronics.com/products/deep-freeze)**
 
 
 # WINDOWS CUSTOMIZATION
