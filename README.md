@@ -96,6 +96,7 @@
     + [ANTIDOTE](#antidote)
 - [PROGRAMMING](#programming)
     + [JETBRAINS RIDER](#jetbrains-rider)
+    + [NI LABVIEW](#ni-labview)
 
 * * *
 
@@ -1085,3 +1086,16 @@ Android app for manga readers. Includes a download feature as well.
    </details>
 
 **[Official Site](https://www.jetbrains.com/rider/)**
+
+* * *
+### NI LABVIEW
+
+**Version:** 20.0.1
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2FidXVjdDcwcG85MXdqdC9OSV9MYWJWaWV3XzIwMjBfU1AxX3YyMC4wLjEuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS8wcjd5ODlkNGowMmhpMTcvTklfTGFiVmlld18yMDIwX1NQMV92MjAuMC4xLjd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvYXhxNHNhYTE2M2tmcGZ0L05JX0xhYlZpZXdfMjAyMF9TUDFfdjIwLjAuMS43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2k3Y3l2YjFzNzFjeDU5Zy9OSV9MYWJWaWV3XzIwMjBfU1AxX3YyMC4wLjEuN3ouMDA0L2ZpbGU=
+    </pre>
+   </details>
+
+**[Official Site](https://www.ni.com/en-us/shop/labview.html)**
