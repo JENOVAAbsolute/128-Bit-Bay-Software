@@ -63,6 +63,7 @@
     + [TOON BOOM HARMONY](#toon-boom-harmony)
     + [ZBRUSH](#ZBRUSH)
     + [RHINO 3D](#rhino-3d)
+    + [EMBRILLIANCE ESSENTIALS](#embrilliance-essentials)
 - [FILE AND DOWNLOAD MANAGERS](#file-and-download-managers)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
@@ -758,6 +759,19 @@ Comparable to Handbrake, but you are given much more control over encoding quali
    </details>
 
 **[Official Website](https://www.rhino3d.com/)**
+
+* * *
+### EMBRILLIANCE ESSENTIALS
+
+**Version:** 1.169
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzQ2cWRpdTVremFheW5vdS9FbWJyaWxsaWFuY2VfRXNzZW50aWFsc192MS4xNjkuN3ovZmlsZQ==
+    </pre>
+   </details>
+   
+**[Official Website](https://embrilliance.com/product/essentials)**
 
 
 # FILE AND DOWNLOAD MANAGERS
