@@ -846,32 +846,6 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
 
 **[Official Site](https://www.ghisler.com/)**
 
-* * *
-### IMAZING
-
-**Version:** 2.12.3
-
-- <details><summary>Download</summary>
-    <pre>
-    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNqamNlN3o3bXE5M2ZyMC9pTWF6aW5nXzIuMTIuMy5yYXIvZmlsZQ==
-    </pre>
-   </details>
-   
-**[Official Site](https://imazing.com/)**
-
-* * *
-### DEEP FREEZE
-
-**Version:** 8.60.020.5592
-
-- <details><summary>Download</summary>
-    <pre>
-    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzY0YzVpeGp5ZHc2YWtyMC9EZWVwX0ZyZWV6ZV9TdGFuZGFyZF92OC42MC4wMjAuNTU5Mi43ei9maWxl
-    </pre>
-   </details>
-   
-**[Official Site](https://www.faronics.com/products/deep-freeze)**
-
 
 # WINDOWS CUSTOMIZATION
 
@@ -961,6 +935,32 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
 ### DEFENDER CONTROL
 
 **[Download](https://www.sordum.org/9480/defender-control-v1-9/)**
+
+* * *
+### IMAZING
+
+**Version:** 2.12.3
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNqamNlN3o3bXE5M2ZyMC9pTWF6aW5nXzIuMTIuMy5yYXIvZmlsZQ==
+    </pre>
+   </details>
+   
+**[Official Site](https://imazing.com/)**
+
+* * *
+### DEEP FREEZE
+
+**Version:** 8.60.020.5592
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzY0YzVpeGp5ZHc2YWtyMC9EZWVwX0ZyZWV6ZV9TdGFuZGFyZF92OC42MC4wMjAuNTU5Mi43ei9maWxl
+    </pre>
+   </details>
+   
+**[Official Site](https://www.faronics.com/products/deep-freeze)**
 
 
 # MEDIA
