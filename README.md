@@ -965,7 +965,15 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
 * * *
 ### BUSYBOX
 
+**Version:** 70
 
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzloaHQwZHAweTVzMjRpcS9CdXN5Qm94X1Byb192NzAuN3ovZmlsZQ==
+    </pre>
+   </details>
+   
+**[Official Site](https://busybox.net/)**
 
 
 # MEDIA
