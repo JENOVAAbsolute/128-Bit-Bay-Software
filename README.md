@@ -71,7 +71,6 @@
     + [FLUD](#flud)
     + [DEEMIX](#deemix)
     + [AUDIALS ONE](#audials-one)
-    + [TOTAL COMMANDER](#total-commander)
 - [WINDOWS CUSTOMIZATION](#windows-customization)
     + [WALLPAPER ENGINE](#wallpaper-engine)
     + [DISPLAYFUSION](#displayfusion)
@@ -83,6 +82,7 @@
     + [DEFENDER CONTROL](#defender-control)
     + [IMAZING](#imazing)
     + [DEEP FREEZE](#deep-freeze)
+    + [TOTAL COMMANDER](#total-commander)
     + [BUSYBOX](#busybox)
 - [MEDIA](#media)
     + [JELLYFIN](#jellyfin)
@@ -833,19 +833,6 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
 
 **[Official Site](https://audials.com/en/audials-one)**
 
-* * *
-### TOTAL COMMANDER
-
-**Version:** 10.00 Extended 22.2
-
-- <details><summary>Download</summary>
-    <pre>
-    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2t5N3I4bGhhcWh2d2Nzai9Ub3RhbF9Db21tYW5kZXJfMTAuMDBfRXh0ZW5kZWRfMjIuMi43ei9maWxl
-    </pre>
-   </details>
-
-**[Official Site](https://www.ghisler.com/)**
-
 
 # WINDOWS CUSTOMIZATION
 
@@ -961,6 +948,24 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
    </details>
    
 **[Official Site](https://www.faronics.com/products/deep-freeze)**
+
+* * *
+### TOTAL COMMANDER
+
+**Version:** 10.00 Extended 22.2
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2t5N3I4bGhhcWh2d2Nzai9Ub3RhbF9Db21tYW5kZXJfMTAuMDBfRXh0ZW5kZWRfMjIuMi43ei9maWxl
+    </pre>
+   </details>
+
+**[Official Site](https://www.ghisler.com/)**
+
+* * *
+### BUSYBOX
+
+
 
 
 # MEDIA
