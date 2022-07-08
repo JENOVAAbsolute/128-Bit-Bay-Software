@@ -348,7 +348,7 @@ Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the gam
     </pre>
    </details>
 
-**[Official Site](https://www.wonderdraft.net/)**
+**[Official Website](https://www.wonderdraft.net/)**
 
 * * *
 ### LAUNCHBOX PREMIUM
@@ -359,7 +359,7 @@ Includes the 1.1 patch and the 1.5 launcher. Everything you need to play the gam
     </pre>
    </details>
 
-**[Official Site](https://www.launchbox-app.com/)**
+**[Official Website](https://www.launchbox-app.com/)**
 
 **Installation steps:**
 1. Run “LaunchBox-11.10-Setup.exe”
@@ -400,7 +400,7 @@ Easy to use tool to force unlock Steam Achievements.
     </pre>
    </details>
 
-**[Official Site](https://www.rewasd.com/)**
+**[Official Website](https://www.rewasd.com/)**
 
 * * *
 ### WINDOWED BORDERLESS GAMING
@@ -435,7 +435,7 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
     </pre>
    </details>
 
-**[Official Site](https://www.ninjaripper.com/)**
+**[Official Website](https://www.ninjaripper.com/)**
 
 * * *
 ### MHGU SAVE EDITOR
@@ -460,7 +460,7 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
     </pre>
    </details>
 
-**[Official Site](https://www.topazlabs.com/gigapixel-ai)**
+**[Official Website](https://www.topazlabs.com/gigapixel-ai)**
 
 **Installation steps:**
 1. Extract the archive
@@ -481,7 +481,7 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
     </pre>
    </details>
 
-**[Official Site](https://www.topazlabs.com/video-enhance-ai)**
+**[Official Website](https://www.topazlabs.com/video-enhance-ai)**
 
 **Installation steps:**
 1. Extract the archive
@@ -502,7 +502,7 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
     </pre>
    </details>
 
-**[Official Site](https://www.blackmagicdesign.com/products/davinciresolve/studio)**
+**[Official Website](https://www.blackmagicdesign.com/products/davinciresolve/studio)**
 
 * * *
 ### VEGAS PRO
@@ -515,7 +515,7 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
     </pre>
    </details>
 
-**[Official Site](https://www.vegascreativesoftware.com/us/vegas-pro/)**
+**[Official Website](https://www.vegascreativesoftware.com/us/vegas-pro/)**
 
 * * *
 ### FILMORA X
@@ -528,7 +528,7 @@ To force PC games that do not have "Borderless Windowed" by default to use this 
     </pre>
    </details>
 
-**[Official Site](https://filmora.wondershare.com/)**
+**[Official Website](https://filmora.wondershare.com/)**
 
 * * *
 ### STAXRIP VIDEO ENCODER
@@ -548,7 +548,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
 
-**[Official Site](https://serato.com/dj/pro)**
+**[Official Website](https://serato.com/dj/pro)**
 
 * * *
 ### VOICEMOD PRO
@@ -561,7 +561,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
 
-**[Official Site](https://www.voicemod.net/)**
+**[Official Website](https://www.voicemod.net/)**
 
 **Installation steps:**
 1. Run “VoicemodSetup.exe”
@@ -581,7 +581,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
 
-**[Official Site](https://www.spectrasonics.net/products/keyscape/)**
+**[Official Website](https://www.spectrasonics.net/products/keyscape/)**
 
 * * *
 ### ABLETON LIVE SUITE
@@ -594,7 +594,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
 
-**[Official Site](https://www.ableton.com/en/live/)**
+**[Official Website](https://www.ableton.com/en/live/)**
 
 * * *
 ### FL STUDIO
@@ -607,7 +607,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
 
-**[Official Site](https://www.image-line.com/fl-studio/)**
+**[Official Website](https://www.image-line.com/fl-studio/)**
 
 
 # ARTS AND DESIGNS
@@ -620,7 +620,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
  
-**[Official Site](https://www.artrage.com/artrage-6/)**
+**[Official Website](https://www.artrage.com/artrage-6/)**
 
 **Installation steps:**
 1. Extract the downloaded file
@@ -643,7 +643,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
 
-**[Official Site](https://www.clipstudio.net/en/)**
+**[Official Website](https://www.clipstudio.net/en/)**
 
 * * *
 ### WONDERSHARE EDRAWMIND PRO
@@ -656,7 +656,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
 
-**[Official Site](https://www.edrawmind.com/)**
+**[Official Website](https://www.edrawmind.com/)**
 
 * * *
 ### SKETCHUP PRO
@@ -669,7 +669,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
 
-**[Official Site](https://www.sketchup.com/products/sketchup-pro)**
+**[Official Website](https://www.sketchup.com/products/sketchup-pro)**
 
 * * *
 ### AUTODESK 3DS MAX
@@ -682,7 +682,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
 
-**[Official Site](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription)**
+**[Official Website](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription)**
 
 * * *
 ### AUTODESK INFRAWORKS
@@ -695,7 +695,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
    
-**[Official Site](https://www.autodesk.com/products/infraworks/overview?term=1-YEAR&tab=subscription&plc=IW360P)**
+**[Official Website](https://www.autodesk.com/products/infraworks/overview?term=1-YEAR&tab=subscription&plc=IW360P)**
 
 * * *
 ### AUTODESK CIVIL 3D
@@ -708,7 +708,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
    
-**[Official Site](https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription)**
+**[Official Website](https://www.autodesk.com/products/civil-3d/overview?term=1-YEAR&tab=subscription)**
 
 * * *
 ### AUTODESK MAYA
@@ -721,7 +721,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
    
-   **[Official Site](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription)**
+   **[Official Website](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription)**
 
 * * *
 ### TOON BOOM HARMONY
@@ -801,7 +801,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
     </pre>
    </details>
 
-**[Official Site](https://www.internetdownloadmanager.com/)**
+**[Official Website](https://www.internetdownloadmanager.com/)**
 
 *Note: The IDM integration module should automatically install into your browsers. If it does not, then use the following link to install it manually. Also make sure it’s enabled in your browser extensions.*
 
@@ -812,7 +812,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
 
 **[Download](https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent_4.4.2_x64_setup.exe)**
 
-**[Official Site](https://www.qbittorrent.org/)**
+**[Official Website](https://www.qbittorrent.org/)**
 
 * * *
 ### BITLORD
@@ -845,7 +845,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
     </pre>
    </details>
 
-**[Official Site](https://audials.com/en/audials-one)**
+**[Official Website](https://audials.com/en/audials-one)**
 
 
 # WINDOWS CUSTOMIZATION
@@ -860,7 +860,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
     </pre>
    </details>
 
-**[Official Site](https://www.wallpaperengine.io/en)**
+**[Official Website](https://www.wallpaperengine.io/en)**
 
 **[Steam Page](https://store.steampowered.com/app/431960/Wallpaper_Engine/)**
 
@@ -875,7 +875,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
     </pre>
    </details>
 
-**[Official Site](https://www.displayfusion.com/)**
+**[Official Website](https://www.displayfusion.com/)**
 
 **Installation steps:**
 1.  Extract the archive
@@ -896,7 +896,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
     </pre>
    </details>
 
-**[Official Site](https://www.oo-software.com/en/products/oodefrag)**
+**[Official Website](https://www.oo-software.com/en/products/oodefrag)**
 
 **Installation steps:**
 1. Extract the archive
@@ -912,7 +912,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
     </pre>
    </details>
 
-**[Official Site](https://www.aida64.com/)**
+**[Official Website](https://www.aida64.com/)**
 
 * * *
 ### GEEK UNINSTALLER
@@ -924,7 +924,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
 * * *
 ### REVO UNINSTALLER PRO
 
-**[Official Site](https://www.revouninstaller.com/)**
+**[Official Website](https://www.revouninstaller.com/)**
 
 - <details><summary>Download</summary>
     <pre>
@@ -948,7 +948,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
     </pre>
    </details>
    
-**[Official Site](https://imazing.com/)**
+**[Official Website](https://imazing.com/)**
 
 * * *
 ### DEEP FREEZE
@@ -961,7 +961,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
     </pre>
    </details>
    
-**[Official Site](https://www.faronics.com/products/deep-freeze)**
+**[Official Website](https://www.faronics.com/products/deep-freeze)**
 
 * * *
 ### TOTAL COMMANDER
@@ -974,7 +974,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
     </pre>
    </details>
 
-**[Official Site](https://www.ghisler.com/)**
+**[Official Website](https://www.ghisler.com/)**
 
 * * *
 ### BUSYBOX
@@ -987,7 +987,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
     </pre>
    </details>
    
-**[Official Site](https://busybox.net/)**
+**[Official Website](https://busybox.net/)**
 
 
 # MEDIA
@@ -996,7 +996,7 @@ Downloads music from Deezer, A platform that provides higher bitrate than Spotif
 
 **[Download](https://jellyfin.org/downloads/)**
 
-**[Official Site](https://jellyfin.org/)**
+**[Official Website](https://jellyfin.org/)**
 
 **[Compatible Devices](https://jellyfin.org/clients/)**
 
@@ -1047,7 +1047,7 @@ Android app for manga readers. Includes a download feature as well.
     </pre>
    </details>
 
-**[Official Site](http://www.kutasoftware.com/ia1.html)**
+**[Official Website](http://www.kutasoftware.com/ia1.html)**
 
 * * *
 ### INFINITE ALGEBRA 2
@@ -1060,7 +1060,7 @@ Android app for manga readers. Includes a download feature as well.
     </pre>
    </details>
 
-**[Official Site](http://www.kutasoftware.com/ia2.html)**
+**[Official Website](http://www.kutasoftware.com/ia2.html)**
 
 * * *
 ### INFINITE PRECALCULUS
@@ -1073,7 +1073,7 @@ Android app for manga readers. Includes a download feature as well.
     </pre>
    </details>
 
-**[Official Site](http://www.kutasoftware.com/ipc.html)**
+**[Official Website](http://www.kutasoftware.com/ipc.html)**
 
 * * *
 ### INFINITE CALCULUS
@@ -1086,7 +1086,7 @@ Android app for manga readers. Includes a download feature as well.
     </pre>
    </details>
 
-**[Official Site](http://www.kutasoftware.com/ica.html)**
+**[Official Website](http://www.kutasoftware.com/ica.html)**
 
 * * *
 ### INFINITE GEOMETRY
@@ -1099,7 +1099,7 @@ Android app for manga readers. Includes a download feature as well.
     </pre>
    </details>
 
-**[Official Site](https://www.kutasoftware.com/ige.html)**
+**[Official Website](https://www.kutasoftware.com/ige.html)**
 
 * * *
 ### ANTIDOTE
@@ -1112,7 +1112,7 @@ Android app for manga readers. Includes a download feature as well.
     </pre>
    </details>
 
-**[Official Site](https://www.antidote.info/en/)**
+**[Official Website](https://www.antidote.info/en/)**
 
 
 # PROGRAMMING
@@ -1127,7 +1127,7 @@ Android app for manga readers. Includes a download feature as well.
     </pre>
    </details>
 
-**[Official Site](https://www.jetbrains.com/rider/)**
+**[Official Website](https://www.jetbrains.com/rider/)**
 
 * * *
 ### NI LABVIEW
@@ -1140,4 +1140,4 @@ Android app for manga readers. Includes a download feature as well.
     </pre>
    </details>
 
-**[Official Site](https://www.ni.com/en-us/shop/labview.html)**
+**[Official Website](https://www.ni.com/en-us/shop/labview.html)**
