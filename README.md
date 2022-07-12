@@ -51,6 +51,7 @@
     + [SPECTRASONICS KEYSCAPE](#spectrasonics-keyscape)
     + [ABLETON LIVE SUITE](#ableton-live-suite)
     + [FL STUDIO](#fl-studio)
+    + [SYNTHESIA](#synthesia)
 - [ARTS AND DESIGNS](#arts-and-designs)
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
@@ -608,6 +609,19 @@ Comparable to Handbrake, but you are given much more control over encoding quali
    </details>
 
 **[Official Website](https://www.image-line.com/fl-studio/)**
+
+* * *
+### SYNTHESIA
+
+**Version:** 10.8.5676
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2FncWd2NTBnbWZod2VpZi9TeW50aGVzaWFfMTAuOC41Njc2Ljd6L2ZpbGU=
+    </pre>
+   </details>
+   
+**[Official Website](https://synthesiagame.com/)**
 
 
 # ARTS AND DESIGNS
