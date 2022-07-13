@@ -631,7 +631,7 @@ Comparable to Handbrake, but you are given much more control over encoding quali
 
 - <details><summary>Download</summary>
     <pre>
-    
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3JsNmI5bTh1YnRuYzR1dy9NdXNpY19NYWtlcl9QcmVtaXVtXzI0LjEuNS4xMTkuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS8ydTNpemRsZWcwZThicHgvTXVzaWNfTWFrZXJfUHJlbWl1bV8yNC4xLjUuMTE5Ljd6LjAwMi9maWxl
     </pre>
    </details>
    
