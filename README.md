@@ -52,6 +52,7 @@
     + [ABLETON LIVE SUITE](#ableton-live-suite)
     + [FL STUDIO](#fl-studio)
     + [SYNTHESIA](#synthesia)
+    + [MUSIC MAKER PREMIUM](#music-maker-premium)
 - [ARTS AND DESIGNS](#arts-and-designs)
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
@@ -622,6 +623,19 @@ Comparable to Handbrake, but you are given much more control over encoding quali
    </details>
    
 **[Official Website](https://synthesiagame.com/)**
+
+* * *
+### MUSIC MAKER PREMIUM
+
+**Version:** 24.1.5.119
+
+- <details><summary>Download</summary>
+    <pre>
+    
+    </pre>
+   </details>
+   
+**[Official Website](https://www.magix.com/us/music-editing/music-maker/#c1633133)**
 
 
 # ARTS AND DESIGNS
