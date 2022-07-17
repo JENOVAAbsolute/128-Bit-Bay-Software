@@ -53,6 +53,7 @@
     + [FL STUDIO](#fl-studio)
     + [SYNTHESIA](#synthesia)
     + [MUSIC MAKER PREMIUM](#music-maker-premium)
+    + [VOICEATTACK](#voiceattack)
 - [ARTS AND DESIGNS](#arts-and-designs)
     + [ARTRAGE 6](#artrage-6)
     + [CLIP STUDIO PAINT](#clip-studio-paint)
@@ -636,6 +637,19 @@ Comparable to Handbrake, but you are given much more control over encoding quali
    </details>
    
 **[Official Website](https://www.magix.com/us/music-editing/music-maker/#c1633133)**
+
+* * *
+### VOICEATTACK
+
+**Version:** 1.8.9
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2hvbnVqczA3N2hrYjh5Zy9Wb2ljZUF0dGFja192MS44LjkuN3ovZmlsZQ==
+    </pre>
+   </details>
+   
+**[Official Website](https://voiceattack.com/)**
 
 
 # ARTS AND DESIGNS
