@@ -23,6 +23,7 @@
     + [ADOBE PHOTOSHOP LIGHTROOM](#adobe-photoshop-lightroom)
     + [ADOBE SUBSTANCE 3D DESIGNER](#adobe-substance-3d-designer)
     + [ADOBE SUBSTANCE 3D PAINTER](#adobe-substance-3d-painter)
+    + [ADOBE ANIMATE](#adobe-animate)
 - [GAMING](#gaming)
     + [POKEMON URANIUM](#pokemon-uranium)
     + [SUPER MARIO 64 PLUS](#super-mario-64-plus)
@@ -282,6 +283,17 @@
 - <details><summary>Download</summary>
     <pre>
     aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3Y1dG5oOHFjZjNydW95dy9BZG9iZV9TdWJzdGFuY2VfM0RfUGFpbnRlcl92OC4xLjAuN3ouMDAxL2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9tdDIzbXBsZjM3ZDVyb3UvQWRvYmVfU3Vic3RhbmNlXzNEX1BhaW50ZXJfdjguMS4wLjd6LjAwMi9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvdDlsOHZwendwanUwbGJkL0Fkb2JlX1N1YnN0YW5jZV8zRF9QYWludGVyX3Y4LjEuMC43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzhrbjgxZ2xnOTFvcGc3Zy9BZG9iZV9TdWJzdGFuY2VfM0RfUGFpbnRlcl92OC4xLjAuN3ouMDA0L2ZpbGUKCmh0dHBzOi8vd3d3Lm1lZGlhZmlyZS5jb20vZmlsZS9sOWR6bjRrNm9ieTk3bGcvQWRvYmVfU3Vic3RhbmNlXzNEX1BhaW50ZXJfdjguMS4wLjd6LjAwNS9maWxlCgpodHRwczovL3d3dy5tZWRpYWZpcmUuY29tL2ZpbGUvMWhvNTMyM2V3MG83YzE2L0Fkb2JlX1N1YnN0YW5jZV8zRF9QYWludGVyX3Y4LjEuMC43ei4wMDYvZmlsZQ==
+    </pre>
+   </details>
+   
+* * *
+### ADOBE ANIMATE
+
+**Version:** 22.0.7.214
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzJrb2ppdGprcWZlYzJwdy9BZG9iZV9BbmltYXRlXzIwMjJfMjIuMC43LjIxNC43ei4wMDEvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzNsM3BsNnMzM3RtZGZkbC9BZG9iZV9BbmltYXRlXzIwMjJfMjIuMC43LjIxNC43ei4wMDIvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL2U1ZnlnYXhibHdrZW8zcy9BZG9iZV9BbmltYXRlXzIwMjJfMjIuMC43LjIxNC43ei4wMDMvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL29taG5udm9obmx2ZzM2ay9BZG9iZV9BbmltYXRlXzIwMjJfMjIuMC43LjIxNC43ei4wMDQvZmlsZQoKaHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzh4dm45eTh2cG13Ynh6ai9BZG9iZV9BbmltYXRlXzIwMjJfMjIuMC43LjIxNC43ei4wMDUvZmlsZQ==
     </pre>
    </details>
 
