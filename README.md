@@ -69,6 +69,7 @@
     + [RHINO 3D](#rhino-3d)
     + [EMBRILLIANCE ESSENTIALS](#embrilliance-essentials)
     + [SOLIDWORKS](#solidworks)
+    + [EPIC PEN](#epic-pen)
 - [FILE AND DOWNLOAD MANAGERS](#file-and-download-managers)
     + [INTERNET DOWNLOAD MANAGER](#internet-download-manager)
     + [QBITTORRENT CLIENT](#qbittorrent-client)
@@ -842,6 +843,19 @@ Comparable to Handbrake, but you are given much more control over encoding quali
    
 **[Official Website](https://www.solidworks.com/)**
 
+* * *
+### EPIC PEN
+
+**Version:** 3.11.19
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3c2cDV1NG55bmN1dHpuMi9FcGljX1Blbl9Qcm9fMy4xMS4xOS43ei9maWxl
+    </pre>
+   </details>
+   
+**[Official Website](https://epicpen.com/)**
+
 
 # FILE AND DOWNLOAD MANAGERS
 
@@ -1167,6 +1181,19 @@ Android app for manga readers. Includes a download feature as well.
    </details>
 
 **[Official Website](https://www.antidote.info/en/)**
+
+* * *
+### ACTIVINSPIRE
+
+**Version:** 2.9.7
+
+- <details><summary>Download</summary>
+    <pre>
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3E4YWdjZWxwdGV0MXU4dS9BY3Rpdkluc3BpcmVfUHJvXzIuOS43ei9maWxl
+    </pre>
+   </details>
+   
+**[Official Website](https://www.prometheanworld.com/products/software/activinspire/)**
 
 
 # PROGRAMMING
