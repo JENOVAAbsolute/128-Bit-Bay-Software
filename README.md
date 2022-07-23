@@ -102,6 +102,7 @@
     + [INFINITE CALCULUS](#infinite-calculus)
     + [INFINITE GEOMETRY](#infinite-geometry)
     + [ANTIDOTE](#antidote)
+    + [ACTIVINSPIRE](#activeinspire)
 - [PROGRAMMING](#programming)
     + [JETBRAINS RIDER](#jetbrains-rider)
     + [NI LABVIEW](#ni-labview)
