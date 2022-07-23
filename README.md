@@ -845,13 +845,13 @@ Comparable to Handbrake, but you are given much more control over encoding quali
 **[Official Website](https://www.solidworks.com/)**
 
 * * *
-### EPIC PEN
+### EPIC PEN PRO
 
 **Version:** 3.11.19
 
 - <details><summary>Download</summary>
     <pre>
-    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlL3c2cDV1NG55bmN1dHpuMi9FcGljX1Blbl9Qcm9fMy4xMS4xOS43ei9maWxl
+    aHR0cHM6Ly93d3cubWVkaWFmaXJlLmNvbS9maWxlLzVkNHA5cWwzYXJpMGNnbC9FcGljX1Blbl9Qcm9fMy45LjExNy43ei9maWxl
     </pre>
    </details>
    
